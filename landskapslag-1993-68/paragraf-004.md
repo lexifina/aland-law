@@ -1,0 +1,3 @@
+# 4 §
+
+[Landskapsstyrelsen] har rätt att avtala med kommunerna om att [landskapsstyrelsen] efterskänker de lån av landskapets medel som kommunerna har för anläggningsprojekt som rör Ålands centralsjukhus sådana lånen är vid hälso- och sjukvårdslagens ikraftträdande. Ingås ett sådant avtal skall de kommuner, som lyft lån i mindre omfattning än deras andel av anläggningsprojektet skulle förutsätta eller som inte lyft lån för projektet, kompenseras härför med landskapsmedel. [Landskapsstyrelsen] får även avskriva landskapets fordringar på kommunerna för obetalda kostnadsandelar för anläggningsprojekt som rör centralsjukhuset.

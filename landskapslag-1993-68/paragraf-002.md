@@ -1,0 +1,9 @@
+# 2 §
+
+När hälso- och sjukvårdslagen träder i kraft skall respektive förbundsfullmäktige upplösa
+1) det kommunalförbund, benämnt Ålands folkhälsoförbund, som funnits på grund av 4 § landskapslagen om folkhälsoarbetet samt
+2) det kommunalförbund, benämnt Ålands vårdförbund, som funnits på grund av 4 § landskapslagen om tillämpning av vissa riksförfattningar rörande mentalvården.
+
+[Landskapsstyrelsen] har rätt att avtala med kommunerna om att landskapet övertar Ålands folkhälsoförbunds och Ålands vårdförbunds tillgångar och skulder sådana de är vid hälso- och sjukvårdslagens ikraftträdande. I avtalet kan [landskapsstyrelsen] överenskomma med kommunerna om att landskapet samtidigt övertar ansvaret för de skulder som kommunerna har för anläggningsprojekt som rör folkhälsoförbundet och vårdförbundet.
+
+Bestämmelserna i 2 mom. gäller inte Ålands vårdförbunds samt delägarkommunernas tillgångar och skulder i vårdförbundet till den del tillgångarna och skulderna hänför sig till den verksamhet som vårdförbundet upprätthållit enligt landskapslagen (1978:48) om tilllämpning av lagen angående specialomsorger om utvecklingsstörda. Delägarkommunernas skulder till vårdförbundet kvarblir hos kommunerna till den del de härrör från verksamhet som avses i detta moment. I fråga om vårdförbundets tillgångar och skulder som härrör från verksamhet som avses i detta moment gäller vad därom i vårdförbundets grundstadga är föreskrivet om fördelningen av tillgångar och skulder när kommunalförbundet upplöses, om inte kommunerna i det i 2 mom. avsedda avtalet överenskommer om att tillgångarna och skulderna skall överföras till det kommunalförbund som skall finnas för att efter hälso- och sjukvårdslagens ikraftträdande fortsätta den verksamhet som avses i landskapslagen om tillämpning av lagen angående specialomsorger om utvecklingsstörda.

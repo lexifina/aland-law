@@ -1,0 +1,5 @@
+# 3 §
+
+Kan [landskapsstyrelsen] och kommunerna inte enas om att landskapet enligt bestämmelserna i 2 § 2 mom. övertar de där avsedda tillgångarna och skulderna som härrör från Ålands folkhälsoförbund och Ålands vårdförbund, är kommunerna skyldiga att till landskapet erlägga de proportionella andelar av värdet på de inrättningar, för vilka landskapsandel beviljats för anläggningskostnaderna, som kvarblir i kommunernas ägo. Värdet på en inrättning bestäms genom att anskaffningskostnaderna för egendomen uppskattas enligt prisnivån vid tidpunkten för hälso- och sjukvårdslagens ikraftträdande, från vilket skälig värdeminskning avdras. Har landskapsandel inte erlagts för viss del av anskaffningskostnaderna för egendomen beaktas sådan del av egendomen inte vid värderingen.
+
+Uppnås inte enighet om värdet, fastställs det av en kommission till vilken [landskapsstyrelsen] förordnar en medlem och kommunerna en medlem, vilka två sedan gemensamt väljer en tredje medlem som tillika är ordförande. Uppnås inte enighet om ordföranden, utses denne av [landskapsstyrelsen].
