@@ -6,3 +6,5 @@ Kapitel: 2 kap. Allmänna bestämmelser om Ålands flagga
 Flaggan är rektangulär, dess höjd är 17 enheter och längd 26 enheter. De mellanblå fältens höjd är 6 enheter, de inre fältens längd 8 enheter och de yttre fältens längd 13 enheter. Det gula korsets bredd är 5 enheter varvid den guldgula korskantens bredd är 1,5 enhet. Det röda korsets bredd är 2 enheter.
 
 Flaggan får inte förses med märken, bokstäver eller andra tecken.
+
+[Bild: https://www.regeringen.ax/sites/default/files/law/updated/images/alands-flagga.png]
