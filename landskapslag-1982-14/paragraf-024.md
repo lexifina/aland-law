@@ -1,0 +1,10 @@
+# 24 §
+Rubrik: Överlåtelse och användning av bostadsaktiebolagshus, bostadsandelslagshus samt fristående värmeanläggning och annan servicebyggnad
+
+Bostadsandelslagshus, bostadsaktiebolagshus eller fristående värmeanläggning eller annan servicebyggnad för vars uppförande, utvidgande eller grundreparation beviljats bostadslån får, om inte lånet återbetalats i sin helhet jämte ersättning för nyttan av lånets låga ränta såsom i 17 § 3 mom. är sagt, överlåtas endast till kommunen eller av kommunen utsedd eller av [landskapsstyrelsen] godkänd köpare till ett pris som uträknats enligt av [landskapsstyrelsen] fastställda grunder och endast om de i 4 § avsedda förutsättningarna är för handen. Härvid kan lånet överföras på förvärvaren.
+
+Om överlåtelse inte sker i enlighet med 1 mom. eller om bostadsandelslagshus, därtill hörande bostadslägenhet eller bostadsaktiebolagshus varaktigt börjar användas för annat än ursprungligen avsett ändamål, kan lånet helt eller delvis uppsägas till omedelbar återbetalning. Dessutom kan överlåtaren eller, då fråga är om användning av hus eller bostadslägenhet i bostadsandelslagshus för annat än ursprungligen avsett ändamål, ägaren av [landskapsstyrelsen] åläggas att till landskapet erlägga ersättning för nyttan av lånets låga ränta såsom i 17 § 3 mom. är sagt.
+
+Vid byte av ägare kan lånet helt eller delvis uppsägas till omedelbar återbetalning, om inte annat följer av 1 mom. och om det inte med beaktande av bestämmelserna i 4 § bör anses ändamålsenligt att överföra lånet på den nya ägaren. Vid uppsägning av lån kan [landskapsstyrelsen] dessutom besluta att nyttan av den låga räntan för det uppsagda lånet skall ersättas såsom i 17 § 3 mom. är sagt.
+
+I bostadsandelslagshus som avses i 1 mom. får till hyresgäst antagas endast sådan person som kommun godkänner och vars antagande är förenligt med de av [land¬skapsstyrelsen] med stöd av 4 § utfärdade anvisningarna. Kommunen kan dock enligt de grunder [landskapsstyrelsen] fastställer bevilja tillstånd att använda här avsedd bostad tillfälligt även för annat ändamål och tillsvidare som bostad för personal som är nödvändig för husets underhåll och skötsel.

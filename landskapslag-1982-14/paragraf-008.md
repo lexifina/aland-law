@@ -1,0 +1,14 @@
+# 8 §
+Rubrik: Säkerhet för lån
+
+Till säkerhet för återbetalningen av bostadslån, lån för byggnadstiden och lån som avses i 16 § samt för fullgörandet av övriga därav föranledda förpliktelser skall inteckning anskaffas, aktier som medför rätt att besitta bostadslägenhet pantsättas eller rätt till efterpantsättning av dem ges. Säkerhet för återbetalningen av ett bostadslån som enligt 5 § 1 mom. 1 punkten beviljats för byggande av hyreshus, ett bostadslån som beviljats enligt 5 § 1 mom. 2, 4, 8 eller 9 punkten och ett bostadslån som enligt 5 § 1 mom. 12 punkten beviljats för förvärv av hyreshus krävs inte för den del av lånekapitalet som motsvarar de räntor som med stöd av 12a § 1 mom. skall fogas till det ursprungliga lånekapitalet. Kommun och kommunalförbund behöver inte ställa säkerhet.
+
+Beloppet av inteckningslån med bättre förmånsrätt än bostadslån, lån för byggnadstiden och lån som avses i 16 § får tillsammans med dessa uppgå till sammanlagt högst 95 procent av säkerhetens värde. Utgörs säkerheten av aktier eller av rätt till efterpantsättning av aktier, får det sammanlagda beloppet av de mot aktierna beviljade lånen och lägenhetens beräknade andel av bolagets totalupplåning uppgå till högst 95 procent av lägenhetens beräknade andel av byggnadens godkända anskaffningsvärde.
+
+Då bostadslån beviljas en fysisk person för egen bostad, kan till säkerhet för återbetalningen av ett sådant lån i en penninginrättning de aktier som medför rätt att besitta bostadslägenheten pantsättas eller en inteckning med bättre förmånsrätt än bostadslånet fastställas. Kan inteckning eller panträtt i aktier inte erhållas som säkerhet för återbetalningen av bostadslån eller i 16 § avsett lån som beviljats för uppförande, utvidgande eller grundreparation av egnahemshus eller för förvärv av aktier som medför rätt att besitta bostadslägenhet, kan lånet beviljas tillfälligt även mot annan säkerhet som långivaren anser tillräcklig.
+
+Utan hinder av vad i 1 mom. är stadgat kan annan säkerhet som långivaren anser tillräcklig godkännas som säkerhet för återbetalningen av bostadslån och lån för byggnadstiden som beviljats för hyres-, bostadsandelslags- eller bostadsaktiebolagshus eller för fristående värmeanläggning eller annan servicebyggnad samt för uppfyllandet av andra förpliktelser som följer av sådana lån.
+
+För tryggande av landskapets intressen kan för lånefordran som avses i denna lag pantsatt eller utmätt egendom vilken säljs på auktion inköpas av landskapet. [Landskapsstyrelsen] har rätt att sälja egendom som på här avsett sätt kommit i landskapets ägo.
+
+Då lån, som beviljats för uppförande, utvidgning eller grundreparation av hyreshus och för vilket såsom säkerhet har godkänts inteckning med bättre förmånsrätt än bostadslån, inte kan indrivas vid auktion som förrättas till följd av konkurs eller utmätning, svarar landskapet för den obetalda delen av lånet samt för räntor, dröjsmålsränta och indrivningskostnader.

@@ -1,0 +1,4 @@
+# 18 §
+Rubrik: Överlåtelse och användning av egnahemshus och aktier som berättigar till innehav av lägenhet
+
+Vid överlåtelse av aktie till kommunen eller till i 17 § 1 mom. nämnd person skall priset på aktien fastställas till samma storlek som bolagsandelen. Därvid skall den av bolaget ägda fastigheten värderas med beaktande av sådana förändringar rörande anskaffningskostnaderna som inträffat efter det att bolagets byggnad eller byggnadsgrupp blivit färdig, beräknade enligt index för byggnadskostnaderna, samt skäliga värdeminskningar. Till bolagsandelens värde skall läggas skälig ersättning för förbättringar i lägenheten som aktieägaren utfört på egen bekostnad efter tiden för inflyttningen. Bolagets styrelse skall till kommunen lämna de uppgifter som är nödvändiga för fastställande av överlåtelsepriset. Överlåtelsepriset för egnahemshus fastställs med iakttagande i tillämpliga delar av vad ovan är föreskrivet om bolags fastighet.
