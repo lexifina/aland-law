@@ -1,0 +1,3 @@
+# 16 §
+
+Utan hinder av vad i 14 § är bestämt får ägare, innan den tid för vilken lånet beviljats utlöpt, överlåta byggnaden eller aktien till annan än i sagda paragraf avsedd förvärvare om ägaren i sin helhet återbetalt bostadsförbättringslånet för byggnaden eller aktien och till landskapet dessutom erlagt ersättning för nyttan av lånets låga ränta såsom i 22 § 1 mom. är sagt. Ägare av ovan nämnd egendom som önskar varaktigt använda egendomen till annat än vid beviljandet av lån avsett ändamål skall inhämta kommunens tillstånd härför om inte det berörda lånet i sin helhet återbetalts samt dessutom till landskapet erlagts ersättning för lånets låga ränta på sätt som i 22 § 1 mom. är sagt.
