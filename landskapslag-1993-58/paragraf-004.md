@@ -1,0 +1,3 @@
+# 4 § Underskottsgottgörelse
+
+Underskottsgottgörelse som avses i 131 § inkomstskattelagen skall dras av från landskapsskatten enligt denna paragraf om en del av underskottsgottgörelsen skall dras av från kommunalskatten enligt 133 § nämnda lag. Gottgörelsen skall i så fall efter att avdrag enligt 132 § nämnda lag har gjorts fördelas mellan respektive skatter som uppräknas i 133 § nämnda lag i förhållande till dessas belopp, dock så att landskapsskattens och kommunalskattens belopp adderas när den del av underskottsgottgörelsen som skall avdras från kommunalskatten enligt 133 § nämnda lag räknas ut. Den del av gottgörelsen som skall avdras från kommunalskatten enligt 133 § nämnda lag fördelas mellan landskapsskatten och kommunalskatten i förhållande till dessas belopp.
