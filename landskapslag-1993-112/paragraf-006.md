@@ -1,0 +1,3 @@
+# 6 §
+
+Denna lag träder i kraft den 1 januari 1994.
