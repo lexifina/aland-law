@@ -1,0 +1,1 @@
+Landskapsförordning (2005:51) om tillämpning i landskapet Åland av statsrådets förordning om bullerutredningar och handlingsplaner för bullerbekämpning som Europeiska gemenskapen förutsätter (upphävd)
