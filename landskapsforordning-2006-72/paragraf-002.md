@@ -1,0 +1,3 @@
+# 2 §
+
+Förlängning av maximitiden för studiestöd i fall som avses i 5 § 2 mom. landskapslag (2006:71) om studiestöd söks hos arbetsmarknads- och studieservicemyndigheten. Till ansökan skall fogas ett läkarintyg eller en annan tillräcklig utredning om att det finns förutsättningar för förlängning. I fråga om omfattningen av de återstående studierna skall lämnas in en utredning, som bekräftats av fakulteten, avdelningen eller den institution som ger undervisningen, och en studieplan. När det gäller ett pågående slutarbete skall studeranden visa ett utlåtande av handledaren om i vilket skede arbetet är och om den arbetsinsats som ytterligare krävs.

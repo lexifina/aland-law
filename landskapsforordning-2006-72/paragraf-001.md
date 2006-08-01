@@ -1,0 +1,5 @@
+# 1 §
+
+Den normala utbildningstiden för högre högskoleexamen eller ett utbildningsprogram vid högskola skall vara högst 55 månader. Beträffande extra krävande examen bestäms den tid som berättigar till stöd på basis av examens omfattning så att den tid som berättigar till stöd är högst nio månader per läsår som innefattas i examens omfattning, utökad med tio månader. För ett sådant halvt läsår som följer på de fulla läsåren är den tid som berättigar till stöd fem månader. Om en studerande har rätt att avlägga lägre och högre högskoleexamen, bestäms den tid som berättigar till stöd på det sätt som föreskrivs ovan utifrån dessa examinas sammanlagda omfattning. Den tid som berättigar till stöd i fråga om en högre högskoleexamen i vilken huvudämnet eller den ämnesgrupp till vilket huvudämnet hör är asiatiska och afrikanska språk och kulturer är dock högst 64 månader.
+
+I fråga om en examen som avläggs vid en utländsk högskola bestäms den tid som berättigar till studiestöd på de grunder som anges ovan och på basis av examens omfattning och läsårets längd.
