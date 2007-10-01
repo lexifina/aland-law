@@ -1,5 +1,6 @@
 # Bilaga 1
 
+[Bild: https://www.regeringen.ax/sites/default/files/law/updated/images/karta-inrevatten.png]
 Kartan anger de områden som enligt förordningens 3 § utgör inre vatten med lägre vattenomsättning. Områdena utgörs av helheterna A-G vilka avgränsas av land och koordinater (WGS 84) enligt följande.
 Område A
 N | E | N | E | N | E
