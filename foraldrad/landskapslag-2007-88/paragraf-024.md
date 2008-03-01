@@ -1,0 +1,8 @@
+# 24 § Villkor
+Kapitel: 7 kap. Överföring av personuppgifter till stater utanför Euro-peiska unionen eller Europeiska ekonomiska samarbetsområdet
+
+Personuppgifter får överföras till en stat som inte ingår i den Europeiska unionen eller är ansluten till det Europeiska ekonomiska samarbetsområdet, om denna stat kan säkerställa en tillräcklig skyddsnivå.
+
+Bedömningen av om skyddsnivån enligt 1 mom. är tillräcklig skall ske på grundval av alla de förhållanden som har samband med överföringen. Härvid skall särskilt beaktas uppgifternas art, behandlingens ändamål och varaktighet, ursprungslandet och det slutliga bestämmelselandet, de rättsregler och uppförandekodexar som gäller i landet i fråga samt de skyddsåtgärder som skall iakttas. Det skall även läggas vikt vid om staten tillträtt Europarådets konvention om skydd för enskilda vid automatisk databehandling av personuppgifter (FördrS 36/1992).
+
+Personuppgifter får överföras till en stat som inte ingår i den Europeiska unionen eller är ansluten till det Europeiska ekonomiska samarbetsområdet om och i den utsträckning Europeiska gemenskapernas kommission har konstaterat att staten har en tillräcklig nivå för skyddet av personuppgifter i enlighet med artikel 25.6 i Europaparlamentets och rådets direktiv 95/46/EG om skydd för enskilda personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter, nedan kallat EG-direktivet. Det är förbjudet att överföra uppgifter till en stat som inte ingår i den Europeiska unionen eller är ansluten till det Europeiska ekonomiska samarbetsområdet och som Europeiska gemenskapens kommission i enlighet med artikel 25.4 i EG-direktivet har konstaterat att inte uppfyller en tillräcklig nivå för skyddet av personuppgifter.
