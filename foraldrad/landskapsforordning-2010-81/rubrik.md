@@ -1,0 +1,1 @@
+Landskapsförordning (2010:81) om tillämpning i landskapet Åland av statsrådets förordning om underhåll av anläggningar som innehåller ämnen som bryter ned ozonskiktet samt vissa fluorerade växthusgaser (upphävd)
