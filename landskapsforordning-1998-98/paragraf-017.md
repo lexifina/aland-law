@@ -1,0 +1,6 @@
+# 17 § Bedövning av svin med koldioxid
+Kapitel: 3 kap. Bedövning eller avlivning av djur med undantag för pälsdjur
+
+Svin som skall slaktas får bedövas med koldioxid. Koldioxidkoncentrationen i den gas som används skall vara minst 70 volymprocent. Den kammare i vilken svinen kommer i kontakt med gasen och utrustningen som transporterar svinen igenom kammaren skall vara utformad och konstruerad så att svinen inte skadas, bröstkorgen inte pressas ihop och svinen kan stå upp tills de förlorar medvetandet. Det skall finnas tillräckligt med belysning i framforslingsmekanismen och kammaren för att svinen skall kunna se omgivningen eller andra svin. Kammaren skall vara utrustad med en gashaltmätare som mäter gaskoncentrationen där den är som störst och som avger en tydlig ljud- eller ljussignal om gaskoncentrationen sjunker under den nivå som krävs.
+
+Svinen skall placeras i fållor eller containrar där de kan se varandra och forslas in i kammaren inom 30 sekunder efter det att de kommit in i anläggningen. De skall forslas så snabbt som möjligt från ingången till den plats där gaskoncentrationen är som störst och vara i kontakt med gasen så länge att de med säkerhet förblir medvetslösa fram till dess att de avlivas.
