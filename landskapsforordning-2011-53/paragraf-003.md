@@ -1,0 +1,7 @@
+# 3 § Allmänna krav på uppfödningsavdelningen
+
+En uppfödningsavdelning för slaktkycklingar ska i fråga om material, konstruktion och andra egenskaper vara sådan att risken för att slaktkycklingarna ska skada sig är så liten som möjligt. De inre ytorna i uppfödningsavdelningar avsedda för slaktkycklingshållning samt redskap och anordningar för slaktkycklingshållning ska lätt kunna hållas rena och vid behov kunna desinfekteras. I ytbehandlingen får inte träskyddskemikalier, målarfärg eller andra medel användas på ett sådant sätt att de kan orsaka förgiftning hos slaktkycklingar.
+
+Golvet eller botten i uppfödningsavdelningen för slaktkycklingar ska vara av ett material som är lämpligt för slaktkycklingarna, samt sådant att slaktkycklingarna inte skadar sig på det. Golvet eller botten ska dessutom vara så beskaffat att det ger tillräckligt stöd för varje framåtpekande klo på slaktkycklingens fot.
+
+Uppfödningsavdelningar, redskap och anordningar ska hållas rena och i gott skick så att de inte skadar slaktkycklingarna eller äventyrar deras hälsa och välbefinnande. Slaktkycklingar som dött ska dagligen avlägsnas från uppfödningsavdelningen. Alla utrymmen, anordningar och redskap som slaktkycklingar kommer i beröring med ska alltid i sin helhet rengöras och desinfekteras när utrymmet töms och innan en ny grupp slaktkycklingar tas in. Efter tömningen ska allt använt strö avlägsnas och rent strö läggas ut. Gnagare och andra skadedjur ska bekämpas i uppfödningsavdelningen.
