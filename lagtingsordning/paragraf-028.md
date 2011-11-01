@@ -1,0 +1,26 @@
+# 28 § Hur ärenden tas upp till behandling i lagtinget
+Kapitel: 5 kap. Ärenden i lagtinget
+
+Ett ärende tas upp i lagtinget genom att landshövdingen i enlighet med självstyrelselagen överlämnar en framställning eller ett meddelande från republikens president.
+
+Landskapsregeringen överlämnar ärenden till lagtinget i form av
+1) ett lagförslag eller ett kompletterande lagförslag,
+2) ett budgetförslag,
+3) ett meddelande,
+4) en berättelse,
+5) en redogörelse eller
+6) en årsredovisning i enlighet med 25 § landskapslagen (1971:42) om Ålands landskapsregering.
+
+Lantrådet eller landshövdingen överlämnar ett ärende till lagtinget i form av ett meddelande.
+
+Talmanskonferensen överlämnar ärenden till lagtinget i form av ett lagförslag som rör lagtingets organisation eller arbete eller som rör Ålands delegation i Nordiska rådets organisation eller arbete.
+
+En lagtingsledamot initierar ett ärende i lagtinget genom att väcka en motion. Lagtingsledamöterna har rätt att väcka
+1) lagmotioner, som innehåller förslag om stiftande av en landskapslag eller laginitiativ till riksdagen,
+2) anslutningsmotioner som innehåller förslag om stiftande av en landskapslag eller laginitiativ till riksdagen och som väcks senast den fjärde dagen efter att ett lagförslag eller förslag till laginitiativ till riksdagen antecknats för kännedom,
+3) budgetmotioner, som innehåller förslag till anslag eller något annat beslut som ska tas upp i budgeten eller i en tilläggsbudget, framställning om extra anslag eller finansinitiativ till riksdagen samt
+4) åtgärdsmotioner, som innehåller förslag om att lagberedning ska inledas eller att någon annan åtgärd vidtas av riksdagen, landskapsregeringen, självstyrelsepolitiska nämnden eller talmanskonferensen.
+
+I arbetsordningen kan bestämmelser intas om andra sätt att uppta ärenden i lagtinget.
+
+Ett ärende återtas på samma sätt som det väckts om inte annat bestäms i denna lagtingsordning eller i lagtingets arbetsordning. I arbetsordningen finns närmare bestämmelser om lagtingets ärenden och behandlingen av dem. Bestämmelser om tidsgränser inom vilka motioner ska vara inlämnade kan utfärdas genom arbetsordningen.
