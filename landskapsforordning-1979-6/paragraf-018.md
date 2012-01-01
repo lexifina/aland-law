@@ -1,0 +1,7 @@
+# 18 §
+
+Då styrbar och linstyrd färja trafikerar längs styrlina och styrbar färja trafikerar lösgjord från styrlina i de i 5 § 1 och 2 mom. nämnda fallen skall förare tillse att fartyg som använder korsande farled får passera före färjan och föraren skall innan han sätter färjan i rörelse, såvitt möjligt förvissa sig om att fartyg inte nalkas i farleden på ett sådant sätt att fara för sammanstötning kan uppkomma. Maskindrivet fartyg med en längd under 7 meter, roddbåt eller därmed jämförbar farkost samt segelbåt med en längd under 7 meter skall hålla undan för färjan.
+
+När fartyg nalkas färjleden skall föraren av färja tillse att färjans lina eller linor icke i farleden hindrar fartygets färd. Om vattendraget vid färjleden skall reserveras för knippbogsering av virke eller på grund av tillfällig annan transport upplåtas för sjötrafik till ett större djup än det fastställda seglationsdjupet eller större bredd än ledmärkena angiver, skall linstyrd färjas lina eller linor vid behov sänkas ned till färjledens botten. Den som verkställer tillfällig transport skall dock i tillräckligt god tid på förhand till vederbörande vägmästare eller föraren av färja anmäla tidpunkten för den kommande transporten och, innan färjleden korsas, ytterligare försäkra sig om att färjans lina eller linor vilar på bottnen.
+
+Där de lokala förhållandena sådant påkallar kan landskapsregeringen efter att hava hört trafiksäkerhetsverket meddela närmare säkerhetsbestämmelser angående farleds och färjleds korsningsområde och trafiken inom sådant.
