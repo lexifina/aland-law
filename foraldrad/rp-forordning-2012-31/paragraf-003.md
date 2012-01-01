@@ -1,0 +1,3 @@
+# 3 § Uppgifterna för Livsmedelssäkerhetsverket
+
+Livsmedelssäkerhetsverket ansvarar i landskapet för stickprovsurval av jordbruksföretag för kontroll i enlighet med lagen om ett system för identifiering av djur samt artikel 50 och 51 i kommissionens förordning (EG) nr 1122/2009 om tillämpningsföreskrifter för rådets förordning (EG) nr 73/2009 vad gäller tvärvillkor, modulering och det integrerade administrations- och kontrollsystem inom de system för direktstöd till jordbrukare som införs genom den förordningen och om tillämpningsföreskrifter för rådets förordning (EG) 1234/2007 när det gäller tvärvillkoren för stöd inom vinsektorn.
