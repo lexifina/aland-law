@@ -1,0 +1,8 @@
+# 1 § Definitioner
+
+Definitioner av olika hamntyper:
+a) En kommersiell hamn är en sådan hamn som huvudsakligen används av andra fartyg än sådana som är utrustade eller i yrkesmässigt syfte används för att fånga fisk, eller sådana fartyg som används för sport- eller fritidsändamål.
+b) En gästhamn är en sådan hamn som upplåter båtplatser till gästande sport- och fritidsbåtar för kortare tidsperioder. Gästhamnar indelas i små och stora gästhamnar. Små gästhamnar har färre än 400 registrerade gästdygn per år. En stor gästhamn har fler än 400 registrerade gästdygn per år. Antalet registrerade gästdygn per år räknas ut som ett årligt medeltal för de tre senaste åren.
+c) En småbåtshamn är en sådan hamn som används som hemmahamn för sport- och fritidsbåtar och där båtens ägare vanligen besitter en viss förtöjningsplats i hamnen. För att omfattas av reglerna om mottagningsanordningar i denna förordning skall hamnen innehålla 50 eller flere förtöjningsplatser vid kaj eller boj.
+d) En fiskehamn är en hamn som huvudsakligen används av fartyg som fångar fisk i kommersiellt syfte. För att omfattas av denna förordning bör hamnen regelbundet användas som hemmahamn av minst 5 fiskefartyg.
+e) Ett reparationsvarv är en hamnanläggning där fartyg yrkesmässigt repareras eller förvaras under kortare eller längre tidsperioder. Reparationsvarv indelas i stora och små reparationsvarv. Ett stort reparationsvarv är en anläggning där fartyg över 12 meter yrkesmässigt repareras. Ett litet reparationsvarv är en anläggning där fartyg under 12 meter yrkesmässigt repareras eller fler än 50 fartyg förvaras under kortare eller längre tid.
