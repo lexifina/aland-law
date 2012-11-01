@@ -1,0 +1,6 @@
+# 14 § Information om gränsöverskridande miljöpåverkan
+Kapitel: 5 kap. Delgivning, övervakning och ändringssökande
+
+Om ett projekt, en plan eller ett program i landskapet kan antas medföra betydande miljöpåverkan i en region utanför landskapet ska den beslutande myndigheten snarast informera landskapsregeringen. Landskapsregeringen ska därefter ge den behöriga myndigheten i den berörda regionen all tillgänglig information om sådan miljöpåverkan. Informationen ska ges i god tid före en tillståndsprövning eller senast när meddelandet med inbjudan till avgränsningssammanträdet delges enligt denna lag.
+
+Om den behöriga myndigheten i den berörda regionen får kännedom om ett projekt, en plan eller ett program i landskapet och anser att projektet, planen eller programmet kan antas medföra betydande miljöpåverkan i regionen samt uttryckligen begär att få information om sådan påverkan, ska landskapsregeringen utan onödigt dröjsmål lämna den information som begärts till myndigheten ifråga. Samma tidsfrister, som enligt 1 mom. gäller för lämnande av information, ska iakttas. Vad som i 3 § 4 mom. föreskrivs om landskapsregeringens skyldighet att samråda med berörda myndigheter gäller även ifråga om i denna paragraf avsedda myndigheter.
