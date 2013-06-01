@@ -21,6 +21,8 @@ En lagtingsledamot initierar ett ärende i lagtinget genom att väcka en motion.
 3) budgetmotioner, som innehåller förslag till anslag eller något annat beslut som ska tas upp i budgeten eller i en tilläggsbudget, framställning om extra anslag eller finansinitiativ till riksdagen samt
 4) åtgärdsmotioner, som innehåller förslag om att lagberedning ska inledas eller att någon annan åtgärd vidtas av riksdagen, landskapsregeringen, självstyrelsepolitiska nämnden eller talmanskonferensen.
 
+Den revisionsmyndighet som avses i 56 § 2 mom. överlämnar ärenden till lagtinget i form av berättelser.
+
 I arbetsordningen kan bestämmelser intas om andra sätt att uppta ärenden i lagtinget.
 
 Ett ärende återtas på samma sätt som det väckts om inte annat bestäms i denna lagtingsordning eller i lagtingets arbetsordning. I arbetsordningen finns närmare bestämmelser om lagtingets ärenden och behandlingen av dem. Bestämmelser om tidsgränser inom vilka motioner ska vara inlämnade kan utfärdas genom arbetsordningen.
