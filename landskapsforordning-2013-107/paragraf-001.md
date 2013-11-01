@@ -1,0 +1,14 @@
+# 1 § Definitioner
+
+I denna förordning avses med:
+1) Räddningsmyndighet Mariehamns räddningsverk eller räddningsområdet Ålands landskommuner.
+2) Produktionsanläggning ett område som övervakas av en verksamhetsutövare och där farliga kemikalier eller explosiva varor tillverkas, hanteras eller upplagras i en eller flera anläggningar.
+3) Anläggning en teknisk enhet inom en produktionsanläggning där farliga kemikalier, explosiva varor eller utvinningsavfall produceras, används, hanteras eller upplagras samt utrustning, konstruktioner, rörsystem, maskiner, verktyg, för enhetens bruk avsedda lastnings- och lossningsplatser, lager eller motsvarande anordningar som är nödvändiga för enhetens drift.
+4) Deponi för utvinningsavfall en i 53h § 2 mom. landskapslagen (2008:124) om miljöskydd avsedd deponi för utvinningsavfall som medför risk för storolycka. Utvinningsavfall innefattar avfall som uppkommer vid prospektering, utvinning och bearbetning av mineral-tillgångar och drift av stenbrott och som har sitt ursprung direkt från dessa verksamheter.
+5) Verksamhetsutövare en juridisk eller fysisk person som tillverkar, importerar, saluför, släpper ut på marknaden, överlåter, exporterar, lagrar, förpackar, distribuerar, innehar, förvarar, använder, transporterar eller på annat sätt hanterar farliga ämnen eller kemikalier, explosiva varor eller andra motsvarande produkter eller utvinningsavfall.
+6) Storolycka betydande utsläpp, brand, explosion eller en annan händelse, som orsakas av okontrollerade situationer i samband med i en produktionsanläggning eller i en deponi för utvinningsavfall, och som medför omedelbar eller fördröjd fara för människors hälsa, för miljön eller för egendom och där ett eller flera farliga ämnen eller utvinningsavfall ingår.
+7) Allmänheten en eller flera fysiska eller juridiska personer och, i enlighet med nationell lagstiftning eller praxis, sammanslutningar, organisationer eller grupper av dessa.
+8) Den berörda allmänheten den del av allmänheten som olyckan berör eller kan beröra eller vars intresse tillämpningsområdet för 6, 7 och 8 §§ rör; vid tillämpningen av denna definition ska icke-statliga organisationer som främjar miljövård och uppfyller eventuella krav i nationell lagstiftning anses ha intresse i denna fråga.
+9) Rehabilitering behandling av område som påverkats av en avfallsanläggning, så att området återställs i tillfredsställande skick, särskilt med avseende på markvalitet, djur och växtliv, naturliga livsmiljöer, sötvattensystem, landskap och eventuella nyttoanvändningar.
+10) Väsentlig förändring en ändring i fråga om struktur eller drift av en avfallsanläggning, som, enligt den behöriga myndighetens uppfattning, kan få betydande negativa följder för människors hälsa eller miljön.
+11) Plats för verksamheten: allt område på en specifik geografisk plats som förvaltas av en verksamhetsutövare.
