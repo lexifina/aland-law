@@ -1,0 +1,3 @@
+# 2b § Polismyndighetens rätt att lämna ut uppgifter till andra myndigheter
+
+Utöver vad som föreskrivs i 19 § 1 mom. i lagen om behandling av personuppgifter i polisens verksamhet får polismyndigheten utan hinder av sekretessbestämmelserna lämna ut behövliga uppgifter genom teknisk anslutning eller i maskinläsbar form ur polismyndighetens personregister, med undantag för Europolinformationssystemet som avses i 30 § i lagen om behandling av personuppgifter i polisens verksamhet och Schengens nationella informationssystem som avses i 31 § i lagen om behandling av personuppgifter i polisens verksamhet, till motorfordonsbyrån för upprätthållande av fordonsregistret.
