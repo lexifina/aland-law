@@ -1,0 +1,6 @@
+# 89 §
+Kapitel: 10 kap. Annan användning av väg och användning av annan mark tillfälligt såsom väg
+
+Har förordnande utfärdats om vägförrättning som avser grundande av vägrätt för fastighet eller avgörande av fråga om någon har rätt till väg eller motsvarande, på annan lag grundad bestående bruksrätt och finns det inget lagakraftvunnet utslag i saken, kan vid vägförrättningen ägaren av den fastighet, för vars behov ovan avsedda vägförrättning sökts, ges temporär rätt att färdas på vägen eller på annat sätt över annans område, om det är nödvändigt för att vägförbindelse skall erhållas och om därigenom inte förorsakas i 9 eller 10 § avsett förfång. En temporär färdselrätt upphör när vägförrättningen vunnit laga kraft, om inte annat bestämdes då rätten beviljades. Färdselrätt kan bestämmas att vara i kraft högst ett år från det vägförrättningen vunnit laga kraft.
+
+Är det vid en vägnämndsförrättning fråga om beviljande av sådan rätt som avses i 10 § 1 mom. eller 13 § 1 mom. till en befintlig väg kan temporär rätt att färdas på en sådan väg beviljas vid förrättningen, om detta är nödvändigt för att få vägförbindelse och därigenom inte orsakas i 10 eller 13 § avsett förfång. Om temporär rätt enligt detta moment att färdas gäller i övrigt i tillämpliga delar bestämmelserna i 1 mom.
