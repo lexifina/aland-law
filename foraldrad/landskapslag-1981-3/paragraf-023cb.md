@@ -1,0 +1,7 @@
+# 23cb § Särskilda bestämmelser om begagnade elektriska och elektroniska produkter
+Kapitel: 5 kap. Produkter med producentansvar m.m.
+Rubrik: Elektriska och elektroniska produkter
+
+Om en produktinnehavare avser att transportera en begagnad elektrisk eller elektronisk produkt till ett annat land som en produkt och inte som avfall, ska denne påvisa att klassificeringen är korrekt genom att visa upp en räkning eller ett avtal i fråga om försäljning av produkten eller överföring av äganderätten, ett testcertifikat, en fraktsedel eller motsvarande intyg, en utredning eller ett dokument som gäller produktens skick eller kvalitet, samt genom att lägga fram bevis på att produkten skyddats mot skador på ett ändamålsenligt sätt under transporten. Landskapsregeringen kan genom landskapsförordning utfärda närmare bestämmelser om bevis, testmetoder, testresultat, utredningar och andra uppgifter som behövs för att en begagnad elektrisk eller elektronisk produkt ska klassificeras som produkt samt om tillräckliga åtgärder för att skydda produkten från skador. De uppgifter och åtgärder som krävs kan variera enligt produkttyp, användargrupp eller ändamål.
+
+Om bevis som avses i 1 mom. på att en begagnad elektrisk eller elektronisk produkt ska klassificeras som en produkt inte kan läggas fram, ska produkten betraktas som avfall och en transport av den till ett annat land som olaglig transport enligt avfallstransportförordningen.
