@@ -1,0 +1,6 @@
+# 13 § Identifiering av behov av särskilt stöd och tillhandahållande av stöd
+Kapitel: 2 kap. Hälsoundersökningarnas innehåll och omfattning
+
+Hälsorådgivningen och hälsoundersökningarna ska ordnas så att behovet av särskilt stöd hos ett barn under läropliktsåldern, en elev, en studerande eller en familj identifieras i så tidigt skede som möjligt och så att det stöd som behövs erbjuds utan dröjsmål. Behovet av särskilt stöd ska utredas om det hos ett barn under läropliktsåldern, en elev, en studerande eller en familj eller i miljön finns faktorer som kan äventyra en sund uppväxt och utveckling.
+
+I syfte att bedöma och tillgodose behovet av särskilt stöd ska det vid behov ordnas extra besök och hembesök. Dessutom ska det utarbetas en individuellt anpassad plan för välbefinnande och hälsa i samarbete med den som behöver stöd och, beroende på personens ålder, med hans eller hennes familj. Utfallet av planen ska följas och bedömas. I syfte att på bästa sätt bedöma och tillgodose behovet av särskilt individuellt stöd för ett barn, för en elev eller en familj, ska samarbete vid behov också bedrivas mellan aktörer såsom barnomsorgen, hemservicen, barnskyddet, elev- och studerandevården samt den specialiserade sjukvården.
