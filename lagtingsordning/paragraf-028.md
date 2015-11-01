@@ -1,7 +1,9 @@
 # 28 § Hur ärenden tas upp till behandling i lagtinget
 Kapitel: 5 kap. Ärenden i lagtinget
 
-Ett ärende tas upp i lagtinget genom att landshövdingen i enlighet med självstyrelselagen överlämnar en framställning eller ett meddelande från republikens president.
+Ärenden kan tas upp i lagtinget på nedan angivna sätt.
+
+Republikens president överlämnar genom landshövdingen en framställning eller ett meddelande i enlighet med självstyrelselagen.
 
 Landskapsregeringen överlämnar ärenden till lagtinget i form av
 1) ett lagförslag eller ett kompletterande lagförslag,
@@ -12,6 +14,8 @@ Landskapsregeringen överlämnar ärenden till lagtinget i form av
 6) en årsredovisning i enlighet med 25 § landskapslagen (1971:42) om Ålands landskapsregering.
 
 Lantrådet eller landshövdingen överlämnar ett ärende till lagtinget i form av ett meddelande.
+
+Självstyrelsepolitiska nämnden initierar en debatt i ett ärende enligt 20 § 3 mom.
 
 Talmanskonferensen överlämnar ärenden till lagtinget i form av ett lagförslag som rör lagtingets organisation eller arbete eller som rör Ålands delegation i Nordiska rådets organisation eller arbete.
 

@@ -6,3 +6,5 @@ I landskapsbudgeten ingår de årliga inkomsterna och anslag för de årliga utg
 Anslagen i budgeten ska täckas av inkomstposterna. Vid anslagstäckningen kan på det sätt som anges genom en landskapslag, beaktas de överskott eller underskott som framgår av landskapets bokslut.
 
 Sådana inkomstposter och anslag som motsvarar inkomster och utgifter som har samband med varandra kan, på det sätt som anges genom en landskapslag, tas in i budgeten för flera finansår.
+
+De allmänna grunderna för landskapets affärsverks verksamhet och ekonomi bestäms genom landskapslag. Inkomstposter och anslag som gäller affärsverken tas in i budgeten endast till den del det anges i landskapslag. I samband med behandlingen av budgeten godkänner lagtinget de centrala målen för affärsverkens tjänster och övriga mål för verksamheten.

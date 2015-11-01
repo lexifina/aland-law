@@ -1,10 +1,19 @@
-# 21 § Självstyrelsepolitiska nämnden
+# 21 § Lagtingets utskott
 Kapitel: 3 kap. Lagtingets organisation
 
-Lagtinget tillsätter för varje valperiod en självstyrelsepolitisk nämnd för behandling av frågor rörande Ålands författningsenliga ställning och externa relationer samt ärenden som gäller Europeiska unionen enligt vad som närmare bestäms i 9 kap.
+Lagtinget tillsätter för varje valperiod följande permanenta utskott:
+1) lag- och kulturutskottet,
+2) finans- och näringsutskottet och
+3) social- och miljöutskottet.
 
-Självstyrelsepolitiska nämnden består av talmannen samt minst fyra och högst nio ledamöter samt ett nödvändigt antal ersättare som lagtinget väljer inom sig.
+Lagtinget ska även tillsätta ett justeringsutskott. På förslag av talmanskonferensen kan justeringsutskottet avskaffas.
 
-Självstyrelsepolitiska nämnden kan vid behov avge ett yttrande till landskapsregeringen i ett ärende som hör till nämndens uppgiftsområde. Nämnden kan även besluta att ett sådant ärende ska tas upp till debatt i plenum, varvid lagtinget dock inte fattar beslut i saken.
+Lagtinget kan dessutom tillsätta ytterligare utskott antingen för återstoden av en valperiod eller för att bereda särskilda ärenden.
 
-I lagtingets arbetsordning finns närmare bestämmelser om självstyrelsepolitiska nämnden.
+Lagtinget kan på förslag av talmannen eller talmanskonferensen besluta om nyval av ett eller flera utskott.
+
+Granskningsrapporter som i enlighet med 7 § landskapslagen (2013:25) om Landskapsrevisionen lämnas till lagtinget, översänds till finans- och näringsutskottet som fattar beslut om huruvida granskningsrapporterna ska genomgå behandling i plenum.
+
+Finans- och näringsutskottet kan till den del lagtingets godkännande behövs, godkänna tjänstekollektivavtalen för landskapets tjänstemän.
+
+I lagtingets arbetsordning finns närmare bestämmelser om utskotten.
