@@ -1,0 +1,1 @@
+Republikens presidents förordning (2017:36) om skötseln av de uppgifter i landskapet Åland som hör till det utbetalande organet för Europeiska jordbruksfonden för landsbygdsutveckling (Ejflu) (upphävd)
