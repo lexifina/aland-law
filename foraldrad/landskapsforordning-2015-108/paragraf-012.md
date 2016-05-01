@@ -1,0 +1,3 @@
+# 12 § Avvikelse från Energimarknadsverkets föreskrift om skyldigheten för elnätsinnehavaren att underrätta Energimarknadsverket om nättjänstvillkoren och -priserna
+
+Med avvikelse från bestämmelserna i Energimarknadsverkets föreskrift om skyldigheten för elnätsinnehavaren att underrätta Energimarknadsverket om nättjänstvillkoren och -priserna (dnr 317/001/2007) ska nätinnehavare senast under år 2020 i enlighet Energimarknadsverkets anvisningar lämna information om gällande försäljningsvillkor och -priser för sina nättjänster samt om grunderna för hur de bestäms. Informationen ska lämnas på det sätt som landskapsregeringen eller annan behörig myndighet anvisar.
