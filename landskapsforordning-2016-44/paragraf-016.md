@@ -1,0 +1,8 @@
+# 16 § Odlingstekniska vändtegar och skötsel- och körgångar för trädgårdsväxter
+Rubrik: Bas- och jordbruksskiften
+
+I genomsnitt högst tre meter breda vändtegar som utgör en del av det normala sättet att odla en växt och som lämnats av nödvändiga odlingstekniska skäl kan godkännas som en del av arealen av ett basskifte och ett jordbruksskifte. Om en vändteg som har inrättats av odlingstekniska skäl är bredare än tre meter, ska den avskiljas till ett separat jordbruksskifte. Även odlingstekniska vändtegar som finns längs ett vattendrag eller ett kantdike som klassificerats som utfallsdike kan godkännas som en del av den stödberättigande arealen av ett basskifte och ett jordbruksskifte, om vändtegen och en dikesren som avses i 11 § statsrådets förordning om krav på god jordbrukshävd och goda miljöförhållanden enligt tvärvillkoren eller vändtegen och en skyddsremsa som avses i 20 § landskapsförordningen om ersättning för miljö- och klimatvänligt jordbruk, ersättning för ekologisk produktion och ersättning till områden med naturliga begränsningar är högst tre meter breda. Vändtegen ska finnas på skiftet eller på kanten av det.
+
+Odlingstekniska vändtegar kan inte godkännas som en del av den stödberättigande arealen om det är fråga om odling av stråsäd, oljeväxter, vallväxter eller proteingrödor. Vändtegen ska då avskiljas till ett separat jordbruksskifte.
+
+När det gäller mångåriga trädgårdsväxter kan skötselgångar som utgör en del av sättet att odla växterna och körgångar som behövs för att odlings- och skördemaskiner ska kunna ta sig fram godkännas som en del av arealen av ett jordbruksskifte. Skötsel- och körgångarna ska vara nödvändiga för odlingen av växten i fråga och ändamålsenliga med tanke på storlek, placering och antal.
