@@ -8,6 +8,6 @@ Lokaliseringsmärken för vägvisning av gång- och cykeltrafik behöver inte va
 
 Lokaliseringsmärken för vägvisning av gång- och cykeltrafik är:
 Märke | Närmare föreskrifter
-LVgc1 Vägvisare | Märket anger väg till ort, plats, anläggning eller liknande. Avstånd får anges i kilometer med en decimals noggrannhet. Symbolen för trafikkategori anpassas till förhållandena. Om färdmålet ingår i en cykelled kan märke LVgc2 användas i stället för trafikkategori. Om inte annat anges särskilt är trafik med moped med låg effekt tillåten när cyklandesymbol eller gående- och cyklandesymbol finns på märket.
-LVgc2 Vägvisare på cykelled | Märket anger väg till ort, plats, anläggning eller liknande längs cykelled. Avstånd får anges i kilometer med en decimals noggrannhet.
-LVgc3a Cykelled | LVgc3b Cykelled | Märket anger särskilt anordnad cykelled. Ledens namn och pil som anger riktningen får infogas i märket.
+[Bild: https://www.regeringen.ax/sites/default/files/law/updated/images/lvgc1.png] LVgc1 Vägvisare | Märket anger väg till ort, plats, anläggning eller liknande. Avstånd får anges i kilometer med en decimals noggrannhet. Symbolen för trafikkategori anpassas till förhållandena. Om färdmålet ingår i en cykelled kan märke LVgc2 användas i stället för trafikkategori. Om inte annat anges särskilt är trafik med moped med låg effekt tillåten när cyklandesymbol eller gående- och cyklandesymbol finns på märket.
+[Bild: https://www.regeringen.ax/sites/default/files/law/updated/images/lvgc2.png] LVgc2 Vägvisare på cykelled | Märket anger väg till ort, plats, anläggning eller liknande längs cykelled. Avstånd får anges i kilometer med en decimals noggrannhet.
+[Bild: https://www.regeringen.ax/sites/default/files/law/updated/images/lvgc3a.png] LVgc3a Cykelled | [Bild: https://www.regeringen.ax/sites/default/files/law/updated/images/lvgc3b.png] LVgc3b Cykelled | Märket anger särskilt anordnad cykelled. Ledens namn och pil som anger riktningen får infogas i märket.
