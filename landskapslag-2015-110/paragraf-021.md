@@ -1,0 +1,6 @@
+# 21 § Förflyttning av personal
+Kapitel: 7 kap. Ikraftträdelse- och övergångsbestämmelser
+
+Ordinarie och tillsvidareanställd personal i arbetsavtalsförhållande vid finansavdelningens fastighetsbyrå förflyttas vid ikraftträdandet av denna lag till landskapets fastighetsverk i privaträttsligt anställningsförhållande till de arbetsuppgifter som finns tillgängliga. Den som förflyttas gör det med bibehållande av de pensionsförmåner som följer av den anställning från vilken personen förflyttas, dock med beaktande av vad om anställning vid landskapet särskilt föreskrivs och om villkoren i berörda anställdas anställningsförhållande avtalas. Anställningsförhållandet för den som förflyttas fortgår utan avbrott i anställningsförhållandet, med beaktande av vad om anställning vid landskapet särskilt föreskrivs och om villkoren i berörda anställdas anställningsförhållande avtalas.
+
+Ordinarie och tillsvidareanställda arbetstagare får enbart förflyttas till sådana arbetsuppgifter som de uppfyller kompetenskraven för och som kan anses vara lämpliga för arbetstagaren. Behörig för anställning vid fastighetsverket är den som när denna lag träder i kraft är behörig för sådan tjänst eller anställning i arbetsavtalförhållande vid finansavdelningens fastighetsbyrå.
