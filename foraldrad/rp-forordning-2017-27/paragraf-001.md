@@ -1,0 +1,3 @@
+# 1 § Tillämpningsområde
+
+Denna förordning tillämpas på förvaltningen av det nationella programmet för den asyl-, migrations- och integrationsfond som inrättats genom Europaparlamentets och rådets förordning (EU) nr 516/2014 samt på förvaltningen av det nationella program för fonden för inre säkerhet som läggs fram som ett enda program och som baserar sig på Europaparlamentets och rådets förordning (EU) nr 515/2014 och Europaparlamentets och rådets förordning (EU) nr 513/2014, till den del de nationella programmen med stöd av självstyrelselagen för Åland (1144/1991) omfattas av landskapet Ålands lagstiftningsbehörighet.
