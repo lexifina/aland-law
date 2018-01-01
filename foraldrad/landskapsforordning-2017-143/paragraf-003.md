@@ -1,0 +1,8 @@
+# 3 §
+Rubrik: Regeringskansliet
+
+Vid regeringskansliets allmänna byrå finns följande enheter:
+1) enheten för rättsliga och internationella frågor, vid vilken handläggs ärenden som gäller åländsk hembygdsrätt, jordförvärv, näringsrätt och reglementerade näringar, allmänna val, kommunerna, registerövervakning, tillståndsfrågor såsom spel, lotterier och penninginsamlingar, radio- och television, postväsendet, allmänjuridisk rådgivning inom förvaltningen, brand- och räddningsväsendet, explosionsfarliga ämnen, befolkningsskydd och beredskapsfrågor samt strategisk planering och övriga enligt lag på landskapsregeringen ankommande uppgifter inom polisens, brand- och räddningsväsendets verksamhetsområden samt ärenden som gäller Europeiska unionen och rådgivning i EU relaterade ärenden, nordiskt samarbete, demilitariseringen och neutraliseringen, internationella fördrag, som inte påförts någon annan byrå eller enhet och annat institutionaliserat internationellt samarbete,
+2) personal- och kommunikationsenheten, utgör ett stöd för ledningen av den allmänna förvaltningen i personalfrågor, kommunikations- och pressfrågor samt utvecklar, samordnar och följer upp den interna och externa kommunikationen och informationen för olika målgrupper i olika kanaler, stöder chefer i rollen som arbetsgivare, ansvarar för kompetensutveckling, arbetsmiljö, jämställdhetsplanering, företagshälsovård och friskvård,
+3) utvecklings- och hållbarhetsenheten, vid vilken handläggs ärenden som gäller jämställdhet och integration samt förvaltningsövergripande utvecklings- och hållbarhetsfrågor samt
+4) serviceenheten, till vilken registratur, reception, vaktmästeri och städning hör.
