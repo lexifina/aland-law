@@ -1,0 +1,4 @@
+# 39 §
+Kapitel: 5 kap. Om ägoreglering och om reglering av enskilda vägar. Om vägförrättning
+
+Förutom för företagande av de i 37 § avsedda åtgärderna i däri angivna fall må förrättning på stället äga rum för bestämmande av gränserna för väg- eller biområde, hörande till redan förefintlig väg, om skäl därtill prövas föreligga, samt för utförande av ägoreglering utmed dylik väg, därest olägenhet, som omförmäles i 35 §, orsakas av i 41 § avsett förbud rörande område, vartill nyttjanderätten tidigare ej varit på motsvarande sätt inskränkt, eller till följd av förordnande, som avses i 50 §. Vid sådan förrättning skola likaså behandlas de övriga frågor, som enligt denna landskapslag eller särskilda stadganden böra avgöras vid vägförrättning. Därom gälle i tillämpliga delar vad i 38 § är stadgat om vägförrättning.

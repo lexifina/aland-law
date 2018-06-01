@@ -1,0 +1,8 @@
+# 42 §
+Kapitel: 6 kap. Om inskränkning av nyttjanderätten till mark utmed väg
+
+40 och 41 §§ må icke tillämpas i fråga om invid väg befintliga frukt- och prydnadsträd, prydnadsbuskar och häckar samt träd och buskar, som tagits under särskild omvårdnad, ej heller i fråga om byggnad, upplag, stängsel eller annan anordning, därest träden eller buskarna planterats eller tagits under särskild omvårdnad eller byggnaden, upplaget eller anordningen tillkommit, innan nyttjanderätten till området blivit underkastad i sagda paragrafer stadgad eller motsvarande i tidigare landskapslag avsedd begränsning.
+
+Föranleder träd, buske, häck, upplag eller anordning, varom i 1 mom. är nämnt, i 40 eller 41 § avsedd fara eller olägenhet eller vållas av byggnad, som omförmäles i samma moment, fara för samfärdseln, må landskapsregeringen eller, där ej fråga är om byggnad, jämväl länsman i landskommun eller [magistraten] i Mariehamn förordna om dess borttagande eller flyttande eller om utförande av erforderlig ändring däri. Vidtager icke ägaren åtgärden inom därför utsatt tid, är väghållningsmyndigheten befogad att utföra densamma på väghållarens bekostnad.
+
+Jämväl i fråga om borttagande, flyttning eller ändring av byggnad, upplag eller anordning, till vars uppförande eller bibehållande tillstånd med stöd av 41 § 4 mom. meddelats, må stadgandena i 2 mom. av denna paragraf vinna motsvarande tillämpning, såvitt trafiksäkerheten så oundgängligen kräver. Utan hinder av vad ovan sagts må likväl myndighet, som meddelat tillståndet, återkalla detsamma, om därvid fogats förbehåll om återkallelse, samt ålägga ägaren att vidtaga härav föranledda åtgärder vid äventyr att de annars utföras på hans bekostnad genom väghållningsmyndighetens försorg.

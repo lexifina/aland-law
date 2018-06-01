@@ -1,0 +1,8 @@
+# 35 §
+Kapitel: 5 kap. Om ägoreglering och om reglering av enskilda vägar. Om vägförrättning
+
+Uppkommer betydande olägenhet för fastighet genom ianspråktagande av väg eller biområde till väg kan ägobyte mellan berörda fastigheter ske. Sådant byte får ske enbart om olägenheten uppstått på grund av utfärdande av i 41 § avsett förbud, verkställande av i 50 § avsett beslut om anslutning eller regleringsplan eller på grund av splittring av ägor eller av annan dylik orsak. Motsvarar graderingsvärdena av de områden som skall utbytas inte varandra skall skillnaden ersättas i pengar. Om särskild orsak föreligger kan, i stället för ägobyte, vederlagsmark från annan fastighet mot full ersättning överföras till den fastighet som utsatts för olägenheten.
+
+För i 1 mom. avsedd ägoreglering erfordras inte samtycke av ägare, innehavare av panträtt, arrenderätt eller annan dylik särskild rättighet. Panträtt som belastar område som reglerats upphör till denna del. Samma gäller för annan rätt som belastar området, om så bestäms vid regleringen. Ägoregleringen sker utan ändring av lägenheternas mantal.
+
+Är i 1 mom. nämnd olägenhet synnerligen betydande och kan den inte avlägsnas eller väsentligt minskas genom ägoreglering, skall väghållaren utge ersättning för olägenheten om inte ägaren begär att väghållaren skall lösa fastigheten eller del därav. Inlösning skall ske vid i 37 § nämnd vägförrättning. Sedan förrättningen vunnit laga kraft bildar ett sålunda inlöst område en sådan jordregisterenhet som enligt landskapslagen (1979:62) om expropriation av fast egendom och särskilda rättigheter inlöst område utgör sedan expropriation genomförts. Utan hinder av vad i 47 § nämnda lag är stadgat skall rättighet som belastar fastigheten kvarstå.

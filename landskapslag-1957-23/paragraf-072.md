@@ -1,0 +1,4 @@
+# 72 §
+Kapitel: 9 kap. Om ersättning
+
+Har genom sådan väghållaren tillkommande rätt eller genom sådan åtgärd, för vilken ersättning ovan i detta kapitel stadgats att utgå, eller i anledning av reglering, som i 5 kap. avses, fastighet undergått minskning i värde, så att den ej kan antagas utgöra full säkerhet för fordran, för vilken fastigheten på grund av inteckning eller stadgandena om ogulden köpeskillings rätt svarade före den händelse, som givit anledning till ersättningen, skall ersättningen jämte ränta nedsättas hos [länsstyrelsen]. Vid fördelning och utbetalning av det nedsatta beloppet skola i tillämpliga delar de bestämmelser lända till efterrättelse, vilka [enligt landskapslagen angående expropriation för allmänt behov av fast egendom i landskapet Åland] gälla i avseende å expropriation av fastighet, som utgör säkerhet för fordran.

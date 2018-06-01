@@ -1,0 +1,8 @@
+# 119 §
+Kapitel: 14 kap. Särskilda stadganden
+
+Är företag, som avser byggande av landsväg eller dess flyttande eller annan förbättring, vid denna landskapslags ikraftträdande under utförande och har ej inlösen av erforderligt område för vägen skett samt ersättningarna ej bestämts, skall denna landskapslag tillämpas vid företagande av de åtgärder, vilka äro nödiga för vägföretagets fullföljande. Beträffande landsväg eller del därav, på vilken vägarbetet påbörjats, förrän denna landskapslag trädde i kraft, må dock 67 § 1 mom. icke tillämpas, och i fråga om kommun ej heller 67 § 2 mom. Dock skall 12 § i landskapslagen innehållande särskilda stadganden angående vägväsendet i landskapet Åland, sådan den lyder i landskapslagen (1939:2) av den 18 april 1939, äga tillämpning på kommun.
+
+Har genom beslut av landskapsstyrelsen före denna landskapslags ikraftträdande fastställts plan för vägföretag, som i 1 mom. omförmäles, skall med avseende å sådan plan gälla vad i denna landskapslag stadgas om laga kraft vunnen vägplan. Sagda beslut skall dock medelst kungörelse bringas till allmän kännedom i vederbörande kommun. Har vägarbetet för planens genomförande icke påbörjats, räknas den i 28 § bestämda terminen från landskapslagens ikraftträdande. Beträffande vägområde, på vilket vägarbetet påbörjats, skall vägrätt, som i 29 § avses, anses hava uppkommit, när denna landskapslag trädde i kraft, men på ersättningen för områdets upplåtande beräknas räntan från utgången av den månad, under vilken vägarbetet påbörjades.
+
+Vad här är stadgat om landsväg avser i tillämpliga delar jämväl inom Mariehamn befintliga landsvägsdelar.
