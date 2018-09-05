@@ -1,0 +1,17 @@
+# 6 § Spridning av gödsel
+
+Spridning av gödselmedel på åkrar ska göras så att det inte sker någon avrinning i vatten och på ett sådant sätt att packningsskador minimeras. Gödselmedel får inte spridas på tjälad, snötäckt eller vattenmättad mark.
+
+Stallgödsel och organiska gödselfabrikat får inte spridas under tiden från 1 november till 15 april. Om marken är otjälad och torr så att inget rinner av i ett vattendrag kan utspridningen på våren påbörjas tidigare, dock tidigast den 1 april.
+
+En förlängning av spridningstiden på hösten generellt för hela Åland med maximalt 6 veckor kan beviljas av landskapsregeringen efter ansökan från en branschorganisation. Förlängning av spridningstiden ges på grund av exceptionella väderleksförhållanden. Som exceptionella väderleksförhållanden betraktas situationer där ett flertal åkrar på grund av långvariga rikliga regn och liten avdunstning varit så våta att detta förhindrat spridning av stallgödsel före utgången av oktober.
+
+Förlängning av spridningstiden kan även av synnerliga skäl och efter särskild prövning beviljas av landskapsregeringen till enskilda jordbrukare efter inlämnad ansökan. Sådana synnerliga skäl inbegriper omständigheter som inte har varit möjliga att förutse eller påverka och att det inte finns alternativ till egen spridning av gödseln.
+
+I fråga om stallgödsel och organiska gödselfabrikat som innehåller stallgödsel får en mängd som motsvarar högst 170 kg lösligt kväve per ha och år tillföras åkern, dock med beaktande av bestämmelserna i 7 §.
+
+Ytgödsling av stallgödsel och organiska gödselfabrikat på vallväxtlighet får inte ske på hösten efter den 15 september. Vid spridning av stallgödsel och organiska gödselfabrikat på hösten efter 15 september på obevuxen mark ska gödseln alltid omedelbart, senast inom ett dygn, myllas ned eller så ska åkern plöjas. Landskapsregeringen kan för enskilda år besluta om förlängd spridningstid för vissa områden eller hela Åland pga. särskilda väderleksförhållanden.
+
+De maximimängder av stallgödsel som får spridas per hektar på hösten efter 15 september är för fast strögödsel för nötkreatur 30 ton/ha, för flytgödsel av nötkreatur 20 ton/ha och för flytgödsel av svin 15 ton/ha. Maximimängder för andra fraktioner av stallgödsel från produktionsdjur beräknas med hjälp av bilaga 4 utgående från att mängden lösligt kväve i stallgödsel och i organiska gödselfabrikat som sprids på hösten efter 15 september får vara högst 35 kg/ha. Den maximala mängd flytgödsel som får köras ut på hösten efter 31 oktober begränsas till den mängd gödsel som produceras på gården under 6 veckors tid och specificeras utgående från gårdens djurbesättning. Den flytgödselmängd som produceras under 6 veckor fås genom att värdena i bilaga 2 divideras med 8,5.
+
+På åkerområden som gång på gång översvämmas av vårfloden är kvävegödsling förbjuden under tiden mellan den 1 oktober och den 1 april, med undantag för det växtbestånd som anläggs. Det är förbjudet att sprida gödselmedel närmare än 5 meter från vattendrag. Därefter är ytgödsling med stallgödsel och organiska gödselfabrikat förbjuden på en sträcka av 5 meter om marklutningen är över 2 %. Ytgödsling med stallgödsel och organiska gödselfabrikat är alltid förbjuden om markens genomsnittliga lutning är över 10 %. Kring brunnar som används för hushållsvatten och kring källor ska det, beroende på höjdförhållandena i terrängen, brunnens konstruktion och jordarten, lämnas en skyddszon på minst 30–100 meter som inte gödslas med stallgödsel eller organiska gödselfabrikat.
