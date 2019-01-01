@@ -1,0 +1,1 @@
+Landskapsförordning (2018:80) om tillämpning på Åland av statsrådets förordning om kompetenskrav för den som hanterar anordningar som innehåller fluorerade växthusgaser eller ämnen som bryter ned ozonskiktet
