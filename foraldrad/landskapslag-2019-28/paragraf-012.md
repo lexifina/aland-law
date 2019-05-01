@@ -1,0 +1,4 @@
+# 12 § Bildande av fullmäktige under valperioden
+Kapitel: 3 kap. Ordnandet av förvaltningen i de nya kommunerna
+
+De kommuner som går samman kan komma överens om att deras fullmäktige helt eller delvis sammanslås till fullmäktige i den nya kommunen för den mandattid som pågår till den kommunala valperiodens slut. Om fullmäktige delvis sammanslås ska kommunernas fullmäktige besluta hur många fullmäktigeplatser varje kommun ska få i den nya kommunens fullmäktige. I den nya kommunens fullmäktige ska alltid ingå minst en fjärdedel av varje kommuns fullmäktigeledamöter. I fråga om varje kommun bestäms de fullmäktigeledamöter och ersättare som ska ingå i den nya kommunens fullmäktige i den ordningsföljd som följer av de jämförelsetal som tilldelats dem i föregående kommunalval i enlighet med 62 § i landskapslagen (1970:39) om lagtingsval och kommunalval.
