@@ -1,0 +1,4 @@
+# 22 § Dödsfall och konkurs
+Kapitel: 5 kap. Särskilda bestämmelser
+
+Har innehavare av trafiktillstånd avlidit eller försatts i konkurs får rörelsen utan särskilt tillstånd för dödsboets eller konkursboets räkning fortsättas under en tid av högst ett år från dödsfallet eller konkursdagen. Det åligger dödsbo eller konkursbo, som vill fortsätta rörelsen att senast inom två månader hos landskapsregeringen anmäla person, som antagits till föreståndare för densamma. Görs ej anmälan inom föreskriven tid eller prövas den till föreståndare antagne icke vara därtill lämplig, och har i det senare fallet dödsboet eller konkursboet icke inom viss av landskapsregeringen fastställd tid anmält annan person som av landskapsregeringen kan för ändamålet godkännas, anses trafiktillståndet ha upphört den dag då tiden för anmälningsskyldigheten gått till ända eller beslut i frågan meddelades.
