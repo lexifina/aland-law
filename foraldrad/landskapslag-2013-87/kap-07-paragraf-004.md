@@ -1,0 +1,4 @@
+# 4 § Skyldighet att lämna ut information under en rättegång
+Kapitel: 7 kap. Tystnadsplikt och tystnadsrätt
+
+En domstol kan bestämma att information som avses i 1 § 1 mom. eller 3 § 1 mom. ska lämnas ut, om en parts rätt att försvara sig på behörigt sätt eller på annat sätt bevaka sin rätt under rättegången annars kränks. Dessutom förutsätts det att åklagaren utför åtal för ett brott för vilket det föreskrivna strängaste straffet är fängelse i minst sex år eller för försök eller medverkan till ett sådant brott. Domstolen får inte ens då bestämma att identiteten hos den person som lämnat ut konfidentiell information eller deltagit i bevisprovokation genom köp eller täckoperation ska avslöjas, om det är uppenbart att dennes eller för denne närstående personers säkerhet därmed allvarligt skulle äventyras.
