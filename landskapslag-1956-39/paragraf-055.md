@@ -1,0 +1,5 @@
+# 55 §
+Kapitel: 4 kap. Fiskerättens utövande och vården av fiskevatten.
+Rubrik: Fiskets ordnande i oskiftade vatten
+
+Hava icke delägarna i samfällt vattenområde överenskommit eller i den ordning, som stadgas [i lagen om vissa samfälligheter och därmed jämförliga gemensamma förmåner (FFS 204/1940)], fattat beslut om vattenområdets nyttjande för annat ändamål än fiske och har vattenområdet ej heller underkastats godemannaförvaltning, må delägarna vid fiskelagsstämma besluta i angelägenheter, vilka angå upptagandet av sten, lera, sand, malm eller annat dylikt från vattenområdet, vattenområdets utarrendering till flottnings-, upplagrings- eller annat ändamål, jakt och insamling av vattenväxter på detsamma samt tillvaratagande av därstädes anträffat trävirke eller annat gods ävensom annan användning av området samt ersättning för området eller för användning av detsamma. Beslutet, beträffande vilket i tillämpliga delar är gällande, vad om fiskelags beslut är stadgat, må likväl icke avse längre tid än fem år, försåvitt icke annorstädes i lag är annorlunda stadgat.
