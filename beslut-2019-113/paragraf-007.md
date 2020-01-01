@@ -1,0 +1,3 @@
+# 7 § Gemensam terminologi vid offentlig upphandling
+
+När upphandlingen beskrivs ska den gemensamma terminologi vid offentlig upphandling (CPV) användas som avses i Europaparlamentets och rådets förordning (EG) nr 2195/2002 om en gemensam terminologi vid offentlig upphandling (CPV) och i kommissionens förordning (EG) nr 213/2008 om ändring av Europaparlamentets och rådets förordning (EG) nr 2195/2002 om en gemensam terminologi vid offentlig upphandling (CPV) samt av Europaparlamentets och rådets direktiv 2004/17/EG respektive 2004/18/EG om förfaranden vid offentlig upphandling, när det gäller revidering av CPV.
