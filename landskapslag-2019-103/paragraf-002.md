@@ -1,0 +1,7 @@
+# 2 § Medieavgift för personer
+
+Den som är allmänt skattskyldig enligt inkomstskattelagen (FFS 1535/1992), har sin hemkommun på Åland och som senast under skatteåret har fyllt 18 år ska betala en årlig medieavgift på 110 euro om inkomsten för skatteåret överstiger 14 000 euro. Inkomsten bestäms som summan av nettoförvärvsinkomsten och nettokapitalinkomsten för skatteåret vid statsbeskattningen enligt inkomstskattelagen eller av summan av en högre arbetsinkomst som fastställts enligt lagen om pension för företagare (FFS 1272/2006) eller lagen om pension för lantbruksföretagare (FFS 1280/2006).
+
+Landskapsregeringen fattar beslut senast i oktober varje år om att i enlighet med förändringen i levnadskostnadsindex (oktober 1951=100) justera det i 1 mom. avsedda eurobeloppet så att det justerade beloppet uppbärs följande skatteår. Det i 1 mom. avsedda beloppet om 110 euro motsvarar poängtalet för levnadskostnadsindexet (1951:10=100) för januari 2020. Den årliga förändringen beräknas enligt poängtalet för levnadskostnadsindexet för januari innevarande år och för januari föregående år. Eurobeloppet justeras första gången inför skatteåret 2022. Det justerade beloppet avrundas till närmaste hela euro. Landskapsregeringen ska senast under november månad justeringsåret offentliggöra det indexjusterade eurobeloppet i Ålands författningssamling.
+
+Medieavgiften för en person som avlidit under skatteåret ska betalas av dödsboet med iakttagande av vad som föreskrivs i 17 § 1 mom. i inkomstskattelagen.
