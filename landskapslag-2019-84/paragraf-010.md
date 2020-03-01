@@ -1,0 +1,6 @@
+# 10 § Produktionsstödets belopp
+Kapitel: 4 kap. Produktionsstödet
+
+Produktionsstödets belopp grundas på den mängd el som har levererats till elnätet samt på ersättningsanbudet. Om marknadspriset är i intervallet 0-32 euro per MWh ersätts elproducenten i enlighet med ersättningsanbudet, dock högst med 11 euro per MWh. Om marknadspriset är i intervallet 32-43 euro per MWh minskas produktionsstödets belopp linjärt upp till det lämnade ersättningsanbudets belopp enligt formeln Ps=(32+e)-Mp. Med de i formeln använda förkortningar avses med Ps produktionsstöd, e ersättningsanbud och Mp marknadspris. Produktionsstöd utbetalas inte vid marknadspris understigande 0 euro per MWh. Produktionsstödets högsta belopp till en enskild elproducent betalas enligt den produktionsvolym som har fastställts för elproducentens leverans av el till elnätet.
+
+Produktionsstödet beräknas som ett medeltal för marknadspriset på el med ett aritmetiskt medeltal för varje timme under ett halvt kalenderår i enlighet med timpriset för områdespriset som tillämpas på Åland noterat på den nordiska elmarknaden. Med ett halvt kalenderår avses perioderna från och med januari till och med juni månad, samt från och med juli till och med december månad.
