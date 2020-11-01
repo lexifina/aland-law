@@ -1,5 +1,6 @@
 # Bilaga 9
 
+[Bild: https://www.regeringen.ax/sites/default/files/law/updated/images/karta-vattenomr.png]
 Kartan anger de områden som avses i förordningens 12a §. Områdena utgörs av helheter vilka avgränsas enligt följande. De halvdragna linjerna visar hur områdena skiljs åt.
 Västra saltsjöområdet
 Finlands territorialvattengräns, gränsen mot land samt heldragna linjerna 1 och 2.
