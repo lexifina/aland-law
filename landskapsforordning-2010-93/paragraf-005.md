@@ -1,0 +1,4 @@
+# 5 § Förbud mot utsläpp till grundvatten
+Kapitel: 2 kap. Utsläppsförbud, gränsvärden och tillståndsplikt
+
+Ämnen som avses i bilaga 3 får inte släppas ut till grundvatten. Med utsläpp till grundvatten menas tillförsel till grundvatten antingen utan eller efter infiltration genom jordlager. Förbudet gäller inte sådana utsläpp till grundvatten av hushållsavloppsvatten från bebyggelse utan anslutning till avloppsnät som inte påverkar viktiga eller för annan vattenförsörjning lämpliga grundvattenområden eller grundvatten som ligger inom någon annans fastighet eller används av någon annan. Förbudet gäller inte heller utsläpp till grundvatten som har konstaterats innehålla så små mängder eller koncentrationer av de ämnen som anges i bilaga 3 att det nu eller i framtiden inte föreligger någon risk för att grundvattnets kvalitet ska försämras.
