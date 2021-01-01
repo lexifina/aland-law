@@ -1,0 +1,32 @@
+# 18 § Landskapets lagstiftningsbehörighet
+Kapitel: 4 kap. Landskapets behörighet
+
+Landskapet har lagstiftningsbehörighet i fråga om
+1) lagtingets organisation och uppgifter samt val av lagtingets ledamöter; landskapsregeringen och under denna lydande myndigheter och inrättningar,
+2) landskapets tjänstemän, tjänstekollektivavtal för landskapets anställda, disciplinär bestraffning av landskapets tjänstemän,
+2a) arbetspensionsskydd för landskapets anställda och för förtroendevalda inom landskapsförvaltningen samt för rektorer, lärare och timlärare vid grundskolor i landskapet,
+3) landskapets flagga och vapen och deras användning i landskapet, användningen av landskapets flagga på landskapets fartyg samt på handelsfartyg och fiske-, fritids- och därmed jämförbara farkoster som har hemort i landskapet, dock så att statliga ämbetsverks och inrättningars samt enskildas rätt att använda rikets flagga inte får inskränkas,
+4) kommunindelning, kommunala val, kommunernas förvaltning, kommunernas tjänsteinnehavare, tjänstekollektivavtal för kommunernas anställda, disciplinär bestraffning av kommunernas tjänsteinnehavare,
+5) landskapet tillkommande tilläggsskatt på inkomst och tillfällig extra inkomstskatt, landskapet tillkommande närings- och nöjesskatter, grunderna för avgifter till landskapet, kommunerna tillkommande skatter,
+6) allmän ordning och säkerhet med de undantag som nämns i 27 § 27, 34 och 35 punkten; brand- och räddningsväsendet,
+7) byggnads- och planväsendet, grannelagsförhållanden, bostadsproduktion,
+8) inlösen av fast egendom och särskilda rättigheter för allmänt behov mot full ersättning, med undantag av vad som stadgas i 61 §,
+9) hyra och hyresreglering, lega av jord,
+10) natur- och miljövård, friluftsliv, vattenrätt,
+11) fornminnen, skydd av kulturhistoriskt värdefulla byggnader och föremål i landskapet,
+12) hälso- och sjukvård, med de undantag som stadgas i 27 § 24, 29 och 30 punkten; eldbegängelse,
+13) socialvård; tillstånd till utskänkning av alkoholdrycker,
+14) undervisning, läroavtal, kultur, idrott, ungdomsarbete; arkiv-, biblioteks- och museiväsendet med det undantag som stadgas i 27 § 39 punkten,
+15) jord- och skogsbruk; styrning av lantbruksproduktionen, dock så att förhandlingar skall föras med de statsmyndigheter saken gäller innan lagstiftningsåtgärder angående styrning av lantbruksproduktionen vidtas,
+16) jakt och fiske, registrering av fiskefartyg, styrning av fiskerinäringen,
+17) djurskydd och veterinärväsendet med de undantag som stadgas i 27 § 31-33 punkten,
+18) tillvaratagande av jordbruksmarks, skogsmarks och fiskevattens produktionsförmåga; skyldighet att i sådant syfte mot full ersättning i någon annans besittning för viss tid upplåta jordbruksmark och fiskevatten som är outnyttjade eller endast delvis utnyttjade,
+19) rätt att leta efter, inmuta och utnyttja mineralfyndigheter,
+20) postväsendet samt rätt att utöva rundradio- och televisionsverksamhet inom landskapet med de begränsningar som följer av 27 § 4 punkten,
+21) vägar och kanaler, vägtrafik, spårbunden trafik, båttrafik, farleder för den lokala sjötrafiken,
+22) näringsverksamhet med beaktande av vad som stadgas i 11 §, 27 § 2, 4, 9, 12-15, 17-19, 26, 27, 29-34, 37 och 40 punkten samt 29 § 1 mom. 3-5 punkten, dock så att även lagtinget har behörighet att vidta åtgärder för att främja sådan näringsverksamhet som avses i de nämnda punkterna,
+23) främjande av sysselsättningen,
+24) statistik om förhållandena i landskapet,
+25) beläggande med straff och storleken av straff inom rättsområden som hör till landskapets lagstiftningsbehörighet,
+26) utsättande och utdömande av vite samt användning av andra tvångsmedel inom rättsområden som hör till landskapets lagstiftningsbehörighet,
+27) övriga angelägenheter som enligt grundsatserna i denna lag skall hänföras till landskapets lagstiftningsbehörighet.
