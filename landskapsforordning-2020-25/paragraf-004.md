@@ -1,0 +1,5 @@
+# 4 § Lämplighetsprov
+
+Bestämmelser om lämplighetsprov enligt ett i 10 § i lagen om yrkesutbildade personer inom socialvården avsett villkorligt beslut om rätt att utöva yrke eller rätt att använda en yrkesbeteckning finns i landskapslagen om erkännande av yrkeskvalifikationer.
+
+Om sökanden enligt ett sådant villkorligt beslut om rätt att utöva yrke eller rätt att använda en yrkesbeteckning som har meddelats med stöd av 11 § i landskapslagen om yrkesutbildade personer inom socialvården ska genomgå ett lämplighetsprov som kompensationsåtgärd, bestämmer den behöriga myndigheten enligt 7 § i landskapslagen om yrkesutbildade personer inom socialvården om det huvudsakliga innehållet i lämplighetsprovet och vem som ska verkställa provet. Lämplighetsprovet ska enligt 6 § 5 mom. i landskapslagen om erkännande av yrkeskvalifikationer ordnas av Högskolan på Åland. Att lämplighetsprov har avlagts med godkänt resultat visas med ett intyg som utfärdas av den som ordnat lämplighetsprovet. Avsikten med lämplighetsprovet är att säkerställa att sökandens kompetens motsvarar den kompetens som uppnås genom den utbildning som krävs i Finland.
