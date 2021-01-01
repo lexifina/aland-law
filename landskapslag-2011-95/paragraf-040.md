@@ -1,0 +1,4 @@
+# 40 § Påföljder vid överträdelser av programreglerna
+Kapitel: 8 kap. Påföljder, straff och besvär
+
+Finner programnämnden att ett program som har förekommit i en radio- eller televisionssändning eller i beställ-tv strider mot lag ska den som bedriver sändningsverksamheten tilldelas en anmärkning. Ett beslut om anmärkning ska offentliggöras på åtgärd av den som har tilldelats anmärkningen. Har den som bedriver sändningsverksamhet under samma kalenderår tilldelats minst tre anmärkningar eller är en enskild överträdelse att betrakta som synnerligen grov, kan nämnden utfärda ett sändningsförbud för en viss tid. Ett beslut om sändningsförbud får fattas endast när omständigheterna klart ger vid handen att en anmärkning inte är ett tillräckligt medel för att förmå den som bedriver sändningsverksamheten att rätta sig.
