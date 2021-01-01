@@ -1,0 +1,1 @@
+Republikens presidents förordning (2020:85) om skötseln på Åland av vissa förvaltnings- och tillsynsuppgifter avseende behörighetskrav och yrkesutövning för yrkesutbildade personer inom socialvården (upphävd)
