@@ -1,0 +1,12 @@
+# 7 § Plan för att stöda den äldre befolkningen
+Kapitel: 2 kap. Allmänna skyldigheter
+
+Kommunfullmäktige ska anta en plan för att stöda den äldre befolkningen. Äldrerådet ska ges möjlighet att delta i beredningen av planen. Planen ska revideras minst vart fjärde år. Planen ska innehålla:
+1) En beskrivning av kommunens och Ålands hälso- och sjukvårds befintliga resurser för att tillhandahålla tjänster och service till den äldre befolkningen i kommunen.
+2) En beskrivning av den befolkningsgrupp som består av äldre personer och som även inkluderar en prognos över förändringar under den förestående fyraårsperioden.
+3) En bedömning av den äldre befolkningens välbefinnande, tillräckligheten och kvaliteten i fråga om de tjänster som tillhandahålls av kommunen och andra tjänsteproducenter samt andra faktorer som påverkar den äldre befolkningens servicebehov.
+4) En beskrivning av åtgärder med en tidsplan för att ordna och utveckla servicenivån i enlighet med kraven i lagstiftningen under den kommande fyraårsperioden samt en bedömning av de resurser som kommunen behöver för dessa åtgärder. Beskrivningen ska ange hur ansvaret för åtgärderna fördelar sig mellan de olika kommunala verksamheterna. Åtgärderna ska stöda den äldre befolkningens välbefinnande, hälsa, funktionsförmåga och förmåga att klara sig på egen hand.
+5) De gemensamma målen för de samordnade tjänsterna, ansvarsfördelningen och de övergripande rutinerna för samarbetet samt övriga åtgärder för säkerställandet av funktionella servicehelheter för klienterna, som kommunen och Ålands hälso- och sjukvård enligt 69 § i landskapslagen om socialvård ska komma överens om i ett samverkansavtal.
+6) En beskrivning av kommunens kort- och långsiktiga mål för hur den äldre befolkningens välbefinnande, funktionsförmåga och förmåga att klara sig på egen hand ska stödas och servicen för den äldre befolkningen utvecklas och förbättras kvalitativt och kvantitativt. Beskrivningen ska inkludera vilka långsiktiga åtgärder som behöver vidtas för att uppnå målen, tidsplanen för åtgärderna samt vilka myndigheter som ansvarar för genomförandet av åtgärderna.
+
+Ålands hälso- och sjukvård antar med stöd av 25 § landskapslagen (2011:114) om hälso- och sjukvård en strategisk plan över hur behoven av hälso- och sjukvård för landskapets invånare ska uppfyllas. Såväl Ålands hälso- och sjukvårds plan som kommunens plan för att stöda den äldre befolkningen ska beakta det som sägs i denna lag om samarbete, ansvar för genomförandet samt det som överenskoms i ett samverkansavtal med kommunen.
