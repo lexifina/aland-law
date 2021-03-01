@@ -1,0 +1,1 @@
+Landskapsförordning (2021:8) om tillämpning på Åland av inrikesministeriets förordning om utbildning och utbildning i användning av maktmedelsredskap för väktare och ordningsvakter samt utbildning för ansvariga föreståndare hos innehavare av näringstillstånd för säkerhetsbranschen
