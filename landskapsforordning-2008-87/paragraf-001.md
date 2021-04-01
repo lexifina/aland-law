@@ -1,0 +1,4 @@
+# 1 § Tillämpningsområde
+Kapitel: 1 kap. Allmänna bestämmelser
+
+I denna förordning finns närmare bestämmelser om innehållet i den grundläggande yrkeskompetensutbildning och fortbildning som anges i landskapslagen (2008:85) om yrkeskompetens för lastbils- och bussförare, nedan kallad yrkeskompetenslagen. Förordningen innehåller även bestämmelser om omfattningen och genomförandet av den undervisning som ska ges inom ramen för den grundläggande yrkeskompetensutbildningen och fortbildningen. Likaså innehåller förordningen bestämmelser om hur det i yrkeskompetenslagen avsedda provet ska genomföras, vad som gäller vid utvidgning av yrkeskompetensen, hur det yrkeskunnande som krävs för erhållande av trafiktillstånd ska tillgodoräknas i utbildningen samt vilka krav som gäller vid körningar under utbildningen. Förordningen innehåller även bestämmelser om de dokument som anger yrkeskompetensen.

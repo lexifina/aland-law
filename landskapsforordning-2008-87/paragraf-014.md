@@ -1,0 +1,8 @@
+# 14 § Övergångsbestämmelser
+Kapitel: 4 kap. Ikraftträdelse- och övergångsbestämmelser
+
+Förare som erhållit körkort av klass D1, D, D1E, eller DE före den 10 september 2008 behöver inte genomgå i denna förordning föreskriven utbildning för grundläggande yrkeskompetens. Förarna måste dock ha genomgått i denna förordning föreskriven fortbildning innan den 10 september 2013. Föraren ska även från och med den 10 september 2013 kunna påvisa giltigheten av sin yrkeskompetens i enlighet med vad som föreskrivs om påvisande av yrkeskompetens på basis av utbildning i yrkeskompetenslagen. I det fall förarna ansöker om att få ett nytt i 10 § avsett körkort tidigast sex månader före den 10 september 2013 infaller giltighetsdatumet fem år efter den 10 september 2013 i annat fall fem år efter att intyget över att fortbildningen genomgåtts i sin helhet utfärdats.
+
+Förare som erhållit körkort av klass C1, C, C1E, eller CE före den 10 september 2009 behöver inte genomgå i denna förordning föreskriven utbildning för grundläggande yrkeskompetens. Förarna måste dock ha genomgått i denna förordning föreskriven fortbildning innan den 10 september 2014. Föraren ska även från och med den 10 september 2014 kunna påvisa giltigheten av sin yrkeskompetens i enlighet med vad som föreskrivs om påvisande av yrkeskompetens på basis av utbildning i yrkeskompetenslagen. I det fall förarna ansöker om att få ett nytt i 10 § avsett körkort tidigast sex månader före den 10 september 2014 infaller giltighetsdatumet fem år efter den 10 september 2014 i annat fall fem år efter att intyget över att fortbildningen genomgåtts i sin helhet utfärdats.
+
+Åtgärder som verkställigheten av förordningen förutsätter får vidtas innan förordningen träder i kraft.
