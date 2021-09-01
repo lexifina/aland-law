@@ -1,0 +1,4 @@
+# 6f § Handläggningstid för ärenden som gäller översyn av tillstånd för industriutsläppsdirektivanläggningar
+Kapitel: 2 kap. Särskilda bestämmelser om industriutsläppsdirektivanläggningar
+
+Ett i 26l § i miljöskyddslagen avsett ärende som gäller översyn av tillstånd ska avgöras så snart som möjligt och senast tio månader efter det att ärendet blev anhängigt, om inte ärendets omfattning, brister i ansökan, antalet översynsärenden eller andra särskilda skäl förutsätter en längre handläggningstid. I vilket fall som helst ska ärendet avgöras så att den tidsfrist på fyra år som anges i direktiv 2010/75/EU artikel 21.3 kan följas. En eventuell begäran om komplettering av ansökan ska framföras inom en månad från det att ärendet blev anhängigt. En eventuell tilläggsbegäran om komplettering av ansökan ska också framföras skyndsamt.
