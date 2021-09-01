@@ -1,0 +1,5 @@
+# 4 § Ersättningar
+
+Energimyndigheten ersätts för kostnaderna för skötseln av i 3 § avsedda förvaltningsuppgifter som gäller registret i landskapet Åland på det sätt som landskapsregeringen och Energimyndigheten kommer överens.
+
+Intäkterna från auktioneringen av utsläppsrätter som återförs till staten, och som härrör från försäljning av utauktionerade utsläppsrätter för landskapet, överförs från statens medel till landskapet på det sätt landskapsregeringen och Energimyndigheten kommer överens. Landskapets andel av den totala kvantiteten utauktionerade utsläppsrätter bestäms, på samma sätt som Finlands andel av de utsläppsrätter som utauktionerats av samtliga medlemsstater, i enlighet med artikel 10.2 i Europaparlamentets och rådets direktiv 2003/87/EG om ett system för handel med utsläppsrätter för växthusgaser inom gemenskapen och om ändring av rådets direktiv 96/61/EG, sådan artikeln lyder senast ändrad genom Europaparlamentets och rådets direktiv (EU) 2018/410 om ändring av direktiv 2003/87/EG för att främja kostnadseffektiva utsläppsminskningar och koldioxidsnåla investeringar, och beslut (EU) 2015/1814.
