@@ -1,0 +1,3 @@
+# 2 § Förvaltningsuppgifter
+
+De förvaltningsuppgifter som enligt lagen om begränsning av användning av farliga ämnen i elektrisk och elektronisk utrustning ankommer på miljöministeriet ska på Åland skötas av landskapsregeringen, till den del förvaltningen grundar sig på landskapets lagstiftningsbehörighet på området. De förvaltningsuppgifter som enligt lagen om begränsning av användning av farliga ämnen i elektrisk och elektronisk utrustning ankommer på Säkerhets- och kemikalieverket ska på Åland skötas av Ålands miljö- och hälsoskyddsmyndighet, till den del förvaltningen grundar sig på landskapets lagstiftningsbehörighet på området.
