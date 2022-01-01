@@ -1,0 +1,7 @@
+# 13 § Informationsskyldighet
+
+Ett företag ska direkt på skriftlig begäran av ett bredbandsföretag lämna kompletterande information till den information om byggprojekt som avses i 4 §. Informationen ska lämnas på rättvisa och skäliga villkor inom två månader efter att en skriftlig begäran mottogs. Ett företag kan vägra att lämna informationen på någon av de grunder som ges i 10 §. Denna informationsskyldighet avser dock inte information om sådan fysisk infrastruktur som inte lämpar sig för samnyttjande och inte heller information om sådan fysisk infrastruktur, nät eller delar av dessa för vilka gäller att ett äventyrande av dem skulle kunna orsaka betydande allmän fara (kritisk infrastruktur).
+
+Om det uppstår en tvist beträffande skyldigheterna enligt denna paragraf får det företag vars rättigheter eller intressen ärendet rör föra ärendet till tvistlösningsmyndigheten för avgörande. Om inte längre tid är nödvändig med hänsyn till en tvists omfattning eller andra särskilda omständigheter ska tvistlösningsmyndigheten besluta i ärenden som avses i denna paragraf inom två månader efter att ärendet blev anhängigt.
+
+Landskapsregeringen kan i landskapsförordning besluta närmare om tekniska föreskrifter om minimiinnehållet i den i 1 mom. avsedda informationen, dess elektroniska form och interoperabiliteten samt om informationssäkerheten hos de system som behövs för behandling och överföring av informationen.
