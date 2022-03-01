@@ -1,0 +1,9 @@
+# 7 § Öppenhet
+
+När ett förslag till bestämmelse som innehåller nya eller ändrade krav för ett reglerat yrke offentliggörs ska det åtföljas av en redogörelse av förhandsbedömningen enligt 2 § i landskapslagen om proportionalitetsprövning före antagandet av nya eller ändrade krav för reglerade yrken och i enlighet med bestämmelserna i denna förordning. Redogörelsen ska vara tillräckligt utförlig för att göra det möjligt att bedöma om bestämmelserna följts. Redogörelsen ska styrkas med kvalitativa och om möjligt och relevant, kvantitativa uppgifter.
+
+Landskapsregeringen ska lämna och ta emot den information om proportionalitetsprövning och yrkesreglering som avses i artikel 10.1 i Europaparlamentets och rådets direktiv 2018/958/EU, i den ursprungliga lydelsen.
+
+Enligt 59.5 i yrkeskvalifikationsdirektivet ska landskapsregeringen lämna redogörelser över nya eller ändrade krav för reglerade yrken till kommissionen i den databas över reglerade yrken som avses i artikel 59.1 i det direktivet. Landskapsregeringen ska även registrera de motiveringar enligt vilka den nya eller ändrade regleringen anses vara motiverad och proportionerlig enligt landskapslagen om proportionalitetsprövning före antagandet av nya eller ändrade krav för reglerade yrken och bestämmelserna i denna förordning.
+
+Landskapsregeringen ska efter antagandet av bestämmelser som innehåller nya eller ändrade krav för ett reglerat yrke övervaka att bestämmelserna överensstämmer med proportionalitetsprincipen. I enlighet med 3 § 2 mom. i landskapslagen om erkännande av yrkeskvalifikationer ska landskapsregeringen bedriva ett nära samarbete med behöriga myndigheter i riket, och ska i enlighet med artikel 59.6 i yrkeskvalifikationsdirektivet vartannat år lämna en rapport till kommissionen om de krav som tagits bort eller mildrats gällande reglerade yrken.
