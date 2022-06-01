@@ -1,0 +1,3 @@
+# 1 § Tillämpningsområde
+
+Vid uträknandet av kostnader för vattenförbrukning och redovisningen av förbruknings- och faktureringsuppgifter för vatten i hyreshus som avses i 11a § i hyreslagen (1999:19) för landskapet Åland samt vid fördelning av kostnader och redovisning av förbruknings- och faktureringsuppgifter för fjärrvärme och fjärrkyla i flerbostadshus och i byggnader med flera användningsområden ska statsrådets förordning om förbruknings- och faktureringsuppgifter och fördelning av kostnaderna i fråga om värme, kyla och vatten (FFS 254/2021) tillämpas på Åland med de avvikelser som anges i 2 §.
