@@ -1,0 +1,11 @@
+# 22 § Kvävegödsling
+Kapitel: 2 kap. Miljöersättning
+Rubrik: Balanserad användning av näringsämnen
+
+I de använda näringsmängderna ska inräknas näringsämnena i såväl oorganiska som organiska gödselfabrikat och i stallgödsel från husdjur samt näringsämnena i andra ämnen som sprids på åkrarna, om de måste uppges i gödselfabrikatets varudeklaration.
+
+Mängden kvävegödsel får i begränsad utsträckning ökas på basis av den skördenivå som uppnåtts. Den uppnådda skördenivån för ett skifte räknas ut genom att den aktuella odlingsväxtens skörd på hela gårdsbruksenheten delas med antalet skiften där växten i fråga har odlats. För att stödmottagaren ska kunna använda det tillskott till kvävegödselmängderna som avses i tabellerna 1a, 1b och 4 i bilaga 4 måste den enligt den ovan beskrivna beräkningen erhållna skördenivån, som gödselmängden baserar sig på, ha uppnåtts under något av de fem föregående skördeåren. Utgående från en högre uppnådd skördenivå är det möjligt att vid odling av spannmål och oljeväxter utöver de mängder kväve som anges i tabell 1 i bilaga 4 använda tillskott till kvävemängderna i enlighet med tabellerna 1a och 1b i bilaga 4 och vid odling av lök utöver de mängder kväve som anges i tabell 3 i bilaga 4 använda tillskott till kvävemängderna i enlighet med tabell 4 i bilaga 4. Har det genom odling av en växt uppnåtts en skördenivå som berättigar till tillskott enligt tabellerna 1a eller 1b i bilaga 4 får motsvarande justeringar på basis av skördenivån användas även i fråga om övriga växter enligt tabellerna 1a eller 1b i bilaga 4. Justeringar på basis av skördenivån får tillämpas steglöst. Tillskottskväve enligt justering på basis av skördenivån får inte ges till höstsådda grödor på hösten under såningsåret.
+
+På skiften som består av jordar med olika mullhalt får ett vägt medeltal av de högsta tillåtna givorna som avses i tabellerna 1, 2, 3 och 4 i bilaga 4 användas.
+
+Svartträda, stubbträda och ettårig grönträda får inte gödslas. Anläggs höstsäd eller annat motsvarande växtbestånd på träda efter den 15 juli eller det på sådana arealer med ekologiskt fokus som avses i artikel 46 i förordningen om direktstöd odlas en gröda vars skörd bärgas, får skiftet gödslas i enlighet med bilaga 4.

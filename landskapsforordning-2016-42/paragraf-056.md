@@ -1,0 +1,6 @@
+# 56 § Val av frivilliga komplement som tillhör miljöersättningen
+Kapitel: 3 kap. Ersättning för ekologisk produktion
+
+En stödmottagare som har ett åtagande om övergång till ekologisk produktion eller ett åtagande om bibehållande av ekologisk produktion kan välja något av de frivilliga komplement som avses i 27 § 1 mom. 1, 2, 4 och 5 punkterna. Ett frivilligt komplement som avses i 27 § 2 mom. kan väljas enbart på gårdsbruksenheter som har en djurtäthet som överstiger 0,35 djurenheter per hektar. Ett frivilligt komplement som avses i 27 § 4 mom. kan väljas enbart på gårdsbruksenheter vars djurtäthet underskrider 0,35 djurenheter per hektar. Av de markförbättrande växter som avses i 27 § 1 mom. 4 punkten kan dock inte gröngödslingsvall väljas. Ett frivilligt komplement som avses i 27 § 1 mom. 1 punkten kan inte kombineras med ett frivilligt komplement som avses 27 § 1 mom. 4a punkten. För ett skifte som används för odling av ettåriga trädgårdsväxter eller matpotatis kan inget frivilligt komplement väljas.
+
+De frivilliga komplementen ska väljas samtidigt då åtagandet ingås och villkoren ska uppfyllas under hela åtagandeperioden. Nya frivilliga komplement kan inte väljas i samband med att ett åtagande förlängs.
