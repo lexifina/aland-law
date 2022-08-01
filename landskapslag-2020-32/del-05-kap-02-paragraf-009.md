@@ -1,0 +1,19 @@
+# 9 § Handlingssekretess och tystnadsplikt
+Avdelning: DEL V PERSONAL INOM BARNOMSORG OCH GRUNDSKOLA
+Kapitel: 2 kap. Särskilda bestämmelser
+
+Handlingar som innehåller uppgifter om personliga eller ekonomiska omständigheter som gäller ett barn, en elev eller medlemmar av barnets eller elevens familj ska hållas hemliga. En sekretessbelagd handling eller en kopia eller utskrift av en sådan handling får inte visas för eller lämnas ut till utomstående.
+
+Den som är anställd eller praktikant hos kommunen, medlem av ett kommunalt organ, verksam vid skolhälsovården, vid en privat barnomsorgsverksamhet eller vid en ersättande skola, får inte för utomstående röja vad han eller hon vid skötseln av sina uppgifter enligt denna lag fått veta om personliga eller ekonomiska omständigheter som rör ett barn, en elev, medlemmar av barnets eller elevens familj, om inte den berörda personen gett sitt samtycke till detta. Om den berörda personen inte själv kan bedöma innebörden av samtycket, ska samtycket begäras av vårdnadshavaren.
+
+Trots bestämmelserna i 1 och 2 mom. eller vad som särskilt bestäms om sekretess har de personer som är anställda inom den kommunala utbildningsverksamheten eller är verksamma inom skolhälsovården, vid en privat barnomsorgsverksamhet eller vid en ersättande skola rätt att lämna uppgifter till varandra och till organ inom kommunens förvaltning om uppgifterna är nödvändiga för att ett barns barnomsorg och skolgång ska kunna ordnas på ett ändamålsenligt sätt. Det som bestäms i 1 och 2 mom. hindrar inte heller att uppgifter lämnas till den som på tjänstens vägnar har rätt att få kännedom om saken.
+
+Om en elev som är under 18 år övergår till verksamhet eller utbildning som en annan utbildningsanordnare ordnar i enlighet med denna lag, landskapslagen (2011:13) om gymnasieutbildning eller landskapslagen (1999:53) om Ålands folkhögskola, ska den tidigare utbildningsanordnaren trots bestämmelserna om sekretess utan dröjsmål lämna uppgifter som är nödvändiga för ordnandet av undervisningen eller utbildningen till den nya utbildningsanordnaren. Motsvarande uppgifter kan lämnas också på begäran av den nya utbildningsanordnaren.
+
+Den som fullgör uppgifter som avses i denna lag har oberoende av skyldigheten att iaktta sekretess, rätt att till polisen anmäla uppgifter som är nödvändiga för bedömningen av ett hot mot liv eller hälsa eller för förhindrande av en hotande gärning, om han eller hon vid fullgörandet av uppgifterna har fått kännedom om omständigheter som ger skäl att misstänka att någon löper risk att bli utsatt för våld.
+
+Enligt landskapslagen om tillämpning i landskapet Åland av barnskyddslagen är förtroendevalda och anställda skyldiga att till det organ som svarar för socialvården i kommunen anmäla om de får vetskap om ett barn vars behov av vård och omsorg förutsätter att behovet av barnskydd utreds.
+
+Den som är anställd inom kommunens utbildningsverksamhet och i sitt arbete har fått kännedom om en person vars behov av socialvård är uppenbart ska i enlighet med 35 § i landskapslagen (2020:12) om socialvård styra personen att söka socialservice eller, om personen samtycker till det, kontakta det organ som svarar för socialvården i kommunen så att stödbehovet kan bedömas. Om ett samtycke inte kan fås och personen är uppenbart oförmögen att svara för sin omsorg, hälsa eller säkerhet eller om ett barns bästa absolut kräver det ska en anmälan om behovet av socialvård göras utan dröjsmål trots sekretessbestämmelserna. Om den anmälningspliktiga personen utan dröjsmål har kontaktat den myndighet som ansvarar för socialvården och uppgett orsakerna till kontakten behöver ingen barnskyddsanmälan göras med anledning av samma uppgifter.
+
+Utöver de särskilda bestämmelser som ingår i 9–11 §§ i del V gäller det som föreskrivs om offentlighet och sekretess i offentlighetslagen (2021:79) för Åland.
