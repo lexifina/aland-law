@@ -1,6 +1,6 @@
-# 7 § Avslutad föräldradagpenningsperiod
+# 7 § Rätt till hemvårdsstöd
 Kapitel: 3 kap. Allmänna bestämmelser om rätt till stöd
 
-Rätten till hemvårdsstöd för ett barn börjar då föräldradagpenningsperioden enligt 9 kap. 10 § i sjukförsäkringslagen (FFS 1224/2004) avslutats för detta barn. En vårdnadshavare har inte rätt att lyfta hemvårdsstöd för sitt barn samtidigt som han eller hon lyfter föräldradagpenning för ett syskon.
+Rätten till hemvårdsstöd för ett barn börjar då det har gått 160 vardagar sedan barnets födelse. Med vardagar avses andra dagar än söndagar, helgdagar och söckenhelgdagar.
 
-Trots bestämmelserna i 1 mom. kan hemvårdsstöd för syskon som avses i 13 § beviljas även då vårdnadshavaren lyfter eller har rätt till sådan föräldradagpenning som avses i 1 mom.
+Rätten till hemvårdsstöd för ett barn omfattar inte den tid som föräldrapenning betalas till vårdnadshavaren, dock så att vårdnadshavaren har rätt till hemvårdsstöd för syskon enligt bestämmelserna i 13 §.
