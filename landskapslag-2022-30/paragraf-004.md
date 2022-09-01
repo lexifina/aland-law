@@ -1,0 +1,10 @@
+# 4 § Mottagningsanordningar i hamnar
+Kapitel: 2 kap. Mottagning av avfall i hamnar
+
+Hamninnehavaren ska se till att de fartyg som normalt använder hamnen får tillgång till mottagningsanordningar som tillgodoser deras behov utan att de orsakas onödigt dröjsmål. Mottagningsanordningarna ska kunna ta emot de typer och mängder av avfall som kommer från de fartyg som normalt använder hamnen. Hamninnehavaren ska även erbjuda sådana fartyg som inte omfattas av denna lag möjlighet att nyttja hamnens mottagningsanordningar såvida detta inte är orimligt med hänsyn till avfallets art eller mängd. Mottagningsanordningarna ska vara anpassade till hamnanvändarnas operativa krav, hamnens storlek och geografiska belägenhet samt de typer av fartyg som anlöper hamnen. Formaliteterna och de praktiska arrangemangen i samband med användningen av mottagningsanordningar ska vara enkla och snabba så att onödigt dröjsmål för fartygen undviks. Hamninnehavaren ska säkerställa att mottagningsanordningarna i hamnen fungerar klanderfritt och att anordningar som är ur funktion repareras utan dröjsmål.
+
+En innehavare av en hamn för fritidsbåtar kan ordna mottagningen av avfall genom att komma överens om användarrätt av en annan mottagningsanordning som finns i närområdet på rimligt avstånd. Då ska hamnen för fritidsbåtar tillhandahålla lättillgänglig information om arrangemanget och ifrågavarande mottagningsanordnings läge och öppettider. Vid dimensioneringen av mottagningsanordningar för avfall i hamnar för fritidsbåtar ska även användare från andra hamnar för fritidsbåtar beaktas.
+
+För anskaffning och användning av mottagningsanordningarna för skadliga flytande ämnen samt för transport och behandling av avfall och blandningar svarar importören eller någon annan mottagare eller exportören eller någon annan avsändare av det ämne som ska transporteras.
+
+Genom landskapsförordning kan närmare bestämmelser utfärdas angående arrangemang och krav i hamnar på mottagningsanordningar för avfall från fartyg.
