@@ -1,0 +1,11 @@
+# 1 § Inledande bestämmelse
+
+I denna lag finns bestämmelser om kontroll av produktion, beredning, märkning, distribution och marknadsföring av ekologiskt framställda produkter. Denna lag tillämpas också på verkställigheten av följande EU-rättsakter som reglerar området ekologisk produktion:
+1) Europaparlamentets och rådets förordning (EU) 2018/848 om ekologisk produktion och märkning av ekologiska produkter och om upphävande av rådets förordning (EG) nr 834/2007, nedan kallad grundförordningen,
+2) Europaparlamentets och rådets förordning (EU) 2017/625 om offentlig kontroll och annan offentlig verksamhet för att säkerställa tillämpningen av livsmedels- och foderlagstiftningen och av bestämmelser om djurs hälsa och djurskydd, växtskydd och växtskyddsmedel samt om ändring av Europaparlamentets och rådets förordningar (EG) nr 999/2001, (EG) nr 396/2005, (EG) nr 1069/2009, (EG) nr 1107/2009, (EU) nr 1151/2012, (EU) nr 652/2014, (EU) 2016/429 och (EU) 2016/2031, rådets förordningar (EG) nr 1/2005 och EG nr 1099/2009 och rådets direktiv 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG och 2008/120/EG och om upphävande av Europaparlamentets och rådets förordningar (EG) nr 854/2004 och (EG) nr 882/2004, rådets direktiv 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG och 97/78/EG samt rådets beslut 92/438/EEG (förordningen om offentlig kontroll), nedan kallad kontrollförordningen.
+
+För att säkerställa att ekologiska produkter håller en genomgående god kvalitet samt för att säkra konkurrens på lika villkor mellan aktörer som bedriver verksamhet med ekologiska produkter ska ett kontrollsystem upprättas av landskapsregeringen i enlighet med bestämmelserna i denna lag. Kontrollsystemet avser uppgifter om och tillsyn över produktionsmetoder och märkning av livsmedelsråvaror som producerats inom jordbruket eller som är nära kopplade till jordbruk.
+
+Endast aktörer och aktörsgrupper som omfattas av landskapets kontrollregister över ekologisk produktion får marknadsföra sina produkter som ekologiskt framställda.
+
+Denna lag tillämpas inte på sådan verksamhet som avser framställning, lagring, utsläppande på marknaden samt detalj- och partihandel med ekologiska alkoholdrycker och ekologisk sprit som innehåller mer än 1,2 volymprocent etylalkohol.

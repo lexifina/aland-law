@@ -1,0 +1,3 @@
+# 11a § Åtgärder vid bristande efterlevnad
+
+Efter att landskapsregeringen eller ett auktoriserat kontrollorgan konstaterat bristande efterlevnad av bestämmelserna om ekologisk produktion, ska landskapsregeringen ålägga aktören, aktörsgruppen eller den som är befriad från certifieringsskyldigheten att vidta nödvändiga åtgärder för att avhjälpa bristerna. Landskapsregeringen kan förena ett sådant beslut med en tillfällig begränsning av rätten att försälja produkter såsom ekologiskt producerade. En sådan begränsning kan avse produkter från en viss anläggning, en del av en anläggning eller från ett visst markskifte. Av beslutet ska framgå skälen till att åtgärden vidtas och den tid under vilken begränsningen ska gälla.
