@@ -1,0 +1,3 @@
+# 5a §
+
+Med avvikelse från vad som föreskrivs i bestämmelserna i 33 § i konsumentsäkerhetslagen och i 19 § i lagen om kosmetiska produkter tas för de prestationer som landskapsregeringen och Ålands miljö- och hälsoskyddsmyndighet utför enligt denna lag avgifter till landskapet enligt de grunder som anges i landskapslagen (1993:27) om grunderna för avgifter till landskapet och i enlighet med landskapslagen (2007:115) om Ålands miljö- och hälsoskyddsmyndighet. Ålands miljö- och hälsoskyddsmyndighet tar ut en avgift av verksamhetsutövaren för inspektioner som gäller iakttagandet av beslut som utfärdats med stöd av 34 – 42 §§ och 44 § i konsumentsäkerhetslagen.
