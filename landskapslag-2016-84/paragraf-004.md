@@ -1,0 +1,3 @@
+# 4 § Planer för styrning och tillsyn
+
+Bestämmelserna rörande planer för styrning och tillsyn i 4 a, 6 och 7 §§ i hälsoskyddslagen ska inte tillämpas på Åland. Bestämmelsen i 5 § i hälsoskyddslagen, till den del den anger att regionförvaltningsverket bedömer och utvärderar de kommunala tillsynsplanerna för hälsoskyddet, ska inte tillämpas på Åland. För styrningen och samordningen av den tillsyn som regleras i hälsoskyddslagen samt för en regelbunden tillsyn som är av hög kvalitet samt förebygger sanitära olägenheter ska bestämmelser om detta finnas i de verksamhets-, resultat- och tillsynsplaner för ÅMHM som avses i 5 § i landskapslagen (2007:115) om Ålands miljö- och hälsoskyddsmyndighet.
