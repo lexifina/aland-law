@@ -1,14 +1,14 @@
 # 21 § Lagtingets utskott
 Kapitel: 3 kap. Lagtingets organisation
 
-Lagtinget tillsätter för varje valperiod följande permanenta utskott:
+Lagtinget tillsätter för varje mandatperiod följande permanenta utskott:
 1) lag- och kulturutskottet,
 2) finans- och näringsutskottet och
 3) social- och miljöutskottet.
 
 Lagtinget ska även tillsätta ett justeringsutskott. På förslag av talmanskonferensen kan justeringsutskottet avskaffas.
 
-Lagtinget kan dessutom tillsätta ytterligare utskott antingen för återstoden av en valperiod eller för att bereda särskilda ärenden.
+Lagtinget kan dessutom tillsätta ytterligare utskott antingen för återstoden av en mandatperiod eller för att bereda särskilda ärenden.
 
 Lagtinget kan på förslag av talmannen eller talmanskonferensen besluta om nyval av ett eller flera utskott.
 

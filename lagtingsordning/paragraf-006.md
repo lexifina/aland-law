@@ -1,7 +1,7 @@
 # 6 § Lagtingsval
 Kapitel: 2 kap. Lagtinget och lagtingsledamöterna
 
-Alla röstberättigade har lika rösträtt i val till lagtinget där lagtingsledamöterna väljs genom direkta, proportionella och hemliga val.
+Alla röstberättigade har lika rösträtt i val till lagtinget där lagtingsledamöterna väljs genom direkta, proportionella och hemliga val som förrättas vart fjärde år (ordinarie val).
 
 För lagtingsval bildar Åland en valkrets.
 

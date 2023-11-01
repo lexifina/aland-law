@@ -10,14 +10,17 @@ Landskapsregeringen överlämnar ärenden till lagtinget i form av
 2) ett budgetförslag,
 3) ett meddelande,
 4) en berättelse,
-5) en redogörelse eller
-6) en årsredovisning i enlighet med 25 § landskapslagen (1971:42) om Ålands landskapsregering.
+5) en redogörelse,
+6) en årsredovisning i enlighet med 25 § i landskapslagen (1971:42) om Ålands landskapsregering eller
+7) ett förslag som överlämnas till lagtinget i enlighet med annan lagstiftning.
 
 Lantrådet eller landshövdingen överlämnar ett ärende till lagtinget i form av ett meddelande.
 
 Självstyrelsepolitiska nämnden initierar en debatt i ett ärende enligt 20 § 3 mom.
 
 Talmanskonferensen överlämnar ärenden till lagtinget i form av ett lagförslag som rör lagtingets organisation eller arbete eller som rör Ålands delegation i Nordiska rådets organisation eller arbete.
+
+Lag- och kulturutskottet lämnar ett meddelande till lagtinget över sin granskning av lagligheten i landskapsregeringens handläggning av ärenden eller finans- och näringsutskottet lämnar ett meddelande till lagtinget över sin övervakning av landskapets finanser och hur budgeten iakttas.
 
 En lagtingsledamot initierar ett ärende i lagtinget genom att väcka en motion. Lagtingsledamöterna har rätt att väcka
 1) lagmotioner, som innehåller förslag om stiftande av en landskapslag eller laginitiativ till riksdagen,

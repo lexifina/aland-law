@@ -1,8 +1,8 @@
-# 5 § Lagtingets sammansättning och valperiod
+# 5 § Lagtingets sammansättning och mandatperiod
 Kapitel: 2 kap. Lagtinget och lagtingsledamöterna
 
 Ålands lagting består av trettio ledamöter som väljs för fyra år åt gången.
 
-Lagtingets mandattid inleds vid arbetsårets öppnande. Det avgående lagtinget beslutar om tidpunkten för öppningen av arbetsåret så snart valresultatet har fastställts. Öppningen av arbetsåret ska hållas utan dröjsmål. Mandattiden fortgår tills nästa lagtingsval har förrättats och det tidigare lagtingets arbetsår har avslutats.
+Lagtingets mandatperiod inleds då lagtingsåret öppnas efter att lagtingsval har förrättats. Det avgående lagtinget beslutar om tidpunkten för öppningen av lagtingsåret. Öppningen av lagtingsåret ska hållas utan dröjsmål så snart valresultatet har fastställts. Mandatperioden fortgår tills nästa lagtingsval har förrättats och det tidigare lagtingets lagtingsår har avslutats.
 
-För ledamotskapet i lagtinget utgår ett arvode samt övriga ersättningar i enlighet med vad som bestäms i arbetsordningen eller i en landskapslag. I arbetsordningen eller landskapslagen kan också bestämmas att ersättning i särskilda fall ska utgå till tidigare ledamöter under en begränsad period. Om pension för ledamöterna bestäms i en landskapslag.
+3 mom. upphävt.
