@@ -1,0 +1,9 @@
+# 5e §
+
+Om ett certifieringsorgan anlitas ska organet, efter att kontrollerna och utvärderingarna gjorts, till landskapsregeringen och till den i 5b § 1 mom. avsedda anordnaren av penningspelsverksamhet avge en skriftlig rapport, om vilken det vid sidan av övriga avtalsvillkor ska avtalas mellan organet och den som anlitar det. Rapporten ska uppfylla de krav som i 5b § 2 mom. ställs på landskapsregeringens dokumentation rörande de årliga kontrollerna och utvärderingarna.
+
+I rapporten ska hänvisas till de kvalitetsledningssystem som tillämpats för den penningspelsverksamhet som är ifråga. I rapporten ska dessutom anges hur de krav som avses i 1 mom. uppfyllts
+
+Landskapsregeringen ska, efter att den gjort de i 5c § avsedda kontrollerna och utvärderingarna, eller om ett certifieringsorgan anlitats, efter att organet gjort de i 5c § avsedda kontrollerna och utvärderingarna samt överlämnat sin rapport, inom tre månader och i samråd med den i 5b § 1 mom. avsedda anordnaren av penningspelsverksamheten göra en helhetsbedömning av vilka eventuella förbättringsåtgärder avseende penningspelsverksamheten som ska vidtas för att syftet med denna lag ska uppnås.
+
+Den som anordnar penningspelsverksamheten enligt 3 § och med stöd av lotterilagen utfärdade bestämmelser i landskapsförordning och landskapsregeringen är skyldiga att försöka uppnå enighet kring vilka förbättringsåtgärder avseende penningspelsverksamheten som ska vidtas. Uppnås inte enighet och landskapsregeringen finner att brister föreligger i penningspelsverksamheten, kan landskapsregeringen fatta beslut om att anordnaren ifråga, inom en viss av landskapsregeringen angiven tid, ska vidta erforderliga åtgärder för att säkerställa att penningspelsverksamheten uppfyller de krav som följer av denna lag. Tidsfristen får inte understiga tre månader eller överstiga ett år.
