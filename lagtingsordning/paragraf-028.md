@@ -7,7 +7,8 @@ Republikens president överlämnar genom landshövdingen en framställning eller
 
 Landskapsregeringen överlämnar ärenden till lagtinget i form av
 1) ett lagförslag eller ett kompletterande lagförslag,
-2) ett budgetförslag,
+2) ett budgetförslag eller ett kompletterande budgetförslag,
+2a) ett förslag till budgetpolitiska mål eller en framställning om extra anslag,
 3) ett meddelande,
 4) en berättelse,
 5) en redogörelse,
@@ -25,7 +26,7 @@ Lag- och kulturutskottet lämnar ett meddelande till lagtinget över sin granskn
 En lagtingsledamot initierar ett ärende i lagtinget genom att väcka en motion. Lagtingsledamöterna har rätt att väcka
 1) lagmotioner, som innehåller förslag om stiftande av en landskapslag eller laginitiativ till riksdagen,
 2) anslutningsmotioner som innehåller förslag om stiftande av en landskapslag eller laginitiativ till riksdagen och som väcks senast den fjärde dagen efter att ett lagförslag eller förslag till laginitiativ till riksdagen antecknats för kännedom,
-3) budgetmotioner, som innehåller förslag till anslag eller något annat beslut som ska tas upp i budgeten eller i en tilläggsbudget, framställning om extra anslag eller finansinitiativ till riksdagen samt
+3) budgetmotioner, som innehåller förslag till anslag eller något annat beslut som ska tas upp i budgeten eller i en ändringsbudget, förslag om ändring av budgetpolitiska mål, framställning om extra anslag eller finansinitiativ till riksdagen samt
 4) åtgärdsmotioner, som innehåller förslag om att lagberedning ska inledas eller att någon annan åtgärd vidtas av riksdagen, landskapsregeringen, självstyrelsepolitiska nämnden eller talmanskonferensen.
 
 Den revisionsmyndighet som avses i 56 § 2 mom. överlämnar ärenden till lagtinget i form av berättelser.

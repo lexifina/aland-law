@@ -1,10 +1,10 @@
 # 54 § Anslag i budgeten
 Kapitel: 8 kap. Finanserna
 
-Anslag tas upp i budgeten som fasta anslag, förslagsanslag eller reservationsanslag.
+Anslag tas upp i budgeten som fasta anslag, ramanslag eller reservationsanslag.
 
-Förslagsanslag får överskridas och reservationsanslag överföras till ett senare finansår enligt vad som bestäms genom en landskapslag. Fasta anslag och reservationsanslag får inte överskridas och fasta anslag får inte överföras, om detta inte har tillåtits genom en landskapslag.
+Ramanslag och reservationsanslag får överföras till ett senare finansår och ramanslag får överskridas enligt vad som bestäms genom landskapslag. Fasta anslag och reservationsanslag får inte överskridas och fasta anslag får inte överföras, om detta inte har tillåtits genom landskapslag.
 
-Ett anslag får inte flyttas från ett ställe i budgeten till ett annat, om inte detta tillåts i budgeten. Genom en landskapslag kan dock tillåtas att ett anslag överförs till ett annat ställe som har nära samband med dess ändamål.
+Ett anslag får inte användas på något annat sätt än det som anges i budgeten. Genom landskapslag kan dock tillåtas att ett anslag används på ett annat sätt som har nära samband med dess ändamål.
 
 I budgeten kan beviljas en till beloppet och ändamålet avgränsad fullmakt att under finansåret ingå förbindelser om utgifter för vilka anslag tas in i budgetarna för de följande finansåren.
