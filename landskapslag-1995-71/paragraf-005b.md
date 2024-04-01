@@ -1,0 +1,8 @@
+# 5b § Övrig personal och skötseln av vissa personalfrågor
+Kapitel: 2 kap. Pensionsfondens ledning
+
+Vid pensionsfonden kan det finnas personal i offentligrättsligt eller privaträttsligt anställningsförhållande.
+
+Om inte annat bestäms i denna lag, sköter pensionsfonden de uppgifter som gäller dess personal och som enligt tjänstemannalagen (1987:61) för landskapet Åland ska skötas av landskapsregeringen. Pensionsfondens styrelse kan inrätta nya tjänster och dra in tjänster samt fatta beslut om ändring av tjänster inom fonden, dock inte tjänsten som fondchef, samt anställa, säga upp, avskeda och fatta beslut om förflyttning eller omplacering inom fonden av ordinarie personal. Innan styrelsen fattar beslut om att inrätta eller indra en tjänst ska landskapsregeringens utlåtande inhämtas. För de tjänster som styrelsen har för avsikt att inrätta eller indra ska behovsutredningar som sammanställts enligt tjänstemannalagen överlämnas till landskapsregeringen i samband med fondens årliga budgetförslag. Landskapsregeringen ska avge utlåtande senast en månad efter att budgeten fastställts. Om styrelsen har för avsikt att fatta beslut om inrättande eller indragning av en tjänst inom gällande budget, kan behovsutredningen överlämnas vid en annan tidpunkt. Landskapsregeringen ska i dessa fall avge utlåtande inom tre månader räknat från dagen då utredningen delgavs landskapsregeringen.
+
+Landskapsregeringen beslutar om permittering av pensionsfondens personal och om omplacering av en tjänsteman eller en arbetstagare till och från en annan landskapsmyndighet eller -inrättning. Omplacering av en tjänsteman eller arbetstagare till och från en annan landskapsmyndighet eller -inrättning kräver samtycke av pensionsfonden.
