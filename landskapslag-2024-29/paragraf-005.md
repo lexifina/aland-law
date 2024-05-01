@@ -1,0 +1,15 @@
+# 5 § Fastställande av tillförlitlighet
+Kapitel: 2 kap. Ordnande av privat hälso- och sjukvård
+
+En tjänsteproducent uppfyller inte kraven i 4 § 1 mom. 1 punkten eller 4 § 2 mom. 1 punkten för produktion av tjänster enligt denna lag, om den tidigare verksamheten för tjänsteproducenten eller personer som anges i 4 § 1 mom. 3 punkten som en helhet betraktat visar att tjänsteproducenten eller personen är uppenbart olämplig att bedriva näringsverksamhet i enlighet med denna lag. Vid bedömningen av den tidigare verksamheten beaktas särskilt följande omständigheter:
+1) det har konstaterats allvarliga brister i patientsäkerheten i tjänsteproducentens eller en i 4 § 1 mom. 3 punkten angiven persons tidigare verksamhet under de senaste tre åren, och tillsynsmyndighetens tidigare anmärkningar och förelägganden har inte lett till att bristerna eller missförhållandena i verksamheten har avhjälpts,
+2) tjänsteproducenten eller personer som anges i 4 § 1 mom. 3 punkten har haft bestämmande inflytande i en sammanslutning som under de senaste tre åren har försatts i konkurs eller för vilken konkursen under nämnda tid förfallit för att det saknats medel och
+3) en tjänsteproducent eller en person som anges i 4 § 1 mom. 3 punkten kan inte betraktas som tillförlitlig, om tjänsteproducenten eller personen under de tre senaste åren före bedömningen upprepade gånger eller i betydande grad har försummat sina registrerings-, anmälnings- eller betalningsskyldigheter i anslutning till skatter, lagstadgade pensions-, olycksfalls- eller arbetslöshetsförsäkringsavgifter eller avgifter som Tullen tar ut.
+
+En tjänsteproducent uppfyller inte kraven i 4 § 1 mom. 1 punkten eller 4 § 2 mom. 1 punkten för produktion av tjänster enligt denna lag, om tjänsteproducenten eller personer som anges i 4 § 1 mom. 3 punkten har dömts för ett brott som visar att tjänsteproducenten eller personen är uppenbart olämplig att bedriva näringsverksamhet i enlighet med denna lag.
+
+Till den del det gäller de krav som avses i 1 och 2 mom. ska tjänsteproducenten eller en person som anges i 4 § 1 mom. 3 punkten ges tillfälle att visa att förutsättningarna för att producera de tjänster som avses i denna lag är uppfyllda.
+
+Vad som i 4 § och ovan i 1 och 2 mom. föreskrivs om en tjänsteproducent gäller även den som med stöd av äganderätt, avtal eller andra arrangemang utövar bestämmande inflytande för en tjänsteproducents räkning. Förutsättningarna bedöms i enlighet med de faktiska förhållandena, om det av förhållandena annars tydligt framgår att tjänsteproducentens verksamhet leds eller dess förvaltning sköts av någon annan person eller sammanslutning än den som angetts i ansökan och arrangemangen i anslutning till förfarandet har framställts i strid med de faktiska förhållandena i syfte att kringgå bestämmelserna om förutsättningarna för verksamheten.
+
+Om serviceproducenten är en juridisk person gäller kravet på tillförlitlighet verkställande direktören och dennes ställföreträdare, medlemmar och suppleanter i styrelsen, medlemmar och suppleanter i förvaltningsrådet och jämförbara organ, ansvariga bolagsmän och andra som hör till den högsta ledningen.
