@@ -1,0 +1,1 @@
+Republikens presidents förordning (2024:66) om skötseln i landskapet Åland av de uppgifter som hör till det utbetalande organet och den förvaltande myndigheten för Europeiska jordbruksfonden för landsbygdsutveckling (Ejflu)
