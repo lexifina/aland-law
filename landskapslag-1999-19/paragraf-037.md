@@ -1,0 +1,6 @@
+# 37 § Fortsatt hyresförhållande efter hyresgästens död
+Kapitel: 5 kap. Överlåtelse och fortsatt hyresrätt för bostadslägenhet samt uthyrning i andra hand
+
+Om hyresgästen avlider förblir hyresavtalet i kraft på samma sätt som tidigare och dödsboet övertar hyresgästens förpliktelser enligt hyresavtalet. Dödsboet har dock rätt att säga upp avtalet att upphöra att gälla en månad från det månadsskifte som inträffar närmast efter tidpunkten då hyresgästen avled. Om hyresgästen hade hyrt lägenheten tillsammans med någon annan hör uppsägningsrätten till dödsboet och den andra hyresgästen gemensamt. Båda har också rätt att säga upp avtalet för egen del.
+
+Den som hyrt lägenheten tillsammans med den avlidna och bor i lägenheten samt en medlem av den avlidnas hushåll har rätt att fortsätta hyresförhållandet, om inte hyresvärden har grundad anledning att motsätta sig detta. Om flera personer vill fortsätta hyresförhållandet skall den avlidnas maka eller make eller sambo ha företräde framom de övriga. Den som önskar fortsätta hyresförhållandet skall inom tre månader från hyresgästens död underrätta hyresvärden om detta. När hyresvärden underrättats upphör dödsboets ansvar för uppfyllande av hyresvillkoren.
