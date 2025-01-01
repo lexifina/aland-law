@@ -1,0 +1,6 @@
+# 115 § Undantag som gäller vissa fordon och fordonskombinationer
+Kapitel: 7 kap. Särskilda bestämmelser
+
+Om det behövs för testning av ny teknik eller för produktutveckling eller av något annat särskilt skäl får landskapsregeringen bevilja ett enskilt fordon eller en enskild fordonskombination undantag från bestämmelserna om fordonets eller fordonskombinationens största massa, längd, bredd eller andra huvudmått. En förutsättning är att beviljandet av tillståndet inte äventyrar trafiksäkerheten, miljön, någons egendom eller snedvrider konkurrensen. Tillstånd får beviljas för en viss tid och förenas med villkor. Landskapsregeringen får återkalla tillståndet för en viss tid eller helt och hållet om tillståndshavaren inte följer de bestämmelser eller tillståndsvillkor som angetts eller om förutsättningarna för beviljande av tillstånd inte längre uppfylls. Om det skulle vara oskäligt att återkalla tillståndet får tillståndshavaren i stället ges en anmärkning eller en skriftlig varning.
+
+Det är tillåtet att köra ett fordonschassi som inte har försetts med karosseri en kortare sträcka utan reflektorer, backspeglar, stänkskärmar, stänkskydd, kopplingsanordning, främre och bakre underkörningsskydd, sidoskydd, anordningar som förhindrar obehörig användning eller färdskrivare. Detta gäller även om chassiet är försett med förarhytt.
