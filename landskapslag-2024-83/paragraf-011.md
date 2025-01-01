@@ -1,0 +1,7 @@
+# 11 § Ärendehantering och trafik- och transportregister
+
+Landskapsregeringen ska, efter beviljad ansökan om TFÄ-ADR-godkännande, i sitt ärendehanteringssystem föra in sådana i 18 § i lagen om transport av farliga ämnen uppgifter gällande TFÄ-ADR-godkännanden på motsvarande sätt som sådana uppgifter i riket förs in i det trafik- och transportregister som avses i lagen om transportservice (FFS 320/2017). Landskapsregeringen ska efter att uppgifterna förts in i ärendehanteringssystemet, elektroniskt eller på annat sätt underrätta den som ett TFÄ-ADR-godkännande beviljats om att uppgifterna i fråga införts.
+
+Fordonsmyndigheten ska efter godkänd TFÄ-ADR-besiktning i sitt ärendehanteringssystem föra in sådana i 18 § i lagen om transport av farliga ämnen uppgifter gällande TFÄ-ADR-besiktningen på motsvarande sätt som sådana uppgifter i riket förs in i det trafik- och transportregister som avses i lagen om transportservice. Fordonsmyndigheten ska efter att uppgifterna förts in i ärendehanteringssystemet elektroniskt, eller på annat sätt, underrätta den som beviljats ett TFÄ-ADR-godkännandet om att uppgifterna i fråga införts.
+
+Landskapsregeringen ska i sitt ärendehanteringssystem föra in och förvalta sådana i 50 § 2 mom. i lagen om transport av farliga ämnen avsedda uppgifter gällande avlagda prov för ADR-körtillstånd och om beviljade ADR-körtillstånd på motsvarande sätt som sådana uppgifter i riket förs in i det trafik- och transportregister som avses i lagen om transportservice.
