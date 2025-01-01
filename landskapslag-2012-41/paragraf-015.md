@@ -1,0 +1,7 @@
+# 15 § Övergångsbestämmelser
+
+Med avvikelse från vad som föreskrivs i 50 § lagen om växtskyddsmedel gäller i landskapet att:
+1) Kravet i 6 § lagen om växtskyddsmedel på att följa de allmänna principerna för integrerat växtskydd vid yrkesmässig användning av växtskyddsmedel tillämpas från och med den 1 januari 2014.
+2) Bestämmelserna i 12 § 2 mom. lagen om växtskyddsmedel tilllämpas från och med den 26 november 2016. Om spridningsutrustningen testats före nämnda dag på det sätt som krävs för att få stöd som avses i landskapslagen (2007:63) om finansiering av landsbygdsnäringar, behöver utrustningen inte testas före fem år har förflutit från det att testningen utfördes.
+3) Bestämmelserna i 16 och 17 §§ samt 21 § 3 punkten lagen om växtskyddsmedel om krav på avlagd examen inom området för växtskyddsmedel tillämpas från och med den 26 november 2015. Före den 26 november 2015 ska den som utför flygbesprutning ha tillräckliga kunskaper om spridning av växtskyddsmedel genom flygbesprutning samt kompetens att utföra besprutningen. Den som före den 26 november 2015 har sådan utbildning i växtskydd som krävs för att få stöd som avses i landskapslagen om finansiering av landsbygdsnäringar behöver inte avlägga ovan avsedd examen före fem år har förflutit från det att utbildningen genomfördes.
+4) Från och med den 26 november 2015 ska en distributör ha anställda i enlighet med 16 § 2 mom. lagen om växtskyddsmedel vilka avlagt examen inom området för växtskyddsmedel.
