@@ -1,0 +1,3 @@
+# 6 § Beräkning av det djurantal som förutsätts för att ersättning för djurens välbefinnande ska betalas
+
+Vid beräkningen av det antal djurenheter som är en förutsättning för att ersättning för djurens välbefinnande ska betalas ska det genomsnittliga djurantalet på gården under kalenderåret beaktas på det sätt som anges i 4 § statsrådets förordning om djurenheter i vissa ersättningar för landsbygdsutveckling och nationella stöd till jordbruket och trädgårdsodlingen (FFS 1378/2022). Antalet djur ska omräknas till djurenheter med hjälp av koefficienterna i bilagan till denna landskapsförordning.

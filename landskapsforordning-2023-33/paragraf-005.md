@@ -1,0 +1,3 @@
+# 5 § Val av åtgärder
+
+Jordbrukaren kan välja djurartsspecifika åtgärder årligen i samband med ansökan om ersättning för djurens välbefinnande. Jordbrukaren kan förbinda sig att genomföra åtgärder för en eller flera djurarter. För varje djurart ska minst åtgärden gällande välfärdsplanen väljas. Jordbrukaren kan välja en djurartsspecifik åtgärd om åtgärden lämpar sig för gårdens produktionsstruktur och dess tekniska arrangemang. Med undantag för sådana produktionsuppehåll som är normala för produktionsformen i fråga ska jordbrukaren genomföra åtgärden under hela åtagandeperioden i fråga om de produktionsdjur av den djurart eller den djurgrupp som åtgärden gäller och som jordbrukaren har i sin besittning.

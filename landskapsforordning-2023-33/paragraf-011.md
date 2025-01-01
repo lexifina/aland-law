@@ -1,0 +1,7 @@
+# 11 § Främjande av förhållanden under vilka kalvar hålls
+
+Åtgärden som gäller främjande av förhållanden under vilka kalvar hålls ska genomföras i fråga om gårdens alla nötkreatur som är under sex månader. Kalvarna ska ha ett välströat och mjukt liggområde med fast golv. Avvanda kalvar som är minst en månad gamla ska hållas i gruppboxar, om inte avskiljande från gruppen är befogat av veterinärmedicinska skäl eller på grund av aggressivt beteende hos djuren. I gruppboxarna ska varje kalv ha ett utrymme på minst 2,25 kvadratmeter. Går kalven med sin mor ska utrymmet vara minst tio kvadratmeter. I denna yta får ingå liggområden och kalvgömmor samt gödselgångar. Kon får endast tillfälligt och i samband med kalvningen hållas i en avskild box eller något annat motsvarande utrymme på minst nio kvadratmeter.
+
+På gårdar på vilka det föds kalvar ska det finnas fryst råmjölk, råmjölkspulver eller kompletteringsfoder som innehåller råmjölk eller immunoglobulin från nötkreatur. Innan råmjölken fryses ner ska dess kvalitet mätas. Det ska föras bok över den frysta råmjölkens kvalitet. Kalven ska under hela drickperioden få mjölk eller mjölkdryck antingen genom att suga på juvret eller genom en napp.
+
+Som miniminivå för åtgärden ska bestämmelserna i 5 § 1 mom. djurskyddslagen samt 5 § 1 mom. första och andra meningen, 5 § 2 mom. första och tredje meningen, 5 § 5 mom. andra meningen, 8 § 5 mom., 33 § och 34 § djurskyddsförordningen iakttas.
