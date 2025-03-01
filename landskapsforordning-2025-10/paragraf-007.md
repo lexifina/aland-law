@@ -1,0 +1,3 @@
+# 7 § Undantag från skyldigheten att besiktiga vissa uppvärmnings- och luftkonditioneringssystem
+
+För att ett uppvärmnings- och luftkonditioneringssystem ska vara undantaget från inspektionsskyldighet enligt 16b § 1 mom. 2 punkten landskapslagen om energideklaration för byggnader ska systemet omfattas av ett avtal om energiprestanda. Av avtalet ska framgå, förutom vad som anges i 2 § 1 mom. 1 punkten landskapslagen om energideklaration för byggnader, information om mellan vilka parter det har slutits, vilken eller vilka byggnader det avser, under vilken tid det gäller, vilka effektivitetsåtgärder som ska genomföras eller vilka effektivitetsresultat som ska uppnås, vilka garanterade besparingar som ska erhållas samt hur mätning och verifiering av besparingarna ska ske.

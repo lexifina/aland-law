@@ -1,0 +1,3 @@
+# 3 § Tillgång till energideklarationen
+
+En sammanfattning av energideklarationen ska i en byggnad som anges i 7 § landskapslagen om energideklaration för byggnader visas i enlighet med 13 § 1 mom. 1 punkten samma lag. Sammanfattningen ska vara på svenska och utformas på det sätt som framgår av bilaga 2 till denna förordning. Om det med hänsyn till byggnadens kulturvärden inte finns någon lämplig plats att anslå energideklarationen enligt 13 § 1 mom. 1 punkten landskapslagen om energideklaration för byggnader får deklarationen eller en sammanfattning av den anslås i nära anslutning till byggnaden eller göras lätt tillgänglig på annat sätt.
