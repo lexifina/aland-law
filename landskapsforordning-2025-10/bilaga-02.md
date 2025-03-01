@@ -1,7 +1,9 @@
 # Bilaga 2
 
 Sammanfattningen ska utformas i enlighet med följande illustration
+[Bild: https://www.regeringen.ax/sites/default/files/law/updated/images/Deklaration1.png]
 I följande noter beskrivs de upplysningar som ska lämnas i sammanfattningen
+[Bild: https://www.regeringen.ax/sites/default/files/law/updated/images/Deklaration2.png]
 I Sammanfattningens rubrik.
 II Byggnadens adress.
 III Den kommun i vilken byggnaden är belägen.
@@ -22,6 +24,7 @@ XVII Uppgift om vem som har utfört energideklarationen och vid vilken tidpunkt.
 XVIII Uppgift om till vilken tidpunkt energideklarationen är giltig.
 Tryckanvisningar – Energiklassernas färger
 CMYK: C=Cyan, M=Magenta, Y=Gult och K=Svart
+[Bild: https://www.regeringen.ax/sites/default/files/law/updated/images/Tryckanvisning.png]
 Ramens färg är C0, M0, Y0, K100.
 Energideklarationens rubrik under not I är negativ på svart botten.
 All övrig text är svart.
