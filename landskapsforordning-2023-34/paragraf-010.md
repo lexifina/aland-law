@@ -1,0 +1,8 @@
+# 10 § Kontroll av villkoren för ersättning för djurens välbefinnande
+Kapitel: 3 kap. Kontroll på plats
+
+Vid kontrollen kontrolleras att djuret har identifierats och registrerats i enlighet med 7 § landskapsförordningen om ersättning för djurens välbefinnande och att djuret för varje åtgärd uppfyller de villkor som inverkar på djurets ersättningsberättigande. Om ett ersättningsberättigande eller potentiellt ersättningsberättigande djur berörs av bristande efterlevnad av kravet gällande identifiering eller registrering eller om det inte uppfyller något annat villkor som påverkar ersättningsberättigandet, ska djuret underkännas vid kontrollen.
+
+Vid kontrollen kontrolleras efterlevnaden av villkoren för erhållande av ersättning och kraven som ingår i miniminivån för de åtgärder för djurens välbefinnande som sökanden har valt och som kan kontrolleras vid tidpunkten för kontrollen. Med avvikelse från detta kontrolleras av villkoren som gäller den djurartsspecifika välbefinnandeplanen att utfodringsplanen och foderanalysen är aktuella samt kraven som ingår i miniminivån. Om den dokumentation som ingår i kraven för erhållande av ersättning för djurens välbefinnande inte kan kontrolleras vid kontrollen, konstateras bristande efterlevnad i fråga om stödvillkoret i fråga. På underlåtelse att iaktta stödvillkoren eller kraven som ingår i miniminivå tillämpas minskningar och påföljder i enlighet med 18 §.
+
+Om det vid tidpunkten för kontrollen pågår ett produktionsuppehåll på gårdsbruksenheten ska det med avvikelse från 2 mom. göras ett nytt besök på plats för att kontrollera villkoren för erhållande av ersättning av djurens välbefinnande.

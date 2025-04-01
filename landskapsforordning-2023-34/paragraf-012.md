@@ -1,0 +1,4 @@
+# 12 § Utvidgad kontroll utan gårdsbesök
+Kapitel: 3 kap. Kontroll på plats
+
+Om det vid en inspektion enligt 46 eller 54 § djurskyddslagen (1998:95) för landskapet Åland eller vid en kontroll av villkorligheten gällande djurskydd konstateras bristande efterlevnad i fråga om ett sådant krav som i fråga om ersättning för djurens välbefinnande eller ett åtagande om uppfödning av ursprungsraser är ett krav som ingår i miniminivå, kan kontrollen administrativt utan något separat gårdsbesök utvidgas till en kontroll av ersättningen för djurens välbefinnande eller åtagandet om uppfödning av ursprungsraser. Utvidgningen gäller den konstaterade bristande efterlevnaden som är ett krav som ingår i miniminivå för ersättning för djurens välbefinnande eller i ett åtagande om uppfödning av ursprungsraser.
