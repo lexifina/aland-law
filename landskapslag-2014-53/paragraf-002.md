@@ -1,0 +1,9 @@
+# 2 § Mottagare
+
+Landskapsregeringen kan för enskilda lantbrukares arbetsuppgifter på ansökan från ett lantbruksföretag bevilja avbytarstöd till en avbytarorganisation, en lantbruksavbytare med företags- och organisationsnummer (FO-nummer) eller till timanställda lantbruksavbytare. Avbytarstöd kan endast beviljas i landskapet verksamma mikroföretag samt små och medelstora företag som avses i artikel 1 punkt 1a i den Europeiska kommissionens förordning (EU) nr 702/2014 av den 25 juni 2014 genom vilken vissa kategorier av stöd inom jordbruks- och skogsbrukssektorn och i landsbygdsområden förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt. Avbytarstöd för en timanställd avbytare kan betalas till det berörda lantbruksföretaget, om stödbeloppet har mindre betydelse i enlighet med bestämmelserna i den Europeiska kommissionens förordning (EU) nr 1407/2013 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse.
+
+Avbytarstöd beviljas inte företag i svårigheter eller företag som är föremål för ett oreglerat betalningskrav på grund av ett tidigare kommissionsbeslut om att ett stöd är olagligt och oförenligt med den inre marknaden som avses i
+1) Europeiska kommissionens förordning (EU) nr 702/2014 av den 25 juni 2014 genom vilken vissa kategorier av stöd inom jordbruks- och skogsbrukssektorn och i landsbygdsområden förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt samt i
+2) Europeiska unionens riktlinjer för statligt stöd inom jordbruks- och skogsbrukssektorn och i landsbygdsområden 2014–2020 (2014/C 204/01).
+
+En ansökan om avbytarstöd ska för att kunna beviljas ha inkommit till landskapsregeringen senast inom januari månad det kalenderår som följer efter det år som en ansökan avser.
