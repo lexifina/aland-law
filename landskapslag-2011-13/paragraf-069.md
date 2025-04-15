@@ -1,0 +1,4 @@
+# 69 § Rättelseyrkande och rättelse
+Kapitel: 6 kap. Särskilda bestämmelser
+
+Om inte annat särskilt stadgas i denna lag kan en studerande eller en omyndig studerandes vårdnadshavare, som är missnöjd med ett beslut som skolan har fattat rörande den studerande, inom 21 dagar räknat från att beslutet fattats, skriftligen begära rättelse hos beslutsfattaren. Rättelse kan inte sökas avseende ett beslut om tid och plats för den studerandes studier, om individuell uppläggning av studierna för den studerande eller ett beslut som rör förvägrad rätt att delta i undervisning i enlighet med 46 § 3 eller 4 mom. I ett rättelseyrkande som läggs till grund för skolans prövning ska anges vilket beslut som önskas rättat och de omständigheter som rättelseyrkandet grundar sig på. Ett rättelseyrkande ska behandlas utan dröjsmål.
