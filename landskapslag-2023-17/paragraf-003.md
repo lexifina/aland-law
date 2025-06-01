@@ -1,0 +1,33 @@
+# 3 § Definitioner
+Kapitel: 1 kap. Allmänna bestämmelser
+
+I denna lag avses med
+1) horisontella förordningen Europaparlamentets och rådets förordning (EU) 2021/2116 om finansiering, förvaltning och övervakning av den gemensamma jordbrukspolitiken och om upphävande av förordning (EU) nr 1306/2013,
+2) förordningen om strategiska planer Europaparlamentets och rådets förordning (EU) 2021/2115 om fastställande av regler om stöd för de strategiska planer som medlemsstaterna ska upprätta inom ramen för den gemensamma jordbrukspolitiken (strategiska GJP-planer) och som finansieras av Europeiska garantifonden för jordbruket (EGFJ) och Europeiska jordbruksfonden för landsbygdsutveckling (Ejflu) samt om upphävande av förordningarna (EU) nr 1305/2013 och (EU) nr 1307/2013,
+3) förordningen om ansökningssystem kommissionens genomförandeförordning (EU) 2022/1173 om tillämpning av Europaparlamentets och rådets förordning (EU) 2021/2116 vad gäller det integrerade administrations- och kontrollsystemet inom den gemensamma jordbrukspolitiken samt tillämpningen och beräkningen av administrativa sanktioner för grundvillkor,
+4) förordningen om kvalitetsbedömning kommissionens delegerade förordning (EU) 2022/1172 om komplettering av Europaparlamentets och rådets förordning (EU) 2021/2116 vad gäller det integrerade administrations- och kontrollsystemet inom den gemensamma jordbrukspolitiken samt tillämpningen och beräkningen av administrativa sanktioner för grundvillkor,
+5) förordningen om ekonomisk förvaltning kommissionens genomförandeförordning (EU) 2022/128 om fastställande av tillämpningsföreskrifter för Europaparlamentets och rådets förordning (EU) 2021/2116 om utbetalande organ och andra organ, ekonomisk förvaltning, räkenskapsavslutning, kontroller, säkerheter och öppenhet,
+6) budgetförordningen Europaparlamentets och rådets förordning (EU, Euratom) 2018/1046 om finansiella regler för unionens allmänna budget, om ändring av förordningarna (EU) nr 1296/2013, (EU) nr 1301/2013, (EU) nr 1303/2013, (EU) nr 1304/2013, (EU) nr 1309/2013, (EU) nr 1316/2013, (EU) nr 223/2014, (EU) nr 283/2014 och beslut nr 541/2014/EU samt om upphävande av förordning (EU, Euratom) nr 966/2012,
+7) den allmänna dataskyddsförordningen Europaparlamentets och rådets förordning (EU) 2016/679 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG,
+8) förordningen om ytterligare krav och om normer kommissionens delegerade förordning (EU) 2022/126 om komplettering av Europaparlamentets och rådets förordning (EU) 2021/2115 med ytterligare krav för vissa interventionstyper som anges av medlemsstaterna i deras strategiska GJP-planer för perioden 2023–2027 enligt den förordningen samt om andelen för norm 1 för god jordbrukshävd och goda miljöförhållanden (GAEC),
+9) den strategiska planen Finlands strategiska plan för den gemensamma jordbrukspolitiken för perioden 2023–2027,
+10) stöd räntestöd, bidrag och borgensförbindelse,
+11) ersättning kompensation till stödmottagare för merkostnader och inkomstbortfall till följd av en verksamhets begränsningar eller till följd av utförda åtaganden,
+12) gårdsbruksenhet jordbruksföretag som avses i artikel 3.2 i förordningen om strategiska planer,
+13) jordbruksmark areal som omfattar åker, permanenta grödor och permanent gräsmark,
+14) åkerareal areal som avses i artikel 4.3 a i förordningen om strategiska planer,
+15) permanent gräsmark areal som avses i artikel 4.3 c i förordningen om strategiska planer,
+16) permanenta grödor grödor som avses i artikel 4.3 b i förordningen om strategiska planer,
+17) jordbruksverksamhet jordbruksverksamhet som avses i 5 § i lagen om Europeiska unionens direktstöd till jordbrukare (FFS 1332/2022),
+18) jordbrukare en jordbrukare som avses i artikel 3.1 i förordningen om strategiska planer,
+19) aktiv jordbrukare en jordbrukare som avses i 3 § i lagen om Europeiska unionens direktstöd till jordbrukare,
+20) make jordbrukarens äkta make och personer som lever under äktenskapsliknande förhållanden i enlighet med 7 § 3 mom. i inkomstskattelagen (FFS 1535/1992),
+21) villkorlighet villkorlighetskraven i artiklarna 12 och 13 i förordningen om strategiska planer och bilaga III till den förordningen,
+21a) social villkorlighet, kraven i artikel 14 i förordningen om strategiska planer och bilaga IV till den förordningen, vilka det föreskrivs närmare om i bilaga 4 i statsrådets förordning om de föreskrivna verksamhetskrav och krav på social villkorlighet som ingår i villkorligheten för Europeiska unionens stöd till jordbrukare samt om tillsynen över att verksamhetskraven, kraven på social villkorlighet och kraven på god jordbrukshävd och goda miljöförhållanden iakttas (FFS 65/2023),
+22) naturaområde ett område enligt 4 kap. i landskapslagen (1998:82) om naturvård,
+23) djurregistret ett register som avses i 30 § i lagen om identifiering och registrering av djur (FFS 1069/2021),
+24) djurenhet enhet som används som grund för bestämmandet av ersättning och som närmare fastställs i förordning,
+25) arealbaserade åtgärder för landsbygdens utveckling åtgärder som avses i 2 kap. 7, 8 och 10 §§ i denna lag,
+26) lokal aktionsgrupp en i artikel 33 i Europaparlamentets och rådets förordning (EU) 2021/1060 om fastställande av gemensamma bestämmelser för Europeiska regionala utvecklingsfonden, Europeiska socialfonden+, Sammanhållningsfonden, Fonden för en rättvis omställning och Europeiska havs-, fiskeri- och vattenbruksfonden samt finansiella regler för dessa och för Asyl-, migrations- och integrationsfonden, Fonden för inre säkerhet samt instrumentet för ekonomiskt stöd för gränsförvaltning och viseringspolitik (den allmänna förordningen) avsedd grupp (Leadergrupp) som består av aktörer som deltar i den lokala landsbygdsutvecklingen,
+27) basskiftesregistret det nationella identifieringssystemet för jordbruksskiften enligt artikel 68 i horisontella förordningen,
+28) uppdateringar av basskiftesregistret uppdateringar på nationell nivå i enlighet med artikel 2.5 i förordningen om kvalitetsbedömning.
