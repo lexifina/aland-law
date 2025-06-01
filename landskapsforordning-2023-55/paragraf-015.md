@@ -1,0 +1,6 @@
+# 15 § Tillsyn över hampa
+Kapitel: 4 kap. Tillsyn på plats av arealbaserade ersättningar
+
+Vid tillsyn på plats kontrolleras det att villkoren i artiklarna 2 och 5 i kommissionens delegerade förordning (EU) 2022/126 om komplettering av Europaparlamentets och rådets förordning (EU) 2021/2115 med ytterligare krav för vissa interventionstyper som anges av medlemsstaterna i deras strategiska GJP-planer för perioden 2023–2027 enligt den förordningen samt om andelen för norm 1 för god jordbrukshävd och goda miljöförhållanden (GAEC) är uppfyllda. Vid tillsynen fastställs odlingsarealen för produktionen av hampa och kontrolleras att jordbruksskiftet har odlats genomgående med en sådan sort av hampa som berättigar till stöd.
+
+I samband med tillsynen tas det prover av växtbeståndet för verifiering av sorterna av hampa och bestämning av tetrahydrokannabinolhalten i enlighet med artikel 3 i kommissionens delegerade förordning (EU) 2022/126 om komplettering av Europaparlamentets och rådets förordning (EU) 2021/2115 med ytterligare krav för vissa interventionstyper som anges av medlemsstaterna i deras strategiska GJP-planer för perioden 2023–2027 enligt den förordningen samt om andelen för norm 1 för god jordbrukshävd och goda miljöförhållanden (GAEC).

@@ -1,0 +1,4 @@
+# 29 § Upprepade försummelser av villkoren för erhållande av ersättning och kraven på miniminivå
+Kapitel: 7 kap. Beräkning av ersättningen samt minskningar och påföljder beträffande arealbaserade stödsystem
+
+En försummelse som avses i 26–28 §§ av ett stödvillkor eller ett krav på miniminivå är upprepad om försummelsen av samma stödvillkor eller krav på miniminivå upprepas under tre kalenderår. Vid upprepade försummelser ska det utifrån en bedömning av försummelsen göras en dubbel minskning av ersättningen. Sökanden kan inte ges en anmärkning på grund av upprepade försummelser, utan i sådana fall ska minst den lägsta procentbaserade minskningen enligt 26–28 §§ tillämpas på ersättningen. Om den upprepade försummelsen avser en handling som saknas och som inte lämnas till landskapsregeringen, ska den tidigare tillämpade procentbaserade minskningen av ersättningen göras dubbelt.
