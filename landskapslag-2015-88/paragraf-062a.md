@@ -1,0 +1,4 @@
+# 62a § Giltighet på Åland av andra utländska körkort
+Kapitel: 8 kap. Utländska körkort
+
+Nationella körkort som inte är utfärdade av någon av de stater som anges i 61 eller 62 § och som motsvarar kategori A1, A2, A eller B gäller på Åland i ett år från inresan eller, om innehavaren är införd i befolkningsregistret, från det att innehavaren infördes i befolkningsregistret under förutsättning att körkortshavaren uppfyller de medicinska krav som är en förutsättning för trafiksäkerheten och de ålderskrav som anges i 9 § och att körkortet är giltigt i den utfärdande staten och i övrigt uppfyller de krav som anges i 62 § 1 mom. Denna paragraf tillämpas även på körkort beviljade på Färöarna och Grönland. Ett utländskt körkort som är utfärdat efter att körkortshavaren fick sin permanenta bosättningsort på Åland eller i riket är inte giltigt.
