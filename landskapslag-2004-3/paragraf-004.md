@@ -1,0 +1,7 @@
+# 4 § Skyldighet att kräva uppvisande av registerutdrag beträffande dem som producerar privat socialservice
+
+Innan Ålands miljö- och hälsoskyddsmyndighet beviljar en privat serviceproducent tillstånd enligt lagen om privat socialservice ska den, om verksamhetsområdet för den privata serviceproducenten omfattar tjänster för personer under 18 år, kräva att personer som inte är arbetstagare och vars arbete omfattar uppgifter som avses i 2 § visar upp ett straffregisterutdrag enligt 6 § 2 mom. straffregisterlagen.
+
+En kommun som har tagit emot en anmälan enligt lagen om privat socialservice eller landskapslagen om barnomsorg och grundskola ska omedelbart kräva att personer som inte är arbetstagare och vars arbete omfattar uppgifter som avses i 2 § visar upp ett sådant straffregisterutdrag som avses i 6 § 2 mom. straffregisterlagen.
+
+Den som är skyldig att ansöka om tillstånd eller göra en anmälan enligt lagen om privat socialservice eller landskapslagen om barnomsorg och grundskola ska underrätta Ålands miljö- och hälsoskyddsmyndighet eller kommunen när någon som inte är arbetstagare och som inte anges i ansökan om tillstånd eller anmälan ges uppgifter som avses i 2 §. Efter att ha tagit emot en sådan underrättelse ska Ålands miljö- och hälsoskyddsmyndighet eller kommunen omedelbart kräva att personen som fått uppgifter som avses i 2 § visar upp ett sådant straffregisterutdrag som avses i 6 § 2 mom. straffregisterlagen.
