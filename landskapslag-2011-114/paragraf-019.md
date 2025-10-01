@@ -1,0 +1,12 @@
+# 19 § Samarbetet med socialvården
+Kapitel: 3 kap. De grundläggande bestämmelserna om Ålands hälso- och sjukvårds verksamhet
+
+Ålands hälso- och sjukvård ska samarbeta med socialvården i sin verksamhet på ett sådant sätt att uppgifterna kan skötas på ett behörigt sätt och så som patientens behov av social-, hälso- och sjukvårdstjänster förutsätter.
+
+Med socialvård avses i denna lag de uppgifter som avses i 14 § i landskapslagen (2020:12) om socialvård samt främjande av social trygghet och välfärd.
+
+Om hälso- och sjukvårdens sakkunskap och tjänster krävs med beaktande av en persons individuella behov vid bedömningen av servicebehovet, beslutsfattandet eller tillhandahållandet av socialvård i enlighet med 41 § i landskapslagen om socialvård, ska en inom hälso- och sjukvård yrkesutbildad person vid Ålands hälso- och sjukvård på begäran av den anställde inom socialvården delta i bedömningen av en persons servicebehov och vid utarbetandet av en klientplan. Gällande beaktande av patienter som är barn som behöver särskilt stöd eller annan person som behöver särskilt stöd då vård- och rehabiliteringsplaner utarbetas finns bestämmelser i 37 § 2 mom. 4 punkten.
+
+En inom hälso- och sjukvård yrkesutbildad person ska i samband med bedömning av patientens vårdbehov bedöma om patienten har ett uppenbart behov av socialvård. Om patienten är i uppenbart behov av socialvård ska patienten styras att söka socialservice. Om patienten samtycker till det kan den inom hälso- och sjukvård yrkesutbildade personen kontakta den myndighet som ansvarar för den kommunala socialvården, så att patientens stödbehov kan bedömas. Om patientens samtycke inte kan fås och patienten är uppenbart oförmögen att svara för sin omsorg, hälsa eller säkerhet, eller om ett barns bästa absolut kräver det, ska den inom hälso- och sjukvård yrkesutbildade personen utan dröjsmål göra en anmälan om behovet av socialvård till den kommunala myndighet som ansvarar för socialvården trots sekretessbestämmelser.
+
+I 25 och 25c §§ i barnskyddslagen, tillämplig på Åland genom landskapslagen (2008:97) om tillämpning i landskapet Åland av barnskyddslagen finns bestämmelser om att göra en barnskyddsanmälan och en föregripande barnskyddsanmälan. Om den anmälningspliktiga personen i enlighet med 4 mom. i denna lag utan dröjsmål har kontaktat den myndighet som ansvarar för socialvården och uppgett orsakerna till kontakten, behöver ingen barnskyddsanmälan göras på grundval av samma uppgifter.

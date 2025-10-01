@@ -1,0 +1,10 @@
+# 9 § Ledningen och personalen
+Kapitel: 2 kap. Ålands hälso- och sjukvårds organisation
+
+Vid Ålands hälso- och sjukvård kan finnas personal i offentligrättsligt och privaträttsligt anställningsförhållande. Ålands hälso- och sjukvård sköter de uppgifter som gäller dess personal och som enligt tjänstemannalagen (1987:61) för landskapet Åland ska skötas av landskapsregeringen. Landskapsregeringen beslutar dock om permittering av personalen och efter myndighetens samtycke om förflyttning eller omplacering av en tjänsteman eller arbetstagare till och från en annan landskapsmyndighet eller -inrättning. Myndigheten beslutar om förflyttning eller omplacering inom myndigheten. Andra tjänster än tjänsten som hälso- och sjukvårdsdirektör inrättas och indras av styrelsen efter att landskapsregeringens utlåtande inhämtats. För de tjänster som styrelsen har för avsikt att inrätta eller indra ska behovsutredningar som sammanställts enligt tjänstemannalagen överlämnas till landskapsregeringen i samband med Ålands hälso- och sjukvårds budgetförslag. Landskapsregeringen ska avge utlåtande efter att förslaget till budget överlämnats till lagtinget och senast en månad efter att lagtinget fastställt budgeten. Om styrelsen har för avsikt att fatta beslut om inrättande eller indragning inom gällande budget kan behovsutredningen överlämnas vid en annan tidpunkt och landskapsregeringen ska avge utlåtande inom tre månader.
+
+Ledningen för Ålands hälso- och sjukvård ska ha en sådan multiprofessionell sakkunskap som främjar en högkvalitativ och trygg vård, samarbete mellan olika yrkesgrupper och utvecklandet av vård och verksamhetsmetoder samt garanterar god myndighetsutövning.
+
+Personalstyrkan vid Ålands hälso- och sjukvård ska ha en sådan utbildning, struktur och mängd som svarar mot behovet av den verksamhet som främjar hälsa och välfärd och behovet av hälso- och sjukvårdstjänster hos befolkningen i landskapet. Ålands hälso- och sjukvård ska se till att personalen i tillräcklig utsträckning deltar i kompletterande utbildning.
+
+De krav som ställs i 2 och 3 mom. gäller även då Ålands hälso- och sjukvård köper vårdtjänster av andra vårdproducenter.
