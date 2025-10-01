@@ -1,0 +1,5 @@
+# 7 § Avgift för oanvänd service
+
+Om klienten eller klientens företrädare har bokat en kortvarig vårdplats eller en kortvarig boendeserviceplats inom socialvården och klienten utan godtagbart skäl och utan att ha avbokat platsen uteblir, får kommunen eller kommunalförbundet debitera klienten högst 51,50 euro. Avgiften får endast tas ut om det inte anses oskäligt och kommunen eller kommunalförbundet i samband med bokningen informerat klienten om möjligheten att ta ut avgiften och gett anvisningar om hur platsen kan avbokas. Information om uttag av avgift och avbokning av plats ska lämnas på ett sådant sätt att klienten tillräckligt väl förstår innehållet i den. Avgift får inte tas ut av klienter under 18 år.
+
+Bestämmelserna i 1 mom. gäller även när kommunen eller kommunalförbundet har bokat en kortvarig vårdplats eller kortvarig boendeserviceplats på initiativ av klienten eller klientens företrädare. För att kunna ta ut någon avgift krävs i detta fall även att den information och de anvisningar som avses i 1 mom. lämnas skriftligen samt att klienten eller klientens företrädare får en påminnelse om den bokade platsen.
