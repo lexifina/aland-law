@@ -1,0 +1,6 @@
+# 68 § Undantag från lovbestämmelserna
+Kapitel: 13 kap. Lov och tillstånd
+
+Om inte annat angivits i en detaljplan krävs inte bygglov eller anmälan för att uppföra en eller flera friliggande komplementbyggnader, om byggnaden eller byggnadernas sammanlagda byggnadsarea inte är större än 10 kvadratmeter, taknockshöjden inte är högre än 3,0 meter och byggnaderna inte utan grannens medgivande placeras närmare tomtgränsen än 5 meter. Inte heller krävs bygglov för att anordna skärmtak med en största area av 12 kvadratmeter i anslutning till en huvudbyggnad eller för att uppföra en mur eller ett plank som inte är högre än 1,8 meter för att anordna skyddade uteplatser i anslutning till bostadshuset.
+
+Utanför detaljplanerat område krävs inte bygglov eller anmälan för att uppföra komplementbyggnader som avses i 1 mom. med en sammanlagd byggnadsarea av högst 15 kvadratmeter under förutsättning att byggnaden tillsammans med andra komplementbyggnader som har uppförts på tomten inte får en större byggnadsarea än 25 kvadratmeter. Inte heller krävs bygglov eller anmälan för att anordna skärmtak som avses i 1 mom. med en största area av 15 kvadratmeter eller för att glasa in en uteplats under ett skärmtak.
