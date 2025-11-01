@@ -1,0 +1,9 @@
+# 26n § Åtgärder som gäller mark och grundvatten när verksamheten vid en industriutsläppsdirektivanläggning avslutas
+Avdelning: Avdelning 2 - Tillstånd och miljögranskning
+Kapitel: 6a kap. Prövning av miljötillstånd i fråga om industriutsläppsdirektivanläggningar
+
+Om en statusrapport om marken och grundvattnet enligt 26m § ska ha utarbetats i samband med verksamheten vid en industriutsläppsdirektivanläggning, ska verksamhetsutövaren när den verksamhet som avses i den paragrafen avslutas bedöma markens och grundvattnets tillstånd i förhållande till det ursprungliga tillståndet. Vid bedömningen ska de relevanta farliga ämnen som avses i 26d § särskilt granskas och till bedömningen ska en utredning fogas om eventuella åtgärder som behövs för att återställa marken eller grundvattnet till ursprungligt tillstånd. Bedömningen ska sändas till tillsynsmyndigheten. Myndigheten fattar utifrån bedömningen ett beslut som ska innehålla förelägganden om de åtgärder som behövs för återställande av tillståndet, om markens eller grundvattnets tillstånd till följd av verksamheten avviker avsevärt från det ursprungliga tillståndet. Åtgärdernas tekniska genomförbarhet får då beaktas. Föreläggandena kan avse t.ex. att bortskaffa, minska, hindra spridningen av eller kontrollera förorenande ämnen och att ta vara på marksubstanser. Beslutet ska meddelas och information om beslutet ska ges enligt vad som föreskrivs i 14 §.
+
+Om det ursprungliga tillståndet inte har utretts eller om området i sitt ursprungliga tillstånd kan orsaka olägenhet för hälsan eller miljön ska graden av förorening utredas och det förorenade området saneras enligt vad som föreskrivs i 5 §.
+
+Myndigheten ska på sin webbplats informera om de åtgärder som industriutsläppsdirektivanläggningen vidtagit i fråga om mark och grundvatten när verksamheten avslutades.
