@@ -1,0 +1,10 @@
+# 24a § Bedömning av projekt och planer
+Kapitel: 4 kap. Landskapets internationella förpliktelser
+
+Om ett projekt eller en plan, antingen i sig eller i samverkan med andra projekt eller planer, sannolikt i betydlig utsträckning försämrar naturvärdena i ett område som finns angivet i en sådan i 21 § denna lag avsedd förteckning över områden som bör fredas eller som redan av landskapsregeringen i enlighet med 22 § denna lag förklarats som särskilt skyddsområde, ska den som genomför projektet eller gör upp planen på behörigt sätt bedöma dessa konsekvenser. Detsamma gäller ett sådant projekt eller en sådan plan utanför området som sannolikt har betydande skadliga verkningar som når området.
+
+Den myndighet som beviljar tillståndet eller godkänner planen ska se till att den bedömning som avses i 1 mom. har gjorts. I det fall där konsekvenserna bedömts på ett annat sätt än genom ett MKB-förfarande ska myndigheten begära utlåtande av landskapsregeringen och av den som förvaltar området.
+
+En myndighet som på grundval av anmälningsskyldighet som bestämts i lag eller förordning har fått anmälan om ett projekt eller en plan som avses i 1 mom. ska inom ramen för sina befogenheter vidta åtgärder för att avbryta genomförandet av projektet eller planen tills den bedömning som avses i 1 mom. har gjorts och de utlåtanden som avses i 2 mom. har inhämtats. Myndigheten ska också underrätta landskapsregeringen om saken.
+
+Om en miljökonsekvensbedömning eller miljöbedömning enligt landskapslagen om miljökonsekvensbedömning och miljöbedömning utförs i fråga om en anläggning för förnybar energi som avses i landskapslagen om kontaktpunkt, tillståndsprocesser för förnybar energi och områden för främjande av förnybar energi ska bedömning enligt 1 mom. göras samtidigt som förfarandet för miljökonsekvensbedömning eller miljöbedömning. Till denna del ska den myndighet som avses i landskapslagen om miljökonsekvensbedömning och miljöbedömning i samband med behandlingen av en miljökonsekvensbedömning eller utförande av en miljöbedömning ta in utlåtande av Ålands landskapsregering och av den i vars besittning det område som ingår i nätverket Natura 2000 är.
