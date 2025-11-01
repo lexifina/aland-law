@@ -1,0 +1,6 @@
+# 21 § Tillståndsprocessen för installation av solenergiutrustning och samlokaliserad energilagring
+Kapitel: 5 kap. Tidsfrister
+
+Med avvikelse från vad som anges i 17 § får tillståndsprocessen för installation av solenergiutrustning och samlokaliserad energilagring, inbegripet byggnadsintegrerade solcellssystem, i befintliga eller framtida byggnadsverk inte överstiga tre månader, förutsatt att det huvudsakliga syftet med sådana byggnadsverk inte är produktion av solenergi eller energilagring. Sådan installation är, med avvikelse från vad som föreskrivs i landskapslagen om miljökonsekvensbedömning och miljöbedömning och i landskapslagen om naturvård, undantagen från alla tillämpliga krav på att göra en miljökonsekvensbedömning eller miljöbedömning.
+
+Tillståndsprocessen för installation av solenergiutrustning med en kapacitet på 11 kW eller mindre får inte pågå längre än en månad. Om den tillståndsprövande myndigheten inte lämnar något svar inom den föreskrivna tidsfristen efter det att en fullständig ansökan har lämnats in, enligt 11 och 12 §§, ska tillståndet anses ha beviljats, förutsatt att solenergiutrustningens kapacitet inte överstiger den befintliga kapaciteten för anslutning till distributionsnätet.
