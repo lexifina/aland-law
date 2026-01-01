@@ -1,0 +1,8 @@
+# 71 § Arbetsverksamhet för personer med funktionsnedsättning
+Kapitel: 7 kap. Särskilda bestämmelser
+
+Med arbetsverksamhet för personer med funktionsnedsättning avses verksamhet i syfte att bevara och främja en persons funktionsförmåga. Arbetsverksamhet anordnas för arbetsoförmögna personer som på grund av funktionsnedsättning inte har förutsättningar att delta i arbete enligt 70 § och som får sin huvudsakliga försörjning av förmåner som beviljas på grund av sjukdom eller arbetsoförmåga.
+
+Den som deltar i arbetsverksamhet för personer med funktionsnedsättning står inte i ett anställningsförhållande enligt 1 kap. 1 § arbetsavtalslagen till den som anordnar verksamheten eller till serviceproducenten.
+
+På arbetsverksamhet för personer med funktionsnedsättning tillämpas bestämmelserna om arbetarskydd även när personen i fråga inte står i anställningsförhållande till arbetsgivaren. Den som anordnar arbetsverksamhet för personer med funktionsnedsättning ska för den som deltar i arbetsverksamhet teckna en försäkring enligt 3 § 1 mom. i lagen om olycksfall i arbetet och om yrkessjukdomar (FFS 459/2015). På den som deltar i arbetsverksamheten tillämpas det som i lagen om olycksfall i arbetet och om yrkessjukdomar föreskrivs om arbetstagare och på den som anordnar arbetsverksamheten tillämpas det som i den lagen föreskrivs om arbetsgivare. Med avvikelse från 71–78 §§ i lagen om olycksfall i arbetet och om yrkessjukdomar används som årsarbetsinkomst det i 79 § i den nämnda lagen avsedda minimibeloppet av årsarbetsinkomst. Med avvikelse från 58 och 59 §§ i den nämnda lagen är dagpenningen 1/360 av årsarbetsinkomsten.
