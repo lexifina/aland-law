@@ -1,0 +1,7 @@
+# 8b § Rätt att få uppgifter
+
+Landskapets myndigheter, statliga myndigheter, välfärdsområdesmyndigheter, kommunala myndigheter och andra offentligrättsliga samfund, Folkpensionsanstalten, Skatteförvaltningen, Pensionsskyddscentralen, pensionsstiftelser och andra pensionsanstalter, försäkringsanstalter, arbetsgivare och arbetslöshetskassor samt serviceproducenter inom social- eller hälsovården är skyldiga att på Ålands hälso- och sjukvårds begäran avgiftsfritt och trots sekretessbestämmelserna lämna uppgifter och utredningar om personens ekonomiska ställning som de har i sin besittning och som är nödvändiga vid bestämmandet av högkostnadsskydd och patientavgifter.
+
+Vad som föreskrivs i 1 mom. tillämpas också på uppgifter och utredningar om personens makes eller sambos ekonomiska ställning, om avgiften bestäms eller har bestämts med stöd av 5 § utifrån makarnas eller de samboendes sammanräknade inkomster.
+
+Den skyldighet som avses i 1 och 2 mom. gäller också penninginstitut, om Ålands hälso- och sjukvård inte får tillräckliga uppgifter och utredningar av de aktörer som avses i 1 mom. och om det finns grundad anledning att misstänka att de uppgifter som personen eller personers företrädare har lämnat är otillräckliga eller otillförlitliga. Begäran ska framställas skriftligen till penninginstitutet och en tjänsteinnehavare inom Ålands hälso- och sjukvård är berättigad att fatta beslutet om att framställa begäran. Innan begäran framställs till penninginstitutet ska den vars uppgifter begärs underrättas om begäran.

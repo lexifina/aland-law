@@ -1,0 +1,3 @@
+# 8 § Avgift enligt betalningsförmåga
+
+Landskapsregeringen kan besluta att även andra avgifter än långvårdsavgiften skall uppbäras enligt användarens betalningsförmåga. Avgiften fastställs då enligt de grunder som anges i 5 § 2 och 4 mom. samt 6 och 7 §§. Landskapsregeringen kan därutöver besluta att avgiften skall fastställas med beaktande av att den som saken gäller lever i gemensamt hushåll i äktenskap eller äktenskapsliknande förhållanden, att det finns minderåriga barn i samma hushåll, andra av personens faktiska familjeförhållanden beroende faktorer som påverkar betalningsförmågan eller den underhållsskyldighet som avses i lagen om underhåll för barn (FFS 704/1975).
