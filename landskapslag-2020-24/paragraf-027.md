@@ -1,0 +1,4 @@
+# 27 § Rätt för myndigheterna att få uppgifter
+Kapitel: 4 kap. Särskilda bestämmelser
+
+ÅMHM och landskapsregeringen har rätt att oberoende av sekretessbestämmelserna av statliga och kommunala myndigheter, välfärdsområdesmyndigheter, ett kommunalförbund samt andra offentligrättsliga samfund, Folkpensionsanstalten, Pensionsskyddscentralen, pensionsstiftelser och andra pensionsanstalter, försäkringsanstalter, verksamhetsenheter inom social- och hälsovården, Patientförsäkringscentralen och apoteken avgiftsfritt få de uppgifter och utredningar som är nödvändiga för att utföra uppgifter enligt denna lag. För det fall att förvaltningsuppgifter enligt denna lag med stöd av en överenskommelseförordning enligt 32 § i självstyrelselagen överförs på en riksmyndighet, har riksmyndigheten motsvarande rätt att av de myndigheter som faller under lagtingets lagstiftningsbehörighet få de uppgifter och utredningar som är nödvändiga för att utföra förvaltningsuppgifterna.

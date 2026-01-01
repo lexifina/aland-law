@@ -1,0 +1,12 @@
+# 16 § Centralregistret över yrkesutbildade personer inom socialvården
+Kapitel: Allmänna bestämmelser
+
+I syfte att sköta tillsynen över på Åland verksamma yrkesutbildade personer inom socialvården ska ett centralregister föras. Beträffande centralregistret över yrkesutbildade personer inom socialvården ska utöver bestämmelserna i denna lag även landskapslagen (2019:9) om dataskydd inom landskaps- och kommunalförvaltningen iakttas.
+
+I registret införs följande uppgifter:
+1) i fråga om en yrkesutbildad person inom socialvården, namn, personbeteckning, hemadress, registernummer, uppgift om rätt att utöva yrke som legitimerad yrkesutbildad person och om begränsning eller fråntagande av denna rätt, uppgift om rätt att använda yrkesbeteckning som yrkesutbildad person med skyddad yrkesbeteckning och om förbud att använda beteckningen samt uppgift om den utbildning som rätten att utöva yrke som legitimerad yrkesutbildad person eller rätten att använda yrkesbeteckning som yrkesutbildad person med skyddad yrkesbeteckning grundar sig på,
+2) uppgift om högre yrkeshögskoleexamen, yrkesinriktad licentiatexamen och specialiseringsutbildningar för högskoleutbildade som en yrkesutbildad person inom socialvården avlagt eller genomgått inom det sociala området,
+3) uppgift om anmärkningar som i enlighet med denna lag har getts en yrkesutbildad personal inom socialvården samt uppgifter om varningar, bötesstraff eller fängelsestraff eller avsättning från tjänsteutövning som har samband med yrkesutövningen,
+4) i fråga om en person som tillfälligt är verksam i en legitimerad yrkesutbildad persons yrke enligt 12 § namn, personbeteckning och hemadress, om personen som tillsynsåtgärd har getts en anmärkning eller en skriftlig varning eller blivit föremål för en säkerhetsåtgärd, samt uppgift om tillsynsåtgärden. Uppgift om anmärkning ska dock enbart införas om anmärkningen getts av landskapsregeringen eller av riksmyndighet om förvaltningsuppgiften överförs enligt 32 § i självstyrelselagen.
+
+De uppgifter som avses i 2 mom. 1 punkten och de uppgifter om säkerhetsåtgärder som avses i 4 punkten avförs ur registret tio år efter det att den registrerade har avlidit. De uppgifter som avses i 2 mom. 3 punkten samt de uppgifter om anmärkningar eller skriftliga varningar som avses i 4 punkten avförs ur registret när tio år förflutit från det att beslutet eller avgörandet meddelades, om inte längre tid för avförande av anteckningen anges i matrikellagen (FFS 1010/1989).

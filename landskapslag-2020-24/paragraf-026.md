@@ -1,0 +1,4 @@
+# 26 § Återställande av rätt att utöva yrke eller av rätt att använda yrkesbeteckning
+Kapitel: Allmänna bestämmelser
+
+Om en yrkesutbildad person inom socialvården för en viss tid eller tills vidare har fråntagits rätten att utöva yrket som legitimerad yrkesutbildad person eller om denna rätt har begränsats eller om han eller hon har förbjudits att använda en yrkesbeteckning för en yrkesutbildad person inom socialvården, ska på ansökan rätten att utöva yrket som legitimerad yrkesutbildad person återställas, begränsningen av denna rätt slopas eller rätten att använda en yrkesbeteckning återställas, när den omständighet som ledde till att rätten att utöva yrket som legitimerad yrkesutbildad person fråntogs eller begränsades eller användningen av yrkesbeteckningen förbjöds inte längre föreligger. Till ansökan ska den sökande foga en utredning över att den omständighet som avses ovan inte längre föreligger.

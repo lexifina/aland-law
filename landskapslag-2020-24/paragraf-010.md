@@ -1,0 +1,8 @@
+# 10 § Personer som är medborgare i en EU- eller EES-stat och som genomgått sin utbildning i någon annan EU- eller EES-stat
+Kapitel: 2 kap. Rätt att vara verksam som yrkesutbildad person inom socialvården
+
+Den som är medborgare i en medlemsstat i Europeiska unionen (EU) eller i en stat som hör till Europeiska ekonomiska samarbetsområdet (EES) och som på grundval av en utbildning i någon annan medlemsstat i EU eller stat som hör till EES har tilldelats ett examensbevis eller något annat bevis som i det landet krävs för ett yrke som avses i 8 § eller någon annan handling som visar att sökanden har färdigheter att utöva yrket i fråga, beviljas i enlighet med landskapslagen (2017:22) om erkännande av yrkeskvalifikationer på ansökan rätt att på Åland utöva detta yrke.
+
+Rätt att på Åland använda en i landskapsförordning avsedd yrkesbeteckning för en yrkesutbildad person inom socialvården beviljas i enlighet med landskapslagen om erkännande av yrkeskvalifikationer på ansökan den som är medborgare i en medlemsstat i EU eller i en stat som hör till EES och som på grundval av en utbildning i någon annan medlemsstat i EU eller stat som hör till EES i denna stat har tilldelats ett examensbevis eller något annat utbildningsbevis som ska ges samma innebörd och som i den staten krävs för erhållande av rätt att utöva yrket i fråga, eller någon annan handling som visar att sökanden har färdigheter att utöva yrket.
+
+Det kan bestämmas att sökanden som kompensationsåtgärd ska slutföra en anpassningsperiod eller genomgå ett lämplighetsprov på det sätt som anges i landskapslagen om erkännande av yrkeskvalifikationer.
