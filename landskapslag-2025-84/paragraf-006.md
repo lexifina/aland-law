@@ -1,0 +1,9 @@
+# 6 § Särskilda avvikelser
+
+Inom landskapets behörighet ska vid tillämpningen av kunduppgiftslagen även följande avvikelser iakttas på Åland:
+1) Med avvikelse från 5 § 3 mom. andra meningen i kunduppgiftslagen ska begreppet kund användas i stället för klient.
+2) Med avvikelse från 24 § 2 mom. första meningen i kunduppgiftslagen ska det vid hanteringen av kundhandlingar som omfattas av personuppgiftsansvaret för en tjänstetillhandahållare inom socialvården och hälso- och sjukvården på Åland iakttas vad som föreskrivs i 14 § i denna lag om gallring och varaktig bevaring av kundhandlingar.
+3) Med avvikelse från 66 § 2 mom. 3 punkten i kunduppgiftslagen får kunduppgifter och andra uppgifter som förts in i de riksomfattande informationssystemstjänsterna, och som omfattas av personuppgiftsansvaret för en tjänstetillhandahållare inom socialvården och hälso- och sjukvården på Åland, endast lämnas ut i enlighet med vad som föreskrivs i denna lag och i 15a‒15e §§ i landskapslagen om hälso- och sjukvård när det gäller sekundär användning av personuppgifter inom hälso- och sjukvården.
+4) Med avvikelse från 79 § 2 och 3 mom. i kunduppgiftslagen ska klass B inte användas på Åland för klassificering av informationssystem och välbefinnandeapplikationer.
+5) Med avvikelse från 80 § 1 mom. i kunduppgiftslagen ska skyldigheten för producenten av ett informationssystem och tillverkaren av en välbefinnandeapplikation att göra en anmälan till Tillstånds- och tillsynsverket endast avse sådana informationssystem och välbefinnandeapplikationer som anslutits till de riksomfattande informationssystemtjänsterna.
+6) Med avvikelse från 84 § i kunduppgiftslagen ska bestämmelserna i 10 § i denna lag tillämpas på sådana informationssystem och välbefinnandeapplikationer inom socialvården och hälso- och sjukvården på Åland som inte är anslutna till de riksomfattande informationssystemtjänsterna.

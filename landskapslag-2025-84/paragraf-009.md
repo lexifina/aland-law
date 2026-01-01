@@ -1,0 +1,3 @@
+# 9 § Skyldighet att i vissa fall avbryta användningen av en riksomfattande informationssystemtjänst
+
+Landskapsregeringen kan av språkmässiga, informationssäkerhetsrelaterade eller andra särskilt vägande skäl förelägga en tjänstetillhandahållare inom socialvården och hälso- och sjukvården på Åland att avbryta användningen av en riksomfattande informationssystemtjänst. Om föreläggandet gäller någon av de riksomfattande informationssystemtjänster som avses i 65 § 1 mom. 1, 2, 4, 6, 7 och 10 punkterna i kunduppgiftslagen, ska de kundhandlingar som bevaras i tjänsten utan dröjsmål efter att föreläggandet meddelats överföras till ett lokalt informationssystem som tjänstetillhandahållaren använder för elektronisk hantering och bevaring av kundhandlingar.

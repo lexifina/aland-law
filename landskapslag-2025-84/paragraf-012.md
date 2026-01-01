@@ -1,0 +1,5 @@
+# 12 § Rätt för tillhandahållare av offentliga socialvårdstjänster på Åland att få klientuppgifter inom socialvården
+
+Inom landskapets behörighet och med avvikelse från 55 § 1 mom. i kunduppgiftslagen har en myndighet som tillhandahåller socialvård på Åland rätt att trots sekretessbestämmelserna få och använda klientuppgifter som innehas av andra myndigheter inom socialvården på Åland, om det är nödvändigt för att ordna, producera och tillhandahålla socialvårdstjänster för en klient. Rätten att få uppgifter ska tillgodoses med hjälp av ett informationssystem inom de riksomfattande informationssystemtjänsterna eller något annat informationssystem som används av tjänstetillhandahållaren. Vad som i denna paragraf föreskrivs om utlämnande av klientuppgifter får ske utan att tillstånd för utlämnande inhämtas från klienten. Klienten har dock rätt att förbjuda att uppgifter lämnas ut.
+
+En myndighets rätt att ta del av kunduppgifter på det sätt som föreskrivs i 1 mom. gäller inte uppgifter som omfattas av sekretess enligt rikslagstiftningen.
