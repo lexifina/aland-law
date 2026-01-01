@@ -1,0 +1,7 @@
+# 3 §
+
+De förvaltningsuppgifter som enligt de i 1 § angivna författningarna ankommer på statliga myndigheter ska på Åland skötas av landskapsregeringen, såvitt fråga är om uppgifter som faller inom landskapets behörighet, dock så att övervakningen ska skötas av Ålands miljö- och hälsoskyddsmyndighet.
+
+Om Ålands miljö- och hälsoskyddsmyndighet vid övervakningen konstaterar allvarliga brister ska myndigheten, utan hinder av sekretessbestämmelser, anmäla bristerna till landskapsregeringen.
+
+Bestämmelser om Ålands miljö- och hälsoskyddsmyndighets tillsyn över de i 1 § angivna författningarna finns i 2 kap. i landskapslagen om socialvårdens förvaltning och tillsyn på Åland.
