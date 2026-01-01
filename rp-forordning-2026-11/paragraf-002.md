@@ -1,0 +1,3 @@
+# 2 § Förvaltande myndighet
+
+Jord- och skogsbruksministeriet är på Åland den förvaltande myndighet som avses i artikel 71 i Europaparlamentets och rådets förordning (EU) 2021/1060 om fastställande av gemensamma bestämmelser för Europeiska regionala utvecklingsfonden, Europeiska socialfonden+, Sammanhållningsfonden, Fonden för en rättvis omställning och Europeiska havs-, fiskeri- och vattenbruksfonden samt finansiella regler för dessa och för Asyl-, migrations- och integrationsfonden, Fonden för inre säkerhet samt instrumentet för ekonomiskt stöd för gränsförvaltning och viseringspolitik, nedan allmänna förordningen.
