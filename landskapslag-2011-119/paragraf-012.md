@@ -1,0 +1,8 @@
+# 12 § Motorsågs- och skogsarbetaravdrag från förvärvsinkomsten
+Kapitel: 2 kap. Naturliga avdrag
+
+Har en skattskyldig använt en motorsåg eller röjsåg vid fällning av träd, upparbetning av virke, skogsröjning eller annat med skogsröjning jämförbart arbete, anses som en utgift för förvärvande eller bibehållande av löneinkomst av sådant arbete kostnaderna för användningen av sågen till ett belopp om 30 procent eller, om den skattskyldige yrkar på detta, 40 procent av den nämnda löneinkomsten. Har ett arbetslag om två personer använt samma såg, anses dessa kostnader utgöra 20 procent av varderas löneinkomst av arbetet och, om arbetslaget bestått av tre personer, 15 procent av vars och ens löneinkomst av arbetet. På basis av vad den skattskyldige visar beaktas som utgifter för löneinkomstens förvärvande eller bibehållande de verkliga kostnaderna för användningen av en motorsåg, om de är större än vad som nämns ovan.
+
+Har en skattskyldig använt en häst och körredskap eller en traktor vid skogskörslor eller andra körslor, anses som en utgift för förvärvande eller bibehållande av löneinkomsten kostnaderna för användningen av hästen och körredskapen eller traktorn till ett belopp om 60 procent av löneinkomsten av skogskörslorna och 50 procent av löneinkomsten av andra körslor. På basis av vad den skattskyldige visar beaktas som utgifter för inkomstens förvärvande eller bibehållande de verkliga kostnaderna för användningen av hästen och körredskapen eller traktorn, om de är större än vad som nämns ovan.
+
+Utgör den löneinkomst som avses i 1 mom. minst en tredjedel av den skattskyldiges inkomster, anses ytterligare 5 procent av löneinkomsten, dock högst 240 euro, utgöra utgifter för förvärvande eller bibehållande av denna löneinkomst (skogsarbetsavdrag).
