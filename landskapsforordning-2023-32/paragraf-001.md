@@ -1,0 +1,6 @@
+# 1 § Tillämpningsområde
+Kapitel: 1 kap. Allmänna bestämmelser
+
+I denna landskapsförordning finns bestämmelser om miljöersättning, ersättning för ekologisk produktion och ersättning för naturliga eller andra områdesspecifika begränsningar, nedan kompensationsersättning, som avses i artikel 70 och 71 i Europaparlamentets och rådets förordning (EU) 2021/2115 om fastställande av regler om stöd för de strategiska planer som medlemsstaterna ska upprätta inom ramen för den gemensamma jordbrukspolitiken (strategiska GJP-planer) och som finansieras av Europeiska garantifonden för jordbruket (EGFJ) och Europeiska jordbruksfonden för landsbygdsutveckling (Ejflu) samt om upphävande av förordningarna (EU) nr 1305/2013 och (EU) nr 1307/2013, nedan EU-förordningen om strategiska planer, samt om genomförandet av dem.
+
+Miljöersättningen, ersättningen för ekologisk produktion och kompensationsersättningen utgör en del av Finlands strategiska plan för den gemensamma jordbrukspolitiken 2023–2027 som godkänts av Europeiska kommissionen. Miljöersättning, ersättning för ekologisk produktion och kompensationsersättning kan beviljas och betalas under den tid som den strategiska planen är i kraft inom ramen för de medel som anvisats i landskapets budget.

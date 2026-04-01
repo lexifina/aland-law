@@ -1,0 +1,6 @@
+# 45 § Betalning av ersättning för ekologisk husdjursproduktion
+Kapitel: 3 kap. Ersättning för ekologisk produktion
+
+Ersättning för ekologisk husdjursproduktion betalas för foderväxter utöver den ersättning som betalas för ekologisk växtproduktion. Ersättningen betalas per hektar utgående från antalet djur på gårdsbruksenheten omräknat till djurenheter på det sätt som beskrivs i 11 §. Ersättning betalas för det antal hektar för vilka det finns motsvarande 1 djurenhet per hektar, dock högst för den areal som ingår i åtagandet om ekologisk växtproduktion och som odlas med foderväxter. Om det antal djurenheter som avses i 8 § 3 mom. finansieringslagen inte uppfylls under åtagandeåret eller om åtagandet ändrar på det sätt som avses i 32 § 1 mom. finansieringslagen betalas ingen ersättning för ekologisk husdjursproduktion. Om stödmottagaren under åtagandeperioden övergår till konventionell djurproduktion återkrävs ersättningen som beviljats för den ekologiska djurproduktionen.
+
+Till sökanden som har anslutit sig till produktionskontrollen samma år som åtagandet ingås och till sökanden som har bytt djurart under åtagandeperioden betalas ersättning först när produktionen har godkänts i den produktionskontroll som avses i 36 §.
