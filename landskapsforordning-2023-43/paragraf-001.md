@@ -1,0 +1,3 @@
+# 1 § Tillämpningsområde
+
+Denna förordning tillämpas på sådan ersättning för jordbruksrådgivningstjänster enligt artiklarna 15 och 78.3 i Europaparlamentets och rådets förordning (EU) 2021/2115 om fastställande av regler om stöd för de strategiska planer som medlemsstaterna ska upprätta inom ramen för den gemensamma jordbrukspolitiken (strategiska GJP-planer) och som finansieras av Europeiska garantifonden för jordbruket (EGFJ) och Europeiska jordbruksfonden för landsbygdsutveckling (Ejflu) samt om upphävande av förordningarna (EU) nr 1305/2013 och (EU) nr 1307/2013 som ingår i Finlands strategiska plan för den gemensamma jordbrukspolitiken för åren 2023-2027, och i vilken Ålands interventioner för landsbygdsutveckling för åren 2023-2027 ingår.

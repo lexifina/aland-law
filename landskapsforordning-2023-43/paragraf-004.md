@@ -1,0 +1,7 @@
+# 4 § Allmänna villkor för beviljande av rådgivningstjänster
+
+En förutsättning för beviljande av ersättning för rådgivningstjänster är att rådgivningstjänsterna är av hög kvalitet och att de utgår från behovet hos den som får rådgivning. Rådgivningstjänsterna kan fysiskt tillhandahållas en jordbrukare på en gårdsbruksenhet som han eller hon innehar eller på en gårdsbruksenhet där jordbrukaren börjar bedriva jordbruk. Rådgivningstjänsterna kan också tillhandahållas utanför gårdsbruksenheten eller via en elektronisk nätförbindelse.
+
+Jordbruksrådgivningstjänster kan också tillhandahållas så att en eller flera personer som avses i 3 § 1 mom. 1 eller 2 punkten eller 2 mom. eller arbetstagare på en sådan persons gårdsbruksenhet deltar i samma rådgivningstillfälle. En förutsättning för detta är att rådgivningstjänsten gäller huvudsakligen samma omständigheter och att det är ändamålsenligt att ge rådgivningstjänsten i grupp med avseende på en effektivare fördelning av kostnaderna för rådgivningstjänsterna, för att öka antalet mottagare av rådgivningstjänsterna eller för att trygga en enhetlig kvalitet.
+
+Ersättning beviljas inte för sådana rådgivningstjänster som tillhandahålls en grupp och som beviljats stöd till utbildning eller informationsförmedling i enlighet med vad som föreskrivs i 3 kap. 23 § i landskapslagen om finansiering av landsbygdsnäringar, eller i fråga om vilka en ansökan om sådant stöd är anhängig. Ersättning beviljas inte heller för sådan rådgivning som har beviljats annan offentlig finansiering.
