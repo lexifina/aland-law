@@ -1,0 +1,6 @@
+# 10 § Förutsättningar för stödjande av företagsgrupps- eller jordbrukargruppsprojekt
+Kapitel: 3 kap. Samarbetsprojekt för utveckling av gårdars konkurrenskraft och modernisering
+
+Vid ett företagsgruppsprojekt utvecklar en grupp av företag sin verksamhet genom såväl gemensamma som företagsspecifika utvecklingsåtgärder. Åtgärdernas mål ska vara att utveckla samarbetet inom produktionen, utveckla samarbetet inom marknadsföringen och försäljningen, planera en produktfamilj eller motsvarande utveckling. En företagsgrupp ska bestå av minst två och högst tio företag. Stöd kan beviljas på ett sådant sätt att det riktas till de deltagande företagen som stöd av mindre betydelse. Ett av företagen ska fungera som projektadministratör.
+
+Vid ett jordbrukargruppsprojekt utvecklar en grupp av företag som bedriver jordbruk sin verksamhet genom såväl gemensamma som företagsspecifika utvecklingsåtgärder. Projektets mål ska vara att utveckla arbetet och samarbetet inom produktionen eller annan motsvarande utveckling. En jordbrukargrupp ska bestå av minst två jordbrukare. Stödtagaren, som fungerar som projektadministratör, kan vara någon av de jordbrukare som hör till gruppen, en utvecklingsorganisation i form av en rådgivningsorganisation, ett utvecklingsbolag eller någon annan offentlig eller privaträttslig sammanslutning.

@@ -1,0 +1,6 @@
+# 6 § Tillämpliga bestämmelser om statligt stöd
+Kapitel: 2 kap. Allmänna förutsättningar för stöd för utvecklingsprojekt
+
+Vid beviljande av utvecklingsstöd tillämpas artiklarna 25, 19a och 19b i kommissionens förordning (EU) nr 651/2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget, nedan den allmänna gruppundantagsförordningen, artikel 32 i kommissionens förordning (EU) 2472/2022 genom vilken vissa kategorier av stöd inom jordbruks- och skogsbrukssektorn och i landsbygdsområden förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt, nedan gruppundantagsförordningen för jord- och skogsbrukssektorn och för landsbygdsområden, eller kommissionens förordning (EU) nr 1407/2013 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse, nedan förordningen om stöd av mindre betydelse.
+
+Vid beviljande av stöd för utbildning tillämpas artikel 31 i den allmänna gruppundantagsförordningen eller artiklarna 21 och 47 i gruppundantagsförordningen för jord- och skogsbrukssektorn och landsbygdsområden.
