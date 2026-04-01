@@ -1,0 +1,4 @@
+# 10 § Bestämmanderätt i företag
+Kapitel: 3 kap. Krav på stödmottagare och gårdsbruksenheter
+
+En person anses ha bestämmanderätt i ett aktiebolag som avses i 21 § i landskapslagen om finansiering av landsbygdsnäringar, om han eller hon innehar mer än hälften av aktierna i bolaget, och aktierna som han eller hon äger ger mer än hälften av det röstetal som bolagets aktier medför. Bestämmanderätten kan också basera sig på aktier som fler än en person äger och på det röstetal som aktierna medför. Om en person har bestämmanderätt i ett annat bolag som är delägare i det bolag som ansökt om stöd, kan personens bestämmanderätt också basera sig på det röstetal som det förstnämnda bolagets aktier eller andelar medför. I ett öppet bolag anses bestämmanderätten utövas gemensamt av bolagsmännen. I ett kommanditbolag anses bestämmanderätten utövas av en majoritet bland de ansvariga bolagsmännen. I ett andelslag anses bestämmanderätten utövas av en majoritet bland medlemmarna.
