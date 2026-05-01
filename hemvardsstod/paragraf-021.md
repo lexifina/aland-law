@@ -12,7 +12,7 @@ Följande inkomster ska inte beaktas då familjens sammanlagda skattepliktiga in
 8) stipendier eller motsvarande understöd som betalas för studier, praktik eller annan behörighetshöjande verksamhet,
 9) stöd för deltagande i sysselsättningsfrämjande utbildning enligt landskapslagen (2015:56) om sysselsättningsfrämjande utbildning,
 10) sysselsättningsstöd enligt landskapslagen (2006:8) om arbetsmarknadspolitisk verksamhet,
-11) utkomstskydd enligt landskapslagen (2003:71) om tillämpning i landskapet Åland av lagen om utkomstskydd för arbetslösa,
+11) allmänt stöd enligt landskapslagen (2026:25) om tillämpning på Åland av lagen om allmänt stöd,
 12) utkomststöd enligt landskapslagen (1998:66) om tillämpning i landskapet Åland av lagen om utkomststöd,
 13) bostadsbidrag enligt landskapslagen (2015:4) om tillämpning på Åland av lagen om allmänt bostadsbidrag,
 14) handikappförmåner enligt lagen om handikappförmåner (FFS 570/2007),
