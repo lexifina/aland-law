@@ -1,0 +1,8 @@
+# 10 § Arrangemang för den inledande kartläggningen
+Kapitel: 2 kap. Åtgärder som främjar invandrares integration
+
+Ålands arbetsmarknads- och studieservicemyndighet, nedan Ams, ska påbörja den inledande kartläggningen för en invandrare som är arbetslös och är registrerad som arbetssökande vid Ams enligt landskapslagen (2006:8) om arbetsmarknadspolitisk verksamhet, om det inte är uppenbart onödigt. Kommunen ska påbörja den inledande kartläggningen för en invandrare, som annat än tillfälligt får utkomststöd enligt landskapslagen (1998:66) om tillämpning i landskapet Åland av lagen om utkomststöd, om det inte är uppenbart onödigt. Ams eller kommunen kan påbörja en inledande kartläggning även för en annan invandrare, om han eller hon begär det och anses vara i behov av det. Den inledande kartläggningen ska påbörjas inom två månader från det att klientrelationen inleddes eller begäran om inledande kartläggning lämnades in.
+
+Åtgärder som ingår i den inledande kartläggningen kan ordnas i stället för de kompletterande samtal om sökande efter arbete som avses i 28 § 2 mom. 1 punkten i landskapslagen om arbetsmarknadspolitisk verksamhet. Den myndighet som har ordnat den inledande kartläggningen ska vid behov hänvisa invandraren till tjänster som ordnas av någon annan myndighet eller anordnare av tjänster. Hänvisandet ska ske i samarbete med den som anordnar tjänsterna.
+
+Utifrån den inledande kartläggningen bedömer Ams eller kommunen om invandraren behöver en sådan integrationsplan som avses i 11 §. Vid bedömningen av behovet av en integrationsplan ska uppmärksamhet fästas vid om invandraren behöver integrationsutbildning, frivilliga studier eller andra åtgärder som avses i detta kapitel till stöd för sin integration.
