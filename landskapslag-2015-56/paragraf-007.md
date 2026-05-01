@@ -1,0 +1,7 @@
+# 7 § Studerandes rättigheter och skyldigheter
+
+En studerande har rätt att få en undervisning enligt läro- eller utbildningsplanen för berörd utbildning och rätt att genomföra studierna under den tid som den sysselsättningsfrämjande utbildningen pågår.
+
+Den studerande ska regelbundet delta i undervisningen och göra framsteg i sina studier på det sätt som avses i läro- och utbildningsplanen. Den studerande anses har gjort tillräckliga framsteg i högskolestudierna om han eller hon avklarat i genomsnitt fem studiepoäng per studiemånad av den studiehelhet som hör till utbildningen.
+
+Om inte annat följer av denna lag ska bestämmelserna om mottagande av studieplats, erkännande av kunnande, tillgodoräknande av studier, betyg och intyg, bedömning av studerandes prestationer, rättelse av bedömning av prestation, studerandes rätt till trygg studiemiljö, opartiskt bemötande, anmälan av studierätt, disciplin, tystnadsplikt för studerande samt rättelseyrkande och besvär över en utbildningsanordnares beslut i landskapslagen om gymnasieutbildning eller landskapslagen om Högskolan på Åland samt de bestämmelser som utfärdats med stöd av lagarna iakttas på den sysselsättningsfrämjande utbildning som ordnas på respektive nivå. I fråga om sysselsättningsfrämjande utbildning som anordnas i samarbete med en extern utbildningsanordnare tillämpas motsvarande bestämmelser som är gällande för utbildningsanordnaren.
