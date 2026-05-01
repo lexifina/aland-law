@@ -1,0 +1,12 @@
+# 58 § Särskilda förutsättningar för beviljande av stöd
+Kapitel: 12 kap. Sysselsättningsstöd för deltidsarbete
+
+En förutsättning för att sysselsättningsstöd vid deltidsarbete ska kunna beviljas är
+1) att arbetstiden för en arbetstagare eller tjänsteman som övergår till deltidsarbete under den period som motsvarar lönebetalningsperioden är minst 40 och högst 60 procent av hans eller hennes ordinarie arbetstid i heltidsarbete,
+2) att den sammanlagda arbetstiden för en arbetstagare eller tjänsteman som övergår till deltidsarbete och den som sysselsätts i deltidsarbete i samma uppgifter under den period som motsvarar lönebetalningsperioden är sammanlagt minst lika lång som den ordinarie arbetstiden i heltidsarbete för den person som övergår till deltidsarbete,
+3) att till det avtal som ingås mellan en arbetstagare eller tjänsteman som övergår till deltidsarbete och arbetstagarens eller tjänstemannens arbetsgivare fogas ett villkor där arbetstagaren eller tjänstemannen förbehålls en möjlighet att återgå till heltidsarbete när utbetalningen av sysselsättningsstödet för deltidsarbete upphör,
+4) att den arbetstagare eller tjänsteman som övergår till deltidsarbete inte för samma tid utöver lönen för deltidsarbetet får annan lön eller ersättning för det arbete som han eller hon utför,
+5) att den arbetstagare eller tjänsteman som övergår till deltidsarbete inte för samma tid erhåller allmänt stöd enligt landskapslagen om tillämpning på Åland av lagen om allmänt stöd, inkomstrelaterad dagpenning enligt lagen om utkomstskydd för arbetslösa, ålders- eller sjukpension enligt folkpensionslagen (FFS 568/2007), ålderspension, deltidspension, rehabilitering eller invalidpension enligt någon arbetspensionslag, generationsväxlingspension enligt lagen om generationsväxlingspension för lantbruksföretagare (FFS 1317/1990), särskild moderskaps-, faderskaps- eller föräldrapenning, sjukdagpenning eller specialvårdspenning enligt sjukförsäkringslagen eller rehabiliteringspenning eller rehabiliteringsunderstöd enligt lagen om Folkpensionsanstaltens rehabiliteringsförmåner och rehabiliteringspenningförmåner (FFS 566/2005) och
+6) att den arbetstagare eller tjänsteman som övergår till deltidsarbete har varit anställd på heltid hos en och samma arbetsgivare oavbrutet i minst ett år omedelbart innan han eller hon övergår till deltidsarbete.
+
+Sysselsättningsstöd vid deltidsarbete kan inte beviljas sådan arbetstagare eller tjänsteman vars arbetstid arbetsgivaren har förkortat av produktionsmässiga eller ekonomiska skäl.

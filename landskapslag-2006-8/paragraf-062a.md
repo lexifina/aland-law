@@ -1,0 +1,4 @@
+# 62a § Begränsande faktorer som utesluter beviljande av stöd
+Kapitel: 13 kap. Sysselsättningsstöd för start av företagsverksamhet
+
+Sysselsättningsstöd för start av företagsverksamhet kan inte beviljas tillsammans med det temporära tilläggsstödet och under den tidsperiod som avses i landskapslagen om temporärt tilläggsstöd till arbetslösa för start av företagsverksamhet om den arbetssökande under de tre månaderna närmast innan ansökan inlämnades, av produktionsmässiga eller ekonomiska skäl har sagts upp eller permitterats i samma eller likadana uppgifter alternativt fått förkortad arbetstid. Sysselsättningsstöd för start av företagsverksamhet kan dock beviljas om den arbetssökande före ansökan om sysselsättningsstöd har lämnats in har återanställt de arbetstagare som sagts upp, har meddelat alla permitterade att arbetet återupptas eller har återställt deras arbetstid.
