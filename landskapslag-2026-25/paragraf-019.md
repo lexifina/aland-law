@@ -1,0 +1,7 @@
+# 19 § Övergångsbestämmelser i fråga om tillämpningen av lagen om allmänt stöd
+
+I fråga om en arbetssökandes arbetskraftspolitiskt klandervärda förfarande som ägt rum före ikraftträdandet av denna lag tillämpas de bestämmelser som gällde vid ikraftträdandet.
+
+Vid tillämpningen av denna lag beaktas erhållandet av arbetslöshetsförmån enligt landskapslagen om tillämpning i landskapet Åland av lagen om utkomstskydd för arbetslösa, arbete som räknas in i arbetsvillkoret, uppfyllandet av arbetsvillkoret och maximitiden för arbetslöshetsdagpenning även för tiden före ikraftträdandet av denna lag. Självrisktid för allmänt stöd krävs inte, om en person är berättigad till arbetsmarknadsstöd eller grunddagpenning enligt landskapslagen om tillämpning i landskapet Åland av lagen om utkomstskydd för arbetslösa den 30 april 2026 och till allmänt stöd från och med den 1 maj 2026. Som förmånsberättigad enligt detta moment betraktas den som får en förmån och den till vilken det inte betalas någon förmån på grund av en tid utan ersättning, en arbetsdag under en förkortad arbetsvecka eller på grund av att arbetstidsgränsen i enlighet med 4 kap. 3 § 1 mom. i lagen om utkomstskydd för arbetslösa överskrids eller på grund av den begränsning av förmånens belopp som anges i 5 § 1 mom. i det kapitlet.
+
+Till de betalningsdagar som påverkar finansieringen av det allmänna stödet räknas också de dagar för vilka stödmottagaren före ikraftträdandet av denna lag har fått grunddagpenning enligt landskapslagen om tillämpning i landskapet Åland av lagen om utkomstskydd för arbetslösa.
