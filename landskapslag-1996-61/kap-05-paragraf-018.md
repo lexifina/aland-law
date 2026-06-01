@@ -1,0 +1,12 @@
+# 18 § Övervakning
+Avdelning: Vattenlagens allmänna del
+Kapitel: 5 kap. Bestämmelser om vattenkvalitet
+Rubrik: Bestämmelser om övervakning, vattenkvalitet, åtgärdsprogram, förvaltningsplaner och förteckning över skyddade områden
+
+Med övervakning avses i denna lag att söka en sammanhållen och mångsidig helhetsbild av vattenkvaliteten och dess förändring i syfte att kunna vidta ändamålsenliga åtgärder för att skydda vattenkvalitet och en hållbar användning av vatten. För övervakningsåtgärder äger landskapsregeringen de befogenheter som enligt 28 § landskapslagen (2008:124) om miljöskydd gäller för tillsyn. Landskapsregeringen kan genom landskapsförordning delegera övervakningsuppgifterna till en landskapsregeringen underlydande myndighet.
+
+För övervakningen ska utarbetas, fastställas och genomföras ett övervakningsprogram. Övervakningsprogram för ytvatten ska minst omfatta ekologisk och kemisk kvalitet inräknat väsentliga faktorer som styr dessa, såsom vattenflöden, nedfall från luften, näringsläckage från bottnar, utsläpp i vatten samt ekologisk potential. Övervakningsprogram för grundvatten ska omfatta övervakning av kemisk kvalitet och kvantitativ kvalitet. Om ett vattenskyddsområde avgränsats eller en kvalitetsnorm gäller för området ska övervakningsprogrammet omfatta tillämpliga frågor som rör områdets skyddsbehov. Vid utarbetandet av övervakningsprogram ska beaktas uppgifter från tillsyn och från sådan egenkontroll som ska utföras av en verksamhetsutövare. Landskapsregeringen ska grundat på den inledande bedömning som gjorts enligt 19a § fastställa ett samordnat övervakningsprogram för bedömningen av vattenkvaliteten i områden med marina vatten. Detta ska ske i enlighet med de gällande bestämmelserna i Europaparlamentets och rådets direktiv 2008/56/EG om upprättande av en ram för gemenskapens åtgärder på havsmiljöpolitikens område, nedan kallat marindirektivet, samt med beaktande av kraven i marindirektivets artikel 11 i bilaga III och V. Samordningen ska ske med berörda organisationer och myndigheter utanför landskapet i enlighet med 26 §.
+
+Om det vid övervakning konstateras finnas en försämrad vattenkvalitet eller en betydande risk för en försämrad vattenkvalitet skall information om detta ges till berörda myndigheter och betydande verksamhetsutövare.
+
+Landskapsregeringen kan i landskapsförordning utfärda närmare bestämmelser om omfattningen av och innehållet i övervakningsprogram där tidsangivelser för uppdateringar ska ingå.

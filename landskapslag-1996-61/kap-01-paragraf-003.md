@@ -1,0 +1,38 @@
+# 3 § Definitioner
+Avdelning: Vattenlagens allmänna del
+Kapitel: 1 kap. Inledande bestämmelser
+
+Vid tillämpningen av denna lag är innebörden av följande termer och begrepp denna:
+1) ytvatten är vatten i vattenområde oavsett djup,
+2) grundvatten är vatten i mark eller berggrund,
+3) vattenområde är område som inte endast tillfälligt är täckt av ytvatten och vars gräns mot land bedöms enligt medelvattenståndet, dock så att brunn, cistern och konstgjord damm inte är vattenområden enligt denna lag,
+4) vattenföretag är åtgärder som har verkningar med avseende på vatten såsom bortledande, byggande, fyllning, pålning, grävning, muddring, sprängning och rensning,
+5) vattenfarlig verksamhet är användning av mark eller vattenområde som kan medföra förändring av vattenkvaliteten genom förorening eller på annat sätt samt utsläppande av avloppsvatten,
+6) grundvattenfarlig verksamhet är sådan vattenfarlig verksamhet som kan medföra förändring av grundvattenkvaliteten eller försämra tillgången på grundvatten,
+7) dikning är sådant bortledande av vatten i avvattningssyfte som sker i dike,
+8) vattentäkt är bortledande av vatten för vattenförsörjning eller bevattning,
+9) avloppsvatten är vatten som varit i särskilt bruk men som inte längre ska användas samt vatten som avleds för avvattning av begravningsplats, upplag eller annat område där främmande ämnen kan finnas i skadlig omfattning,
+10) vattenkvalitet är vattens kemiska och fysikaliska tillstånd samt vattens ekologiska tillstånd,
+11) kvalitetsnorm är gränsvärde för vattenkvalitet eller värde för förekomsten av eller egenskap hos en eller flera organismer i vattenområde,
+12) föroreningsområde är vattenområde där kvalitetsnorm inte uppfylls,
+13) påverkan är orsakande av effekt eller risk för effekt,
+14) förbättringsöverskott är den extra vattenkvalitetsförbättring som följer av att vattenkvalitetsförbättrande åtgärd skapar bättre vattenkvalitet än vad som krävs enligt denna lag,
+15) vattenförbättringsplan är en plan för visst föroreningsområde vari ska anges hur vattenkvaliteten ska förbättras, när förbättringen ska ha uppnåtts samt vari regleras markanvändning och andra företag som kan inverka på förhållande som kvalitetsnormerna avser,
+16) blandningszon är ett vattenområde intill utsläppspunkt för avloppsvatten, mynning av dike eller plats för vattenbruk inom vilket vattenkvalitetsnormer inte är tillämpliga,
+17) undantagszon är ett för tillgodoseende av ett från allmän synpunkt särskilt viktigt ändamål, som inte kan tillgodoses på annat sätt, bestämt och avgränsat vattenområde för vilket särskilda bestämmelser utfärdats,
+18) översvämning är när mark som normalt inte står under vatten tillfälligt täcks med vatten varmed innefattas översvämningar från öppet vatten i angränsande landområden dock så att översvämningar från avloppsvattensystem inte innefattas,
+19) översvämningsrisk är när det är sannolikt att ett visst område kommer att drabbas av en översvämning som leder till ogynnsamma följder för människors hälsa, miljön, kulturarvet och ekonomisk verksamhet,
+20) marina vatten är vatten, havsbotten och underliggande jordlager som ligger på havssidan av den baslinje som används för att beräkna territorialvattnets utsträckning,
+21) kustvatten är ytvatten, havsbotten och underliggande jordlager innanför en linje en sjömil utanför den baslinje som används för att beräkna territorialvattnets utsträckning,
+22) förorening är en genom mänsklig verksamhet direkt eller indirekt tillförsel av ämnen eller värme till luft, vatten eller mark, som kan skada människors hälsa eller kvaliteten på akvatiska (vattenbaserade) ekosystem eller på terrestra (landbaserade) ekosystem som är direkt beroende av akvatiska ekosystem eller som medför skada på materiell egendom eller försämrar eller hindrar möjligheterna att utnyttja de fördelar naturen erbjuder eller annan legitim användning av miljön,
+23) vattenförekomst är en avgränsad och betydande förekomst av vatten såsom en sjö, ett kustvattenområde eller en avgränsad volym grundvatten,
+24) konstgjord vattenförekomst är en ytvattenförekomst som skapats genom mänsklig verksamhet,
+25) kraftig modifierad vattenförekomst är en ytvattenförekomst som till följd av fysiska förändringar genom mänsklig verksamhet på ett väsentligt sätt har ändrat karaktär,
+26) ekologisk potential är kvaliteten hos en kraftigt modifierad vattenförekomst, klassificerad i enlighet med de relevanta bestämmelserna i bilaga V i Europaparlamentets och rådets direktiv 2000/60/EG om upprättande av en ram för gemenskapens åtgärder på vattenpolitikens område, nedan kallat vattendirektivet,
+27) rännil är en naturligt skapad vattenfåra, vars avrinningsområde är mindre än tio kvadratkilometer, där det inte ständigt rinner vatten och där fisk inte kan vandra i nämnvärd omfattning,
+28) dike är en konstgjord vattenfåra vars avrinningsområde är mindre än tio kvadratkilometer,
+29) större utfallsdike är en konstgjord vattenfåra vars avrin-ningsområde är större än tio kvadratkilometer,
+30) vattendrag är sjöar, tjärnar, bäckar och andra naturliga vattenområden samt konstgjorda sjöar, kanaler, större utfallsdiken och andra motsvarande konstgjorda vattenområden, dock inte rännilar, diken och källor,
+31) avrinningsområde är ett landområde från vilket all ytvattenavrinning strömmar genom en serie rinnande vattendrag eller sjöar till havet vid ett enda utlopp, eller vid en enda mynning eller ett enda delta,
+32) delavrinningsområde är ett landområde från vilket all ytvattenavrinning strömmar genom en serie rinnande vattendrag eller sjöar till en viss punkt i ett vattendrag (normalt en sjö eller ett dikestillopp),
+33) miljökvalitetsnormer är koncentrationen av ett visst förorenande ämne eller en viss grupp av förorenande ämnen i vatten, sediment eller biota, vilken med hänvisning till skyddet av människors hälsa och miljön inte bör överskridas.
