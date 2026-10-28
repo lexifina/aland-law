@@ -1,0 +1,15 @@
+Source of the text: Ålands landskapsregering (the Government of Åland): the Statute Book, Ålands
+författningssamling (ÅFS), as PDFs, and the consolidated legislation database Ålex, both at
+https://www.regeringen.ax/alandsk-lagstiftning .
+
+No licence or terms of use for the texts were found on regeringen.ax; Ålex carries a disclaimer that its
+consolidated texts are for information and only the texts published in ÅFS are authoritative. Statutes are
+generally outside copyright in Finland (Upphovsrättslagen / Tekijänoikeuslaki 404/1961, 9 §), which applies
+on Åland, but reuse has not been separately reviewed: this repository stays PRIVATE.
+
+Attribution for the legal texts: "Text from Ålands författningssamling and Ålex, Ålands landskapsregering,
+https://www.regeringen.ax." The texts of the replayed intermediate versions are derived from that data by the
+method in REPRODUCE.md; they are not published by Ålands landskapsregering.
+
+The history (commits and commit messages), the tables and the tools are dedicated to the public domain under
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/legalcode

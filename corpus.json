@@ -1,0 +1,33 @@
+{
+  "corpus": "ax/national/acts",
+  "name": "Åland law: Landskapslag (2015:68) om hemvårdsstöd",
+  "label": "Åland",
+  "language": "sv",
+  "acts": [
+    "2015:68"
+  ],
+  "history_from": "2016-01-01",
+  "record_to": "2026-05-01",
+  "record_note": "2015:68 from its original text (in force 2016-01-01) with the 7 amending acts replayed to the Ålex consolidation (updated to ÅFS 2026/31); data retrieved 2026-10-28.",
+  "in_force_trailer": "In-force",
+  "built": "2026-10-28",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Enacted"
+    ],
+    "time": "12:00 Europe/Mariehamn (UTC+2, UTC+3 in summer time)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "the amending act prints no transitional or retroactive rule in its commencement provision; the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "no genuine retroactivity (Constitution of Finland 8 §: nullum crimen; legislative practice otherwise), which binds Åland legislation as well",
+      "meaning": "an act applies from the day it takes effect unless its own commencement provision says otherwise (for instance ÅFS 2023/29, which lets the sibling allowance be granted from 1 August 2022); those provisions are copied verbatim into Applies: trailers",
+      "authority": "Suomen perustuslaki 731/1999, 8 §; Självstyrelselag (1991:71) för Åland; each amending act's commencement provision",
+      "decided_here": false
+    }
+  },
+  "replayed": true,
+  "tool": "tools/alex.py"
+}
