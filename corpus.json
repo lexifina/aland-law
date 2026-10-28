@@ -33,5 +33,7 @@
   "citation": {
     "file": "([a-z]+)/paragraf-0*([0-9]+[a-z]*)\\.md",
     "cites": "([^0-9]|^){n} ?§"
-  }
+  },
+  "checked_on": "2026-10-28",
+  "history": "in-force"
 }
