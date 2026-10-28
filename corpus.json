@@ -35,5 +35,6 @@
     "cites": "([^0-9]|^){n} ?§"
   },
   "checked_on": "2026-10-28",
-  "history": "in-force"
+  "history": "replayed",
+  "verification": "Verified against official text: the original act ÅFS 2015:68 (first commit) and the current Ålex consolidation (end state, 30/30 sections). The 6 intermediate states between are replays of the ÅFS amending acts and are not independently verified."
 }
