@@ -1,5 +1,7 @@
 # Åland law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is AX's national law, which global-law reads at `aland/national/acts/`.
+
 Landskapslag (2015:68) om hemvårdsstöd (the Home Care Allowance Act of the Åland Islands) as a git repository. Each amending act is one commit,
 credited to that act and dated the day it took effect, at noon in Mariehamn. Text is Swedish.
 
