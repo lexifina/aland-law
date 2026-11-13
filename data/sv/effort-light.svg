@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Ålands rätt som git-historik</text>
+<rect x="579.6" y="24.5" width="134" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="646.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">data t.o.m. 1 maj 2026</text>
+<rect x="721.5" y="24.5" width="134" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="788.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">aktualitet: inaktuell</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">1</text>
+<text x="40.0" y="106" font-size="12" fill="#59636e">författningar</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">8</text>
+<text x="206.4" y="106" font-size="12" fill="#59636e">ändringar, som commits</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">31</text>
+<text x="372.8" y="106" font-size="12" fill="#59636e">filer med bestämmelser</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">8</text>
+<text x="539.2" y="106" font-size="12" fill="#59636e">upphov: lagar och utgivare</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">2016–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#59636e">års historik</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Ändringar per år för ikraftträdande</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
+<line x1="80.5" y1="280.5" x2="839.5" y2="280.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="284.5" font-size="11" text-anchor="end" fill="#59636e">1</text>
+<line x1="80.5" y1="230.5" x2="839.5" y2="230.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="234.5" font-size="11" text-anchor="end" fill="#59636e">2</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">3</text>
+<text x="98.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2006</text>
+<text x="170.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2008</text>
+<text x="243.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2010</text>
+<text x="315.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2012</text>
+<text x="387.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2014</text>
+<rect x="442.53" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2016: ändringar som trädde i kraft: 1</title></rect>
+<text x="460.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2016</text>
+<rect x="514.81" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2018: ändringar som trädde i kraft: 1</title></rect>
+<text x="532.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2018</text>
+<rect x="587.10" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2020: ändringar som trädde i kraft: 1</title></rect>
+<text x="604.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2020</text>
+<rect x="623.24" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2021: ändringar som trädde i kraft: 1</title></rect>
+<rect x="659.39" y="230.5" width="34.94" height="100.0" rx="1.5" fill="#1f883d"><title>2022: ändringar som trädde i kraft: 2</title></rect>
+<text x="676.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2022</text>
+<text x="676.9" y="224.5" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">2 år 2022</text>
+<rect x="695.53" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2023: ändringar som trädde i kraft: 1</title></rect>
+<text x="749.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2024</text>
+<rect x="803.96" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2026: ändringar som trädde i kraft: 1</title></rect>
+<text x="821.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2026</text>
+<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">Ändringar daterade efter dag för ikraftträdande: 8. Typ av historik: replayed.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Fullständighet jämfört med officiella källor, 12 nov. 2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Grundlag</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">inte i repositoriet</text>
+<g><title>Grundlag: 0 %</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
+<text x="40.5" y="482.5" font-size="13" fill="#1f2328">Centrala balkar och lagar</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">andel av de centrala lagarna</text>
+<g><title>Centrala balkar och lagar: 0 %</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
+<text x="40.5" y="518.5" font-size="13" fill="#1f2328">Nationella författningar</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">andel av officiellt totalantal</text>
+<g><title>Nationella författningar: 0,1 %</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="515.5" width="4.0" height="8" rx="4" fill="#d1242f"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0,1 %</text>
+<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Regionala författningar</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">inga lagstiftande regioner</text>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">ej tillämpligt</text>
+<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Rättspraxis</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">högsta domstolar som ingår</text>
+<g><title>Rättspraxis: 0 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Riktighet i det som ingår</text>
+<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Ändringar med ikraftträdandedag</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">andel av ändringarna</text>
+<g><title>Ändringar med ikraftträdandedag: 100 %</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Ändringar med officiell källa</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">Source-rad eller länk i commit</text>
+<g><title>Ändringar med officiell källa: 100 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Kontrollerad mot officiell källa</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">Ålex</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">28 okt. 2026</text>
+<text x="456.0" y="612.5" font-size="13" fill="#1f2328">Korpusar för landet i global-law</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">nationella författningar: 1</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/aland-law vid 1eeda74, genererad 2026-11-13. Utan dokumentationscommits. Omfattning: from 2016-01-01</text>
+</svg>

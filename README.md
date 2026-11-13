@@ -1,48 +1,50 @@
-# Åland law, change by change
+# Åländsk lagstiftning, ändring för ändring
+
+**Svenska** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Åland law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/sv/effort-dark.svg">
+<img alt="Ålands författningar i detta repositorium: innehåll, ändringar per år för ikraftträdande, fullständighet jämfört med officiella källor och riktighet i det som ingår" src="data/sv/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is AX's national law, which global-law reads at `aland/national/acts/`.
+En del av [lexifina/global-law](https://github.com/lexifina/global-law), en enda git-historik för alla länders rätt: detta är AX:s nationella lagstiftning, som global-law läser under `aland/national/acts/`.
 
-Landskapslag (2015:68) om hemvårdsstöd (the Home Care Allowance Act of the Åland Islands) as a git repository. Each amending act is one commit,
-credited to that act and dated the day it took effect, at noon in Mariehamn. Text is Swedish.
+Landskapslag (2015:68) om hemvårdsstöd som git-repositorium. Varje ändringslag är en commit,
+som tillskrivs den lagen och dateras till den dag då den trädde i kraft, kl. 12.00 Mariehamnstid. Texten är på svenska.
 
-**The intermediate versions are replayed. Only the end state is checked against an official consolidation.** Ålex serves only the CURRENT consolidation of an act. The intermediate versions in this repository are therefore REPLAYED: the original act is taken from its Statute Book (ÅFS) PDF and each amending act is applied, in in-force order, by section, moment (subsection), point and heading replacement, moment and section insertion, as the act's own enacting clause states. Only the end state is checked against an official consolidation (Ålex); the earlier versions are not independently confirmed.
+**De mellanliggande versionerna är återskapade. Endast slutläget kontrolleras mot en officiell konsolidering.** Ålex tillhandahåller endast den GÄLLANDE konsoliderade lydelsen av en lag. De mellanliggande versionerna i detta repositorium är därför ÅTERSKAPADE: den ursprungliga lagen hämtas ur dess PDF i Ålands författningssamling (ÅFS), och varje ändringslag tillämpas, i ikraftträdandeordning, genom att paragrafer, moment, punkter och rubriker ersätts och moment och paragrafer införs, så som lagens egen ingress anger. Endast slutläget kontrolleras mot en officiell konsolidering (Ålex); de tidigare versionerna har inte bekräftats oberoende.
 
-## The questions, as git commands
+## Frågorna som git-kommandon
 
-| Question | Command |
+| Fråga | Kommando |
 | --- | --- |
-| What did 1 § say on 1 June 2021? | `python tools/alex.py 2021-06-01 hemvardsstod 1` |
-| The whole act as it stood on 1 January 2019 | `python tools/alex.py 2019-01-01 hemvardsstod` |
-| Which act wrote each line of 13 §? | `git blame hemvardsstod/paragraf-013.md` |
-| Every change to 13 §, with the act and the day | `git log --follow hemvardsstod/paragraf-013.md` |
-| Everything one act changed | `git show --stat hemvardsstod/2022-56` |
-| The amending acts with all their dates | [`amendments.csv`](amendments.csv) |
-| Commits carrying the replay evidence line | `git log --grep="Evidence: replay"` |
-| Acts that amended 7 § | `git log --format="%an %ad" --date=short -- hemvardsstod/paragraf-007.md` |
-| Changes with a transitional or retroactive rule | `git log --grep="^Applies:"` |
-| All tags, one per act | `git tag --list "hemvardsstod/*"` |
+| Vad sade 1 § den 1 juni 2021? | `python tools/alex.py 2021-06-01 hemvardsstod 1` |
+| Hela lagen i den lydelse den hade den 1 januari 2019 | `python tools/alex.py 2019-01-01 hemvardsstod` |
+| Vilken lag skrev varje rad i 13 §? | `git blame hemvardsstod/paragraf-013.md` |
+| Varje ändring av 13 §, med lagen och dagen | `git log --follow hemvardsstod/paragraf-013.md` |
+| Allt som en lag ändrade | `git show --stat hemvardsstod/2022-56` |
+| Ändringslagarna med alla sina datum | [`amendments.csv`](amendments.csv) |
+| Commits med evidensraden för återskapandet | `git log --grep="Evidence: replay"` |
+| Lagar som ändrade 7 § | `git log --format="%an %ad" --date=short -- hemvardsstod/paragraf-007.md` |
+| Ändringar med en övergångsbestämmelse eller retroaktiv bestämmelse | `git log --grep="^Applies:"` |
+| Alla taggar, en per lag | `git tag --list "hemvardsstod/*"` |
 
-## The dates, and which one we use
+## Datumen, och vilket vi använder
 
-An Åland act has a day it was signed (`Enacted:`, "Utfärdad i Mariehamn den ...") and a day it takes effect
-(`In-force:`). **Commits are dated the day the change took effect**, at noon in Mariehamn (EET, or EEST in summer time).
-Each in-force day is read twice and must agree: from Ålex's list of commencement provisions and from the amending act's
-own text in the Statute Book. No act here is staged per section. Transitional and retroactive rules in a commencement
-provision are copied verbatim into `Applies:` trailers; the preparatory works Ålex lists go into `Preparatory-works:`.
+En åländsk lag har en dag då den undertecknades (`Enacted:`, "Utfärdad i Mariehamn den ...") och en dag då den träder i kraft
+(`In-force:`). **Commits dateras till den dag då ändringen trädde i kraft**, kl. 12.00 Mariehamnstid (EET, eller EEST under sommartid).
+Varje ikraftträdandedag läses två gånger och måste stämma överens: ur Ålex:s förteckning över ikraftträdandebestämmelser och ur
+ändringslagens egen text i författningssamlingen. Ingen lag här träder i kraft stegvis per paragraf. Övergångsbestämmelser och
+retroaktiva bestämmelser i en ikraftträdandebestämmelse kopieras ordagrant till trailrar `Applies:`; de förarbeten som Ålex förtecknar läggs i `Preparatory-works:`.
 
-## What "author" means
+## Vad "author" betyder
 
-The author of a commit is the act that made the change (`ÅFS 2022/56`, address `afs-2022-56@regeringen.ax.invalid`), so
-`git blame` names the act. The committer is always `Lexifina`.
+Författaren (author) till en commit är den lag som gjorde ändringen (`ÅFS 2022/56`, adress `afs-2022-56@regeringen.ax.invalid`), så att
+`git blame` anger lagen. Committern är alltid `Lexifina`.
 
-## Amending acts
+## Ändringslagar
 
-| Act | In force | Sections |
+| Lag | I kraft | Paragrafer |
 | --- | --- | --- |
 | ÅFS 2017/126 | 2018-01-01 | 25 |
 | ÅFS 2020/63 | 2020-09-01 | 22a |
@@ -52,34 +54,47 @@ The author of a commit is the act that made the change (`ÅFS 2022/56`, address 
 | ÅFS 2023/29 | 2023-05-01 | 7, 13 |
 | ÅFS 2026/31 | 2026-05-01 | 21 |
 
-## How it is checked
+## Hur det kontrolleras
 
-`tools/build.py` stops unless the replayed end state equals the Ålex consolidation (updated to ÅFS 2026/31) for all
-30 sections, after this normalisation: (1) whitespace: no-break and em spaces and tabs are read as spaces, runs of whitespace as one space, soft hyphens (U+00AD) are dropped and a word broken at a line end is joined; (2) Ålex: inline markup (links, emphasis) joins without a space, the amendment labels such as "(2022/56)" are dropped, and the editorial notes (div "anmarkning", e.g. under 21 §) are not law text; (3) ÅFS PDF: an unmapped glyph (U+FFFD) before a line-end hyphen is the consonant doubled at a Swedish triple-consonant break ("til-lämpning"), so the word is joined as written unbroken ("tillämpning"); the publisher's headers, footers, signatures and footnotes are dropped by content.
-`tools/check_repo.py` then reads every version back from git and compares the final one with Ålex (file by file and
-word for word), the first with the original act, and each amendment's sections with the amending act's own text.
-`tools/test_repo.py` checks that the commands above work. See [`REPRODUCE.md`](REPRODUCE.md).
-- check_repo.py: final version vs Ålex (updated to ÅFS 2026/31): 30 sections, 0 mismatches, word check equal (2232 words); first version vs original act: equal; 7 amending acts checked against their own text and in-force days; 0 problems
-- test_repo.py: 6/6 passed
+`tools/build.py` avbryts om inte det återskapade slutläget är lika med Ålex:s konsolidering (uppdaterad t.o.m. ÅFS 2026/31) för alla
+30 paragrafer, efter följande normalisering: (1) blanktecken: hårda mellanslag, em-mellanslag och tabbar läses som mellanslag, följder av blanktecken som ett mellanslag, mjuka bindestreck (U+00AD) tas bort och ett ord som avstavats vid radslut sammanfogas; (2) Ålex: inbäddad märkning (länkar, betoning) sammanfogas utan mellanslag, ändringsbeteckningar som "(2022/56)" tas bort, och de redaktionella anmärkningarna (div "anmarkning", t.ex. under 21 §) är inte lagtext; (3) ÅFS-PDF: ett omappat tecken (U+FFFD) före ett avstavningsstreck vid radslut är den dubblerade konsonanten vid en avstavning av en svensk trekonsonantförbindelse ("til-lämpning"), så ordet sammanfogas så som det skrivs utan avstavning ("tillämpning"); utgivarens sidhuvuden, sidfötter, underskrifter och fotnoter tas bort utifrån innehållet.
+`tools/check_repo.py` läser sedan tillbaka varje version ur git och jämför den sista med Ålex (fil för fil och
+ord för ord), den första med den ursprungliga lagen och varje ändringslags paragrafer med ändringslagens egen text.
+`tools/test_repo.py` kontrollerar att kommandona ovan fungerar. Se [`REPRODUCE.md`](REPRODUCE.md).
+- check_repo.py: slutlig version jämfört med Ålex (uppdaterad t.o.m. ÅFS 2026/31): 30 paragrafer, 0 avvikelser, ordkontrollen lika (2 232 ord); första versionen jämfört med den ursprungliga lagen: lika; 7 ändringslagar kontrollerade mot sin egen text och sina ikraftträdandedagar; 0 problem
+- test_repo.py: 6/6 godkända
 
-## Files
+## Filer
 
-`hemvardsstod/paragraf-NNN.md` is one section (paragraf); the `#` line is its number and heading, `Kapitel:` its chapter, and
-each moment (subsection) is a block separated by a blank line, each line one paragraph or numbered point. `rubrik.md` is
-the title and the enacting words. A repealed section is removed.
+`hemvardsstod/paragraf-NNN.md` är en paragraf; `#`-raden är dess nummer och rubrik, `Kapitel:` dess kapitel, och
+varje moment är ett block som avgränsas av en tom rad, där varje rad är ett textstycke eller en numrerad punkt. `rubrik.md` är
+lagens rubrik och ingressen. En upphävd paragraf tas bort.
 
-## What it does not show
+## Vad det inte visar
 
-- Versions Ålex does not publish: only the current consolidation exists; the rest is replayed.
-- Landskapslag (2017:120) om landskapsandelar till kommunerna was not built: three of its amending acts are temporary
-  (2020/50, 2021/136, 2022/67, with sunset days) and Ålex gives no commencement for 2018/102.
-- The Autonomy Act (Självstyrelselag 1991:71 för Åland) is a Finnish act, published by Finlex, not in ÅFS.
+- Versioner som Ålex inte publicerar: endast den gällande konsoliderade lydelsen finns; resten är återskapat.
+- Landskapslag (2017:120) om landskapsandelar till kommunerna har inte byggts: tre av dess ändringslagar är tidsbegränsade
+  (2020/50, 2021/136, 2022/67, med dagar då de upphör att gälla) och Ålex anger inget ikraftträdande för 2018/102.
+- Självstyrelselagen (Självstyrelselag 1991:71 för Åland) är en finländsk lag som publiceras av Finlex, inte i ÅFS.
 
-## Licence
+## Licens
 
-See [`LICENSE`](LICENSE): no terms of use were found; the repository stays private. Tools, history and tables: CC0.
+Se [`LICENSE`](LICENSE): inga användarvillkor hittades; repositoriet förblir privat. Verktyg, historik och tabeller: CC0.
 
-## Source
+Detta är en översättning av den engelska versionen ([README.en.md](README.en.md)); om de skiljer sig åt gäller den engelska versionen.
 
-Ålands landskapsregering, https://www.regeringen.ax/alandsk-lagstiftning : Ålex (consolidated texts, HTML) and Ålands
+## Källa
+
+Ålands landskapsregering, https://www.regeringen.ax/alandsk-lagstiftning : Ålex (konsoliderade texter, HTML) och Ålands
 författningssamling (PDF).
+
+## Mer
+
+Från repositoriet [lexifina/global-law](https://github.com/lexifina/global-law) (på engelska):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): alla funktioner och vad varje korpus måste stödja (`git blame`, `law.py`, MCP-verktyg)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): frågor och svar · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): föreslå ändringar · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP-server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): hur det är byggt · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): hur aktuellt varje korpus är · [Övervakning](https://github.com/lexifina/global-law/tree/main/monitoring): om uppdateringarna fungerar · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): hur varje officiell källa bevakas för ändringar
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): hur snabba verktygen är, uppmätt
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): diagram och kopplingar över hela världens rätt
+- [Sårbarheter](https://github.com/lexifina/global-law/tree/main/vulnerabilities): fel i författningar så som de publicerats
