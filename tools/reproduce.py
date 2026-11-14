@@ -208,3 +208,9 @@ act on landskapsandelar (temporary amendments).
     for n in ('build.py', 'parse.py', 'reproduce.py', 'check_repo.py', 'test_repo.py', 'alex.py'):
         src = here / ('repo/tools/' + n if n == 'alex.py' else n)
         shutil.copyfile(src, tools / n)
+
+    # The README pair as published (Swedish README.md, English README.en.md, on the serbia-law model since 2026-11-14)
+    # is kept in repo/ beside this script and replaces the generated English README above, so a rebuild keeps it.
+    for name in ('README.md', 'README.en.md'):
+        if (here / 'repo' / name).is_file():
+            shutil.copyfile(here / 'repo' / name, repo / name)
