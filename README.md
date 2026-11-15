@@ -30,7 +30,8 @@ Texten är på svenska, Ålands officiella språk, så som författningssamlinge
 
 - **[Fråga Claude om åländsk lagstiftning](https://global-law.lexifina.com/v1/try_claude?country=aland)**: öppnar Claude med en första fråga färdig.
 - **[Fråga ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=aland)**: samma fråga i ChatGPT.
-- **[Anropa API:t i webbläsaren](https://global-law.lexifina.com/v1/search_law?query=hemv%C3%A5rdsst%C3%B6d&jurisdictions=aland)**: en sökning i åländsk lagstiftning efter ”hemvårdsstöd”, med svar i JSON. Dokumentationen finns [här](https://lexifina.com/api/global-law).
+- **[Sök i åländsk lagstiftning på vår webbplats](https://lexifina.com/law?country=aland&q=hemv%C3%A5rdsst%C3%B6d)**: en sökning efter ”hemvårdsstöd”, med varje bestämmelses text och dess versioner, utan konto.
+- **[REST-API för utvecklare](https://global-law.lexifina.com/v1/search_law?query=hemv%C3%A5rdsst%C3%B6d&jurisdiction=aland)**: samma sökning som JSON, utan nyckel. Dokumentationen finns [här](https://lexifina.com/api/global-law).
 
 Båda assistenterna läser materialet genom den kostnadsfria kopplingen Global law (MCP, `https://global-law.lexifina.com/mcp`); första gången ger chatten dig länken som lägger till den. Fråga på svenska eller på engelska.
 
