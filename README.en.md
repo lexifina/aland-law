@@ -59,6 +59,7 @@ Each change is credited to the act that made it (`ÅFS 2022/56`, address `afs-20
 - `tools/build.py` commits nothing unless the replayed end state equals the Ålex consolidation (updated to ÅFS 2026/31) in all 30 sections, after the normalisation [`REPRODUCE.md`](REPRODUCE.md) declares; an amending clause it cannot read stops the build.
 - `tools/check_repo.py` reads every version back from git: the last must equal Ålex, file by file and word for word (2,232 words), the first the original act, and each amending act's sections its own text and in-force day.
 - `tools/test_repo.py` checks blame, the dated tool before and after an amendment, `git log --follow` and the tags; `tools/build.py --verify-rebuild` builds the record again and must give the same `main` hash. The results are in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -79,6 +80,10 @@ Each change is credited to the act that made it (`ÅFS 2022/56`, address `afs-20
 See [`LICENSE`](LICENSE). No licence or terms of use for the texts were found on regeringen.ax; statutes are generally outside copyright in Finland (upphovsrättslagen 404/1961, 9 §), which applies on Åland. The replayed versions are derived from that data and are not published by Ålands landskapsregering. The history, commit messages, tables and tools are CC0 1.0.
 
 No model wrote legal text or ran at build time; the code was written with Claude, an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

@@ -59,6 +59,7 @@ Varje ändring tillskrivs den lag som gjorde den (`ÅFS 2022/56`, adress `afs-20
 - `tools/build.py` gör inga commits om inte det återskapade slutläget är lika med Ålex:s konsolidering (uppdaterad t.o.m. ÅFS 2026/31) i alla 30 paragrafer, efter den normalisering som [`REPRODUCE.md`](REPRODUCE.md) anger; en ändringsklausul som den inte kan läsa stoppar bygget.
 - `tools/check_repo.py` läser tillbaka varje version ur git: den sista måste vara lika med Ålex, fil för fil och ord för ord (2 232 ord), den första med den ursprungliga lagen, och varje ändringslags paragrafer med dess egen text och ikraftträdandedag.
 - `tools/test_repo.py` kontrollerar blame, datumverktyget före och efter en ändring, `git log --follow` och taggarna; `tools/build.py --verify-rebuild` bygger materialet på nytt och måste ge samma hash för `main`. Resultaten finns i [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/): möjliga redaktionella fel i denna rätt, hittade av global-laws detektorer och kontrollerade för hand. Inte körd ännu.
 
 ## Vad det inte visar
 
@@ -81,6 +82,10 @@ Se [`LICENSE`](LICENSE). Inga licenser eller användarvillkor för texterna hitt
 Ingen modell har skrivit lagtext eller körts när materialet byggs; koden skrevs med Claude, en AI-modell (se [`REPRODUCE.md`](REPRODUCE.md)).
 
 Detta är en översättning av den engelska versionen ([README.en.md](README.en.md)); om de skiljer sig åt gäller den engelska versionen.
+
+## Visualiseringar
+
+- [visualisations/](visualisations/): diagram ritade ur detta repository. Inte ritade ännu.
 
 ## Mer
 
