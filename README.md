@@ -11,7 +11,7 @@
 
 En del av [lexifina/global-law](https://github.com/lexifina/global-law), en enda git-historik för alla länders rätt: detta är Ålands lagstiftning, som global-law läser under `aland/national/acts/`.
 
-**Vad det innehåller nu:** 628 av de 690 texter som Ålex förtecknar: 470 gällande landskapslagar, landskapsförordningar och republikens presidents förordningar, och 158 föråldrade texter (under `foraldrad/`). Grundlagarna: Självstyrelselag (1991:71) för Åland (`sjalvstyrelselag/`, gällande text i Ålex enligt ÅFS 2020/33, i kraft från den 1 januari 2021; ändringarna förtecknade, inte återskapade) och Lagtingsordning (2011:97) för Åland (`lagtingsordning/`, från den 1 november 2011 med alla 5 ändringar återskapade till den 1 januari 2024; slutläget kontrollerat mot Ålex, med ett angivet ställe där den följer ÅFS). Landskapslag (2015:68) om hemvårdsstöd (`hemvardsstod/`) har också hela sin historik. Varje annan lag är sin gällande konsoliderade text i Ålex, en commit daterad den dag den senaste författning som texten visar trädde i kraft; tidigare lydelser är ännu inte återskapade.
+**Vad det innehåller nu:** 660 av de 690 texter som Ålex förtecknar: 496 gällande landskapslagar, landskapsförordningar och republikens presidents förordningar, och 164 föråldrade texter (under `foraldrad/`). Grundlagarna: Självstyrelselag (1991:71) för Åland (`sjalvstyrelselag/`, gällande text i Ålex enligt ÅFS 2020/33, i kraft från den 1 januari 2021; ändringarna förtecknade, inte återskapade) och Lagtingsordning (2011:97) för Åland (`lagtingsordning/`, från den 1 november 2011 med alla 5 ändringar återskapade till den 1 januari 2024; slutläget kontrollerat mot Ålex, med ett angivet ställe där den följer ÅFS). Landskapslag (2015:68) om hemvårdsstöd (`hemvardsstod/`) har också hela sin historik. Varje annan lag är sin gällande konsoliderade text i Ålex, en commit daterad den dag den senaste författning som texten visar trädde i kraft; tidigare lydelser är ännu inte återskapade.
 
 Varje lag ligger i en egen mapp efter sitt nummer (`landskapslag-1997-73/` är kommunallagen, `landskapsforordning-2026-43/`), med en fil per paragraf (`paragraf-013.md`, eller `kap-02-paragraf-001.md` där paragraferna numreras om i varje kapitel) och en per bilaga; `rubrik.md` innehåller rubriken.
 
@@ -67,7 +67,7 @@ Varje ändring tillskrivs den lag som gjorde den (`ÅFS 2022/56`, adress `afs-20
 ## Vad det inte visar
 
 - **Officiella tidigare lydelser.** De 6 versionerna mellan den ursprungliga lagen och den gällande texten är återskapade ur ändringslagarna och inte kontrollerade mot en officiell text.
-- **60 av Ålex:s texter**: där Ålex inte anger någon ikraftträdandedag för den senaste författningen, där texten innehåller bilder, där ikraftträdandet ligger i framtiden, och några som parsern inte kunde läsa ord för ord. Tidigare lydelser för andra lagar än de tre ovan.
+- **28 av Ålex:s texter**: 18 där dagen bara står i en skannad ÅFS-PDF utan textlager (den läses inte med OCR), 5 där ÅFS-PDF:en inte hittades eller inte anger dagen, 2 med ikraftträdande i framtiden och 3 som parsern inte kunde läsa ord för ord. Bilder i lagtexten står som en rad `[Bild: <adress>]`. Tidigare lydelser för andra lagar än de tre ovan.
 - **Rättspraxis, lagförslag och EU-rätt.**
 - **Ändringar efter den 26 november 2026**, den dag Ålex senast lästes.
 

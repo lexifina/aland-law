@@ -11,7 +11,7 @@ The law of Åland as a git history: one file per section (paragraf), one commit 
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Åland's law, which global-law reads at `aland/national/acts/`.
 
-**What is in it now:** 628 of the 690 texts Ålex lists: 470 acts, decrees and presidential decrees in force, and 158 obsolete texts (under `foraldrad/`). Constitution: Självstyrelselag (1991:71) för Åland (`sjalvstyrelselag/`, Swedish, current Ålex text as of ÅFS 2020/33, in force 2021-01-01; amendments listed, not replayed) and Lagtingsordning (2011:97) för Åland (`lagtingsordning/`, from 2011-11-01 with all 5 amendments replayed to 2024-01-01; end state checked against Ålex, with one declared place where it follows ÅFS). Landskapslag (2015:68) om hemvårdsstöd (`hemvardsstod/`) also carries its full history. Every other act is its current consolidated text in Ålex, one commit dated the day the newest act the text shows took effect; earlier versions are not yet replayed.
+**What is in it now:** 660 of the 690 texts Ålex lists: 496 acts, decrees and presidential decrees in force, and 164 obsolete texts (under `foraldrad/`). Constitution: Självstyrelselag (1991:71) för Åland (`sjalvstyrelselag/`, Swedish, current Ålex text as of ÅFS 2020/33, in force 2021-01-01; amendments listed, not replayed) and Lagtingsordning (2011:97) för Åland (`lagtingsordning/`, from 2011-11-01 with all 5 amendments replayed to 2024-01-01; end state checked against Ålex, with one declared place where it follows ÅFS). Landskapslag (2015:68) om hemvårdsstöd (`hemvardsstod/`) also carries its full history. Every other act is its current consolidated text in Ålex, one commit dated the day the newest act the text shows took effect; earlier versions are not yet replayed.
 
 Each act has a folder named by its number (`landskapslag-1997-73/` is the Local Government Act, `landskapsforordning-2026-43/`), one file per section (`paragraf-013.md`, or `kap-02-paragraf-001.md` where sections are numbered afresh in each chapter) and one per annex; `rubrik.md` holds the title.
 
@@ -67,7 +67,7 @@ Each change is credited to the act that made it (`ÅFS 2022/56`, address `afs-20
 ## What it does not show
 
 - **Official earlier versions.** The 6 versions between the original act and the current text are replayed from the amending acts, not checked against an official text.
-- **60 of the texts in Ålex**: where Ålex states no in-force day for the newest act, where the text holds images, where commencement is in the future, and a few the parser could not read word for word. Earlier versions of acts other than the three above.
+- **28 of the texts in Ålex**: 18 whose day is only in a scanned ÅFS PDF with no text layer (not read by OCR), 5 whose ÅFS PDF was not found or does not give the day, 2 with commencement in the future and 3 the parser could not read word for word. Images in the law text stand as a line `[Bild: <address>]`. Earlier versions of acts other than the three above.
 - **Case law, bills and EU law.**
 - **Changes after 26 November 2026**, the day Ålex was last read.
 
