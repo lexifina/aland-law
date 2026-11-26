@@ -11,9 +11,20 @@ The law of Åland as a git history: one file per section (paragraf), one commit 
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Åland's law, which global-law reads at `aland/national/acts/`.
 
-**What is in it now:** 660 of the 690 texts Ålex lists: 496 acts, decrees and presidential decrees in force, and 164 obsolete texts (under `foraldrad/`). Constitution: Självstyrelselag (1991:71) för Åland (`sjalvstyrelselag/`, Swedish, current Ålex text as of ÅFS 2020/33, in force 2021-01-01; amendments listed, not replayed) and Lagtingsordning (2011:97) för Åland (`lagtingsordning/`, from 2011-11-01 with all 5 amendments replayed to 2024-01-01; end state checked against Ålex, with one declared place where it follows ÅFS). Landskapslag (2015:68) om hemvårdsstöd (`hemvardsstod/`) also carries its full history. Every other act is its current consolidated text in Ålex, one commit dated the day the newest act the text shows took effect; earlier versions are not yet replayed.
+**What is in it now:** 660 of the 690 texts Ålex lists: 496 acts, decrees and presidential decrees in force, and 164 obsolete texts (under `<type>/foraldrade/`). Constitution: Självstyrelselag (1991:71) för Åland (`grundlag/sjalvstyrelselag/`, Swedish, current Ålex text as of ÅFS 2020/33, in force 2021-01-01; amendments listed, not replayed) and Lagtingsordning (2011:97) för Åland (`grundlag/lagtingsordning/`, from 2011-11-01 with all 5 amendments replayed to 2024-01-01; end state checked against Ålex, with one declared place where it follows ÅFS). Landskapslag (2015:68) om hemvårdsstöd (`landskapslagar/2015/2015-68-hemvardsstod/`) also carries its full history. Every other act is its current consolidated text in Ålex, one commit dated the day the newest act the text shows took effect; earlier versions are not yet replayed.
 
-Each act has a folder named by its number (`landskapslag-1997-73/` is the Local Government Act, `landskapsforordning-2026-43/`), one file per section (`paragraf-013.md`, or `kap-02-paragraf-001.md` where sections are numbered afresh in each chapter) and one per annex; `rubrik.md` holds the title.
+| Folder | What it holds |
+| --- | --- |
+| `grundlag/` | The Autonomy Act (`sjalvstyrelselag/`), the Lagtingsordning (`lagtingsordning/`) and the lagting's rules of procedure (`arbetsordning/`) |
+| `landskapslagar/<year>/<year>-<no>-<short name>/` | Acts of the lagting, e.g. `landskapslagar/1997/1997-73-kommunallag/` and `landskapslagar/2015/2015-68-hemvardsstod/` |
+| `landskapsforordningar/<year>/…` | Decrees of the landskapsregering, e.g. `landskapsforordningar/2026/2026-43-skjutprov-for-jakt-pa-klovvilt/` |
+| `presidentens-forordningar/<year>/…` | Decrees of the President of the Republic (agreement decrees; before 1995 titled "Förordning") |
+| `landskapsregeringens-beslut/<year>/…` | Decisions of the landskapsregering |
+| `rikslagar/<year>/…` | Lag (2021:22) on the equalisation basis under the Autonomy Act |
+| `<type>/foraldrade/<year>/…` | Texts Ålex lists as obsolete (Föråldrad lagstiftning: repealed, or time-limited and expired) |
+| `data/` | The charts, `paths.json` (every folder before and after the 26 November 2026 layout) and `hemvardsstod-amendments.csv` |
+
+In each act's folder: one file per section (`paragraf-013.md`; `kap-02-paragraf-001.md` where sections are numbered afresh in each chapter), one per annex (`bilaga-01.md`) and `rubrik.md` with the title.
 
 The text is in Swedish, Åland's official language, as the Statute Book and Ålex print it. An English translation is not part of this record.
 
@@ -21,10 +32,10 @@ The text is in Swedish, Åland's official language, as the Statute Book and Åle
 
 | Question | Command |
 | --- | --- |
-| Every change to 13 § of the Home Care Allowance Act | `git log -p --word-diff -- hemvardsstod/paragraf-013.md` |
-| Which act wrote each line of 13 §? | `git blame hemvardsstod/paragraf-013.md` |
-| Every version of the act, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- hemvardsstod` |
-| 13 § as in force on 1 June 2022 | `python tools/alex.py 2022-06-01 hemvardsstod 13` |
+| Every change to 13 § of the Home Care Allowance Act | `git log --follow -p --word-diff -- landskapslagar/2015/2015-68-hemvardsstod/paragraf-013.md` |
+| Which act wrote each line of 13 §? | `git blame landskapslagar/2015/2015-68-hemvardsstod/paragraf-013.md` |
+| Every version of the act, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- landskapslagar/2015/2015-68-hemvardsstod hemvardsstod` |
+| 13 § as in force on 1 June 2022 | `python tools/alex.py 2022-06-01 landskapslagar/2015/2015-68-hemvardsstod 13` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -40,7 +51,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add aland/national/acts
-python3 tools/law.py show 2026-01-01 aland/national/acts/hemvardsstod/paragraf-013.md
+python3 tools/law.py show 2026-01-01 aland/national/acts/landskapslagar/2015/2015-68-hemvardsstod/paragraf-013.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).

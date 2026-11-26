@@ -41,6 +41,44 @@ SKIP = {'1991:71': 'Självstyrelselag: added by the constitution lane under its 
         '2015:68': 'already held, replayed by build.py (hemvardsstod/)'}
 
 
+TOP = {'landskapslag': 'landskapslagar', 'landskapsforordning': 'landskapsforordningar',
+       'rp-forordning': 'presidentens-forordningar', 'forordning': 'presidentens-forordningar',
+       'beslut': 'landskapsregeringens-beslut', 'lag': 'rikslagar', 'arbetsordning': 'grundlag'}
+GENERIC = r'(Landskapslag|Landskapsförordning|Förordning|Republikens presidents förordning|Ålands landskapsregerings beslut|Lag)'
+PLACE = ['i-landskapet-aland', 'for-landskapet-aland', 'pa-aland', 'for-aland', 'landskapet-aland']
+
+
+def slug(s):
+    import unicodedata
+    s = s.lower().replace('å', 'a').replace('ä', 'a').replace('ö', 'o')
+    s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode()
+    return re.sub(r'[^a-z0-9]+', '-', s).strip('-')
+
+
+def short_name(title):
+    """'Landskapslag (2015:68) om hemvårdsstöd' -> 'hemvardsstod'; 'Kommunallag (1997:73) för landskapet Åland' ->
+    'kommunallag': the act's own name if it has one, else its subject; place words dropped; at most 48 characters."""
+    t = re.sub(r'\s*\((upphävd|upphävt|upphävda|tidsbunden|tidsbegränsad)[^)]*\)\s*$', '', title.strip(), flags=re.I)
+    m = re.match(r'(.*?)\s*\((\d{4}):(\d+)\)\s*(.*)', t)
+    head, rest = m.group(1), m.group(4)
+    if not re.fullmatch(GENERIC, head):
+        s = slug(head + ' ' + rest) if head == 'Arbetsordning' else slug(head)
+    else:
+        s = slug(re.sub(r'^(om|angående|gällande|med|för)\s+', '', rest))
+    for w in PLACE:
+        s = re.sub(rf'(^|-){w}(-|$)', r'\1', s).strip('-')
+    s = re.sub(r'-+', '-', s)
+    return s[:48].rsplit('-', 1)[0] if len(s) > 48 else s
+
+
+def folder_of(folder_kind, y, n, title, obsolete):
+    """<type>/<year>/<year>-<no>-<short name>/, texts Ålex lists as obsolete under <type>/foraldrade/<year>/."""
+    top = TOP[folder_kind]
+    if top == 'grundlag':
+        return 'grundlag/arbetsordning'
+    return f'{top}/' + ('foraldrade/' if obsolete else '') + f'{y}/' + f'{y}-{n}-{short_name(title)}'.rstrip('-')
+
+
 def kind_of(title):
     for pat, folder, kind in FORMS:
         if re.match(pat, title):
@@ -394,7 +432,7 @@ def main():
             held.append({**rec, 'reason': 'parse: ' + repr(e)[:200]}); continue
         folder_kind, kind = kind_of(d['title'])
         y, n = aid.split(':')
-        folder = ('foraldrad/' if obsolete else '') + f'{folder_kind}-{y}-{n}'
+        folder = folder_of(folder_kind, y, n, d['title'], obsolete)
         plan.append({**rec, 'folder': folder, 'kind': kind, 'day': day, 'newest': newest['id'], 'files': files,
                      'msg': message(d, href, folder, kind, day, newest, lines, basis, len(pw), obsolete)})
     plan.sort(key=lambda p: (p['day'], ident(p['id'])))
@@ -412,16 +450,23 @@ def main():
         if B.git(repo, 'status', '--porcelain', '--untracked-files=no').strip():
             raise SystemExit('--verify needs a clean checkout of HEAD')
         last = {}  # folder -> (author, in-force) of the newest commit touching it
-        out = B.git(repo, 'log', '--format=@@%an%x09%(trailers:key=In-force,valueonly,separator=)%x09'
+        moved = {}  # folders before the 2026-11-26 layout commit -> where they are now (data/paths.json)
+        pj = repo / 'data' / 'paths.json'
+        if pj.exists():
+            moved = json.load(open(pj, encoding='utf-8'))
+        out = B.git(repo, 'log', '--no-renames', '--format=@@%an%x09%(trailers:key=In-force,valueonly,separator=)%x09'
                     '%(trailers:key=Corrects-folder,valueonly,separator=)', '--name-only', 'HEAD')
         for block in out.split('@@')[1:]:
             head, *names = block.strip('\n').split('\n')
             head, corrects = head.rsplit('\t', 1)
+            if head.startswith('Lexifina\t'):  # documentation and the layout commit (pure renames)
+                continue
             if corrects:  # a labelled correction of the day or author of an earlier commit (no text change)
                 names = [corrects + '/x']
             for nm in names:
                 if nm:
-                    last.setdefault(nm.rsplit('/', 1)[0], head.split('\t'))
+                    f = nm.rsplit('/', 1)[0]
+                    last.setdefault(moved.get(f, f), head.split('\t'))
         for p in plan:
             d = repo / p['folder']
             if not d.exists():

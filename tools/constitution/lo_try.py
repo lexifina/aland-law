@@ -58,7 +58,7 @@ def parse_pdf(data):
 
 P.parse_pdf = parse_pdf
 
-LO = {'dir': 'lagtingsordning', 'year': 2011, 'no': 97, 'short': 'Lagtingsordning',
+LO = {'dir': 'grundlag/lagtingsordning', 'year': 2011, 'no': 97, 'short': 'Lagtingsordning',
       'name': 'Lagtingsordning (2011:97) för Åland'}
 
 if __name__ == '__main__':

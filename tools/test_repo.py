@@ -60,33 +60,33 @@ class Smoke:
 
     # 1
     def blame(self):
-        out = self.git('blame', '--line-porcelain', 'main', '--', 'hemvardsstod/paragraf-013.md')
+        out = self.git('blame', '--line-porcelain', 'main', '--', 'landskapslagar/2015/2015-68-hemvardsstod/paragraf-013.md')
         authors = {l[7:] for l in out.splitlines() if l.startswith('author ')}
         assert authors, 'no blame output'
         assert all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {authors}'
         assert 'ÅFS 2023/29' in authors, f'ÅFS 2023/29 not among the authors {authors}'
         assert len(authors) >= 2, f'only {authors}'
-        return f'hemvardsstod/paragraf-013.md lines by {", ".join(sorted(authors))}'
+        return f'landskapslagar/2015/2015-68-hemvardsstod/paragraf-013.md lines by {", ".join(sorted(authors))}'
 
     # 2
     def on_date(self):
         done = []
         for act, prov, path, tag, before, after in [
-                ('hemvardsstod', '13', 'hemvardsstod/paragraf-013.md', 'hemvardsstod/2023-29', '2023-04-30', '2023-05-01'),
-                ('hemvardsstod', '1', 'hemvardsstod/paragraf-001.md', 'hemvardsstod/2020-54', '2020-12-31', '2021-01-01')]:
+                ('landskapslagar/2015/2015-68-hemvardsstod', '13', 'landskapslagar/2015/2015-68-hemvardsstod/paragraf-013.md', 'hemvardsstod/2023-29', '2023-04-30', '2023-05-01'),
+                ('landskapslagar/2015/2015-68-hemvardsstod', '1', 'landskapslagar/2015/2015-68-hemvardsstod/paragraf-001.md', 'hemvardsstod/2020-54', '2020-12-31', '2021-01-01')]:
             a, b = self.tool(before, act, prov), self.tool(after, act, prov)
             assert a and b and a != b, f'{path}: no change between {before} and {after}'
             assert b == self.git('show', f'{tag}:{path}'), f'{path} on {after} is not the file at {tag}'
             assert a == self.git('show', f'{tag}~1:{path}'), f'{path} on {before} is not the file before {tag}'
             done.append(f'{path} {before} != {after}')
-        whole = self.tool('2016-01-01', 'hemvardsstod')
+        whole = self.tool('2016-01-01', 'landskapslagar/2015/2015-68-hemvardsstod')
         assert '# 1 §' in whole and '# 22a §' not in whole, 'whole act on 2016-01-01 wrong'
         return '; '.join(done)
 
     # 3
     def follow(self):
         checked = []
-        for path in ('hemvardsstod/paragraf-001.md', 'hemvardsstod/paragraf-007.md', 'hemvardsstod/paragraf-013.md'):
+        for path in ('landskapslagar/2015/2015-68-hemvardsstod/paragraf-001.md', 'landskapslagar/2015/2015-68-hemvardsstod/paragraf-007.md', 'landskapslagar/2015/2015-68-hemvardsstod/paragraf-013.md'):
             out = self.git('log', '--follow', '--format=%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main', '--', path)
             rows = [l.split('\t') for l in out.splitlines() if l]
             assert len(rows) >= 2, f'{path}: {len(rows)} commits'

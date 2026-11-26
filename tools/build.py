@@ -40,7 +40,7 @@ PUBLISHER = 'Ålands landskapsregering (Ålex)'
 EMAIL = 'aland-law@lexifina.com'
 
 ACTS = [
-    {'dir': 'hemvardsstod', 'year': 2015, 'no': 68, 'short': 'Hemvårdsstöd',
+    {'dir': 'landskapslagar/2015/2015-68-hemvardsstod', 'old_dir': 'hemvardsstod', 'tag': 'hemvardsstod', 'year': 2015, 'no': 68, 'short': 'Hemvårdsstöd',
      'name': 'Landskapslag (2015:68) om hemvårdsstöd'},
 ]
 
@@ -309,7 +309,7 @@ def base_message(data):
 
 
 def tag_of(cfg, y, n):
-    return f'{cfg["dir"]}/{y}-{n}'
+    return f'{cfg.get("tag", cfg["dir"])}/{y}-{n}'
 
 
 def main():

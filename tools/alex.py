@@ -1,12 +1,17 @@
 """Prints an act, or one section of it, as it stood on a given day, from this repository's history.
 
-    python tools/alex.py 2021-06-01 hemvardsstod 1        # 1 § of the Home Care Allowance Act on 1 June 2021
-    python tools/alex.py 2019-01-01 hemvardsstod          # the whole act on 1 January 2019
+    python tools/alex.py 2021-06-01 landskapslagar/2015/2015-68-hemvardsstod 1   # 1 § of the Home Care Allowance Act
+    python tools/alex.py 2019-01-01 landskapslagar/2015/2015-68-hemvardsstod     # the whole act on 1 January 2019
+
+Folders were renamed on 2026-11-26 (data/paths.json maps each old path to its new one); a day before that reads the
+act from its old path.
 
 Each commit carries the day its change took effect in an `In-force:` trailer. The text in force on a day is the last
 commit on or before it. Versions before the current Ålex consolidation are replayed (see README). Standard library only.
 """
 import datetime as dt
+import json
+import os
 import re
 import subprocess
 import sys
@@ -16,8 +21,18 @@ def git(*args: str) -> str:
     return subprocess.run(['git', *args], capture_output=True, text=True, encoding='utf-8', check=True).stdout
 
 
+def old_path(act: str) -> str:
+    """The folder the act had before the 2026-11-26 layout commit (data/paths.json), or the act itself."""
+    root = git('rev-parse', '--show-toplevel').strip()
+    try:
+        m = json.load(open(os.path.join(root, 'data', 'paths.json'), encoding='utf-8'))
+    except OSError:
+        return act
+    return next((o for o, n in m.items() if n == act.rstrip('/')), act)
+
+
 def order(path: str) -> tuple:
-    name = path.split('/', 1)[1][:-3]
+    name = path.rsplit('/', 1)[1][:-3]
     if name == 'rubrik':
         return (0, 0, '')
     m = re.fullmatch(r'paragraf-(\d+)([a-z]*)', name)
@@ -35,7 +50,7 @@ def file_for(act: str, key: str) -> str:
 
 def commit_on(day: str, act: str) -> str:
     branch = 'main'
-    out = git('log', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', branch, '--', act)
+    out = git('log', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', branch, '--', act, old_path(act))
     for line in out.splitlines():
         h, _, d = line.partition('\t')
         if d.strip() and d.strip() <= day:
@@ -52,6 +67,8 @@ def main():
     commit = commit_on(day, act)
     if not commit:
         sys.exit(f'{act} is not in the record on {day}.')
+    if not git('ls-tree', '--name-only', commit, f'{act}/').strip():
+        act = old_path(act)
     if len(sys.argv) > 3:
         name = file_for(act, sys.argv[3])
         try:

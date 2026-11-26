@@ -48,7 +48,7 @@ act on landskapsandelar (temporary amendments).
 - check_repo.py: final version vs Ålex (updated to ÅFS 2026/31): 30 sections, 0 mismatches, word check equal (2232 words); first version vs original act: equal; 7 amending acts checked against their own text and in-force days; 0 problems
 - test_repo.py: 6/6 passed
 - current.py --verify (2026-11-26, main d8675c7): 625 acts read back from git, files and author/In-force equal to their Ålex pages; 0 problems
-- check_repo.py (hemvardsstod/, 2026-11-26): 30 sections, 0 mismatches, 2232 words; 0 problems
+- check_repo.py (landskapslagar/2015/2015-68-hemvardsstod/, formerly hemvardsstod/, 2026-11-26): 30 sections, 0 mismatches, 2232 words; 0 problems
 
 ## The current texts (tools/current.py)
 
@@ -172,3 +172,17 @@ Result: 657 acts by current.py, 0 problems on --verify; 33 catalogue entries not
 - 1950:25 (in force): no in-force day stated for ÅFS 1950:25 in Ålex; ÅFS PDF: scanned, no text layer
 - 1942:10 (obsolete): no in-force day stated for ÅFS 1942:10 in Ålex; ÅFS PDF: scanned, no text layer
 - 1936:1 (in force): no in-force day stated for ÅFS 1936:1 in Ålex; ÅFS PDF: scanned, no text layer
+
+## Layout (2026-11-26)
+
+One pure-rename commit (git mv, no content change) put every act at `<type>/<year>/<year>-<no>-<short name>/`:
+`grundlag/` (sjalvstyrelselag, lagtingsordning, arbetsordning), `landskapslagar/`, `landskapsforordningar/`,
+`presidentens-forordningar/` (Republikens presidents förordning, and the agreement decrees titled "Förordning" before
+1995), `landskapsregeringens-beslut/`, `rikslagar/` (Lag 2021:22). Texts Ålex lists as Föråldrad lagstiftning are under
+`<type>/foraldrade/<year>/`: Ålex's own term, kept because many are time-limited acts that expired rather than acts
+repealed, so "upphävda" would claim more than the page says. The short name is the act's own name where it has one
+(`1997-73-kommunallag`), otherwise its subject with the place words dropped, at most 48 characters
+(`current.py short_name`). The table of hemvårdsstöd's amending acts is now `data/hemvardsstod-amendments.csv`.
+`data/paths.json` maps every old path to its new one. Earlier commits keep their old paths: `git log --follow`, and
+tools/alex.py and check_repo.py (which read the old folder for days before the layout commit) bridge the rename. Tags
+keep their names (`hemvardsstod/2022-56`, `lagtingsordning/2011-97`).

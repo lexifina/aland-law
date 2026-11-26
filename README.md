@@ -11,9 +11,20 @@
 
 En del av [lexifina/global-law](https://github.com/lexifina/global-law), en enda git-historik för alla länders rätt: detta är Ålands lagstiftning, som global-law läser under `aland/national/acts/`.
 
-**Vad det innehåller nu:** 660 av de 690 texter som Ålex förtecknar: 496 gällande landskapslagar, landskapsförordningar och republikens presidents förordningar, och 164 föråldrade texter (under `foraldrad/`). Grundlagarna: Självstyrelselag (1991:71) för Åland (`sjalvstyrelselag/`, gällande text i Ålex enligt ÅFS 2020/33, i kraft från den 1 januari 2021; ändringarna förtecknade, inte återskapade) och Lagtingsordning (2011:97) för Åland (`lagtingsordning/`, från den 1 november 2011 med alla 5 ändringar återskapade till den 1 januari 2024; slutläget kontrollerat mot Ålex, med ett angivet ställe där den följer ÅFS). Landskapslag (2015:68) om hemvårdsstöd (`hemvardsstod/`) har också hela sin historik. Varje annan lag är sin gällande konsoliderade text i Ålex, en commit daterad den dag den senaste författning som texten visar trädde i kraft; tidigare lydelser är ännu inte återskapade.
+**Vad det innehåller nu:** 660 av de 690 texter som Ålex förtecknar: 496 gällande landskapslagar, landskapsförordningar och republikens presidents förordningar, och 164 föråldrade texter (under `<typ>/foraldrade/`). Grundlagarna: Självstyrelselag (1991:71) för Åland (`grundlag/sjalvstyrelselag/`, gällande text i Ålex enligt ÅFS 2020/33, i kraft från den 1 januari 2021; ändringarna förtecknade, inte återskapade) och Lagtingsordning (2011:97) för Åland (`grundlag/lagtingsordning/`, från den 1 november 2011 med alla 5 ändringar återskapade till den 1 januari 2024; slutläget kontrollerat mot Ålex, med ett angivet ställe där den följer ÅFS). Landskapslag (2015:68) om hemvårdsstöd (`landskapslagar/2015/2015-68-hemvardsstod/`) har också hela sin historik. Varje annan lag är sin gällande konsoliderade text i Ålex, en commit daterad den dag den senaste författning som texten visar trädde i kraft; tidigare lydelser är ännu inte återskapade.
 
-Varje lag ligger i en egen mapp efter sitt nummer (`landskapslag-1997-73/` är kommunallagen, `landskapsforordning-2026-43/`), med en fil per paragraf (`paragraf-013.md`, eller `kap-02-paragraf-001.md` där paragraferna numreras om i varje kapitel) och en per bilaga; `rubrik.md` innehåller rubriken.
+| Mapp | Innehåll |
+| --- | --- |
+| `grundlag/` | Självstyrelselagen (`sjalvstyrelselag/`), lagtingsordningen (`lagtingsordning/`) och lagtingets arbetsordning (`arbetsordning/`) |
+| `landskapslagar/<år>/<år>-<nr>-<kortnamn>/` | Landskapslagar, t.ex. `landskapslagar/1997/1997-73-kommunallag/` och `landskapslagar/2015/2015-68-hemvardsstod/` |
+| `landskapsforordningar/<år>/…` | Landskapsförordningar, t.ex. `landskapsforordningar/2026/2026-43-skjutprov-for-jakt-pa-klovvilt/` |
+| `presidentens-forordningar/<år>/…` | Republikens presidents förordningar (överenskommelseförordningar, före 1995 ”Förordning”) |
+| `landskapsregeringens-beslut/<år>/…` | Ålands landskapsregerings beslut |
+| `rikslagar/<år>/…` | Lag (2021:22) om avräkningsgrunden enligt självstyrelselagen |
+| `<typ>/foraldrade/<år>/…` | Texter som Ålex förtecknar som föråldrad lagstiftning (upphävda eller tidsbundna och utgångna) |
+| `data/` | Diagrammen, `paths.json` (varje mapp före och efter omläggningen den 26 november 2026) och `hemvardsstod-amendments.csv` |
+
+I varje lagmapp finns en fil per paragraf (`paragraf-013.md`; `kap-02-paragraf-001.md` där paragraferna numreras om i varje kapitel), en per bilaga (`bilaga-01.md`) och `rubrik.md` med rubriken.
 
 Texten är på svenska, Ålands officiella språk, så som författningssamlingen och Ålex återger den. En engelsk översättning ingår inte i detta repositorium.
 
@@ -21,10 +32,10 @@ Texten är på svenska, Ålands officiella språk, så som författningssamlinge
 
 | Fråga | Kommando |
 | --- | --- |
-| Varje ändring i 13 § landskapslagen om hemvårdsstöd | `git log -p --word-diff -- hemvardsstod/paragraf-013.md` |
-| Vilken lag skrev varje rad i 13 §? | `git blame hemvardsstod/paragraf-013.md` |
-| Varje version av lagen, med den dag då den trädde i kraft | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- hemvardsstod` |
-| 13 § i den lydelse som gällde den 1 juni 2022 | `python tools/alex.py 2022-06-01 hemvardsstod 13` |
+| Varje ändring i 13 § landskapslagen om hemvårdsstöd | `git log --follow -p --word-diff -- landskapslagar/2015/2015-68-hemvardsstod/paragraf-013.md` |
+| Vilken lag skrev varje rad i 13 §? | `git blame landskapslagar/2015/2015-68-hemvardsstod/paragraf-013.md` |
+| Varje version av lagen, med den dag då den trädde i kraft | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- landskapslagar/2015/2015-68-hemvardsstod hemvardsstod` |
+| 13 § i den lydelse som gällde den 1 juni 2022 | `python tools/alex.py 2022-06-01 landskapslagar/2015/2015-68-hemvardsstod 13` |
 
 **Utanför git** tillhandahåller vi också detta material offentligt och gratis:
 
@@ -40,7 +51,7 @@ Båda assistenterna läser materialet genom den kostnadsfria kopplingen Global l
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add aland/national/acts
-python3 tools/law.py show 2026-01-01 aland/national/acts/hemvardsstod/paragraf-013.md
+python3 tools/law.py show 2026-01-01 aland/national/acts/landskapslagar/2015/2015-68-hemvardsstod/paragraf-013.md
 ```
 
 Öppnad i Claude Code, Cursor, VS Code eller Codex startar klonen också en lokal MCP-server med samma verktyg ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).

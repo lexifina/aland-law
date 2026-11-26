@@ -252,7 +252,7 @@ def parse_alex_ss(page):
         P.re = re
 
 
-SS = {'dir': 'sjalvstyrelselag', 'year': 1991, 'no': 71, 'short': 'Självstyrelselag',
+SS = {'dir': 'grundlag/sjalvstyrelselag', 'year': 1991, 'no': 71, 'short': 'Självstyrelselag',
       'name': 'Självstyrelselag (1991:71) för Åland'}
 
 

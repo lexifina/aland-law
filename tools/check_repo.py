@@ -27,6 +27,13 @@ import parse as P  # noqa: E402
 
 
 def blobs(repo, commit, folder):
+    """The act's files at a commit, under its folder then or (before the 2026-11-26 layout commit) its old one."""
+    out = _blobs(repo, commit, folder)
+    old = next((c.get('old_dir') for c in B.ACTS if c['dir'] == folder), None)
+    return out if out or not old else _blobs(repo, commit, old)
+
+
+def _blobs(repo, commit, folder):
     names = subprocess.run(['git', 'ls-tree', '-r', '--name-only', commit, folder + '/'], cwd=repo, capture_output=True,
                            text=True, encoding='utf-8').stdout.split('\n')
     names = [n for n in names if n]
@@ -71,7 +78,7 @@ def main():
     data = B.load_act(cfg, offline=True)
     states, changed_all = B.replay_all(data)
     log = subprocess.run(['git', 'log', '--reverse', '--format=%H%x09%an%x09%(trailers:key=In-force,valueonly,separator=)',
-                          'main', '--', folder + '/'], cwd=repo, capture_output=True, text=True, encoding='utf-8').stdout.splitlines()
+                          'main', '--', folder + '/', cfg.get('old_dir', folder) + '/'], cwd=repo, capture_output=True, text=True, encoding='utf-8').stdout.splitlines()
     law = [l.split('\t') for l in log if l.split('\t')[1] != 'Lexifina']
     ams = data['ams'][:len(law) - 1]
     problems = []
