@@ -47,6 +47,8 @@ act on landskapsandelar (temporary amendments).
 
 - check_repo.py: final version vs Ålex (updated to ÅFS 2026/31): 30 sections, 0 mismatches, word check equal (2232 words); first version vs original act: equal; 7 amending acts checked against their own text and in-force days; 0 problems
 - test_repo.py: 6/6 passed
+- current.py --verify (2026-11-26, main d8675c7): 625 acts read back from git, files and author/In-force equal to their Ålex pages; 0 problems
+- check_repo.py (hemvardsstod/, 2026-11-26): 30 sections, 0 mismatches, 2232 words; 0 problems
 
 ## The current texts (tools/current.py)
 

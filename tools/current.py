@@ -348,18 +348,25 @@ def main():
     repo = Path(a.repo)
     if a.verify:
         bad = []
+        if B.git(repo, 'status', '--porcelain', '--untracked-files=no').strip():
+            raise SystemExit('--verify needs a clean checkout of HEAD')
+        last = {}  # folder -> (author, in-force) of the newest commit touching it
+        out = B.git(repo, 'log', '--format=@@%an%x09%(trailers:key=In-force,valueonly,separator=)', '--name-only', 'HEAD')
+        for block in out.split('@@')[1:]:
+            head, *names = block.strip('\n').split('\n')
+            for nm in names:
+                if nm:
+                    last.setdefault(nm.rsplit('/', 1)[0], head.split('\t'))
         for p in plan:
-            names = [x for x in B.git(repo, 'ls-tree', '-r', '--name-only', 'HEAD', p['folder'] + '/').split('\n') if x]
-            if not names:
+            d = repo / p['folder']
+            if not d.exists():
                 continue
-            have = {n[len(p['folder']) + 1:]: B.git(repo, 'show', f'HEAD:{n}') for n in names}
+            have = {f.name: f.read_text(encoding='utf-8') for f in d.iterdir()}
             if have != p['files']:
                 bad.append(p['folder'])
-            log = B.git(repo, 'log', '-1', '--format=%an%x09%(trailers:key=In-force,valueonly,separator=)', 'HEAD', '--',
-                        p['folder']).strip().split('\t')
             y, n = ident(p['newest'])
-            if log != [f'ÅFS {y}/{n}', p['day']]:
-                bad.append(p['folder'] + ' author/in-force ' + repr(log))
+            if last.get(p['folder']) != [f'ÅFS {y}/{n}', p['day']]:
+                bad.append(p['folder'] + ' author/in-force ' + repr(last.get(p['folder'])))
         print('verified', len(plan), 'acts against their Ålex pages;', len(bad), 'problems', bad[:10])
         raise SystemExit(1 if bad else 0)
     for i, p in enumerate(plan):
