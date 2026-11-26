@@ -53,7 +53,23 @@ def kind_of(title):
     raise ValueError(title)
 
 
-def lines_of(fragment):
+BLOCK = re.compile(r'<(?:/?(?:p|div|tr|li|ul|ol|table|thead|tbody|tfoot|caption|h\d|dl|dt|dd|blockquote)\b[^>]*|br\s*/?)>')
+
+
+def plain_lines(fragment):
+    """Every block of text in document order, table cells joined with ' | ' (the fallback reader)."""
+    fragment = re.sub(r'</t[hd]>\s*<t[hd][^>]*>', ' | ', fragment)
+    out = []
+    for piece in BLOCK.split(fragment):
+        t = P._text(piece).strip(' |').strip()
+        if t:
+            out.append(t)
+    return out
+
+
+def lines_of(fragment, plain=False):
+    if plain:
+        return plain_lines(fragment)
     out = []
     for item in re.finditer(r'<p>(.*?)</p>|<p [^>]*>(.*?)</p>|<tr>(.*?)</tr>|<h[4-6][^>]*>(.*?)</h[4-6]>|<li>(.*?)</li>|<caption[^>]*>(.*?)</caption>',
                             fragment, re.S):
@@ -70,8 +86,17 @@ def lines_of(fragment):
 LABEL_A = re.compile(r'\s*<a href="#an_\d+">\s*\(\d{4}/\d+\)\s*</a>')
 
 
-def parse_page(page):
+IMG = re.compile(r'<img\b[^>]*?\bsrc=(?:"([^"]+)"|([^\s>"]+))[^>]*>')
+
+
+def _img(m):
+    u = m.group(1) or m.group(2)
+    return ' [Bild: ' + (u if u.startswith('http') else SITE + u) + '] '
+
+
+def parse_page(page, plain=False):
     page = LABEL_A.sub('', page)
+    page = IMG.sub(_img, page)
     title = P._text(re.search(r'<h1[^>]*>(.*?)</h1>', page, re.S).group(1))
     i = page.index('class="content-body"')
     j = page.index('class="andringinfosektion"')
@@ -93,8 +118,9 @@ def parse_page(page):
         nxt = [p for p, _, _ in marks if pm.start() < p < end]
         end = min(nxt) if nxt else end
         chunk = body[pm.start():end]
-        h3 = P._text(re.search(r'<h3[^>]*>(.*?)</h3>', chunk, re.S).group(1))
-        hm = re.match(r'(\d+\s?[a-z]{0,2}(?:\s?[-–]\s?\d+\s?[a-z]{0,2})?) ?§§?\.?\s*(.*)', h3)
+        h3m = re.search(r'<h3[^>]*>(.*?)</h3>', chunk, re.S)
+        h3 = P._text(h3m.group(1)) if h3m else ''
+        hm = re.match(r'(\d+\s?[a-z]{0,2}(?:\s?[-–]\s?\d+\s?[a-z]{0,2})?) ?§§?\.?\s*(.*)', h3) if h3m else re.match(r'()()', '')
         if not hm:
             raise ValueError('section heading ' + h3)
         part = chapter = sub = ''
@@ -108,18 +134,21 @@ def parse_page(page):
                     chapter, sub = txt, ''
                 else:
                     sub = txt
-        moments = [lines_of(mm) for mm in re.split(r'<div class="moment">', chunk)[1:]]
+        moments = [lines_of(mm, plain) for mm in re.split(r'<div class="moment">', chunk)[1:]]
         moments = [m for m in moments if m]
-        nums = [re.sub(r'\s', '', x) for x in re.split(r'\s?[-–]\s?', hm.group(1))]
+        nums = [re.sub(r'\s', '', x) for x in re.split(r'\s?[-–]\s?', hm.group(1))] if h3m else []
         secs.append({'num': '-'.join(nums), 'h3num': hm.group(1), 'heading': hm.group(2).strip(), 'part': part,
-                     'chapter': chapter, 'sub': sub, 'pre': pre, 'moments': moments})
+                     'chapter': chapter, 'sub': sub, 'pre': pre, 'moments': moments, 'nohead': not h3m,
+                     'part_no': sum(1 for p, kind, _ in marks if kind == 'part' and p < pm.start())})
     annexes = []
     tail = page[j:page.index('</main')]
     k = tail.find('<div class="bilagesektion"')
     if k >= 0:
         for bm in re.finditer(r'<div class="bilaga">(.*?)(?=<div class="bilaga">|$)', tail[k:], re.S):
             h3 = re.search(r'<h3[^>]*>(.*?)</h3>', bm.group(1), re.S)
-            annexes.append({'heading': P._text(h3.group(1)) if h3 else 'Bilaga', 'lines': lines_of(bm.group(1))})
+            rest = bm.group(1)[h3.end():] if h3 else bm.group(1)
+            annexes.append({'heading': P._text(h3.group(1)) if h3 else 'Bilaga',
+                            'lines': plain_lines(rest) if plain else lines_of(bm.group(1))})
     ams = []
     for m in re.finditer(r'<div class="andringinfo">\s*<h3 id="an_\d+">([^<]*)</h3>(.*?)(?=<div class="andringinfo">|$)',
                          page[j:k + j if k >= 0 else page.index('</main')], re.S):
@@ -128,7 +157,7 @@ def parse_page(page):
         fw = re.search(r'<div class="forarbeteshanvisningar">(.*?)</div>', m.group(2), re.S)
         works = [P._text(x) for x in re.findall(r'<li>(.*?)</li>', fw.group(1), re.S)] if fw else []
         ams.append({'id': m.group(1).strip(), 'commencement': [x for x in paras if x], 'works': works})
-    has_img = '<img' in body or '<img' in tail[k:] if k >= 0 else '<img' in body
+    has_img = '[Bild: ' in body or ('[Bild: ' in tail[k:] if k >= 0 else False)
     return {'title': title, 'sections': secs, 'annexes': annexes, 'ams': ams, 'img': has_img,
             'body_words': body_words(body) + (annex_words(tail[k:]) if k >= 0 else [])}
 
@@ -149,11 +178,13 @@ def annex_words(tail):
 
 
 def ident(a):
-    m = re.fullmatch(r'(\d{4})[:/](\d+)', a)
+    m = re.fullmatch(r'\(?(\d{4})[:/](\d+)\)?', a.strip())
     return (int(m.group(1)), int(m.group(2))) if m else None
 
 
-def fname(sec, numbered_per_chapter):
+def fname(sec, numbered_per_chapter, per_part=False):
+    if sec['nohead']:
+        return 'text.md'
     parts = []
     for x in sec['num'].split('-'):
         m = re.fullmatch(r'(\d+)([a-z]*)', x)
@@ -165,13 +196,14 @@ def fname(sec, numbered_per_chapter):
         c = re.match(r'(\d+)\s*([a-z]?)\s*kap', sec['chapter'])
         if not c:
             raise ValueError('chapter number in ' + sec['chapter'])
-        return f'kap-{int(c.group(1)):02d}{c.group(2)}-' + base
+        pre = f'del-{sec["part_no"]:02d}-' if per_part else ''
+        return pre + f'kap-{int(c.group(1)):02d}{c.group(2)}-' + base
     return base
 
 
 def render(sec):
     sign = '§§' if '-' in sec['num'] else '§'
-    out = [f'# {sec["num"]} {sign} {sec["heading"]}'.rstrip()]
+    out = [f'# {sec["num"]} {sign} {sec["heading"]}'.rstrip()] if not sec['nohead'] else []
     if sec['part']:
         out.append(f'Avdelning: {sec["part"]}')
     if sec['chapter']:
@@ -181,18 +213,19 @@ def render(sec):
     for mom in sec['moments']:
         out.append('')
         out += [P.clean(x) for x in mom]
-    return '\n'.join(out) + '\n'
+    return '\n'.join(out).lstrip('\n') + '\n'
 
 
 def files_of(d):
     secs = d['sections']
     keys = [s['num'] for s in secs]
     per_ch = len(set(keys)) != len(keys)
+    per_part = per_ch and len({(s['chapter'], s['num']) for s in secs}) != len(secs)
     files = {'rubrik.md': d['title'] + '\n'}
     for s in secs:
         if len(s['moments']) == 1 and len(s['moments'][0]) == 1 and re.fullmatch(r'Upphävda?\.?', s['moments'][0][0]):
             continue
-        f = fname(s, per_ch)
+        f = fname(s, per_ch, per_part)
         if f in files:
             raise ValueError('duplicate file ' + f)
         files[f] = render(s)
@@ -206,7 +239,8 @@ def parsed_words(d):
     for s in d['sections']:
         for t in s['pre']:
             w += t.split()
-        w += (s['h3num'] + (' §§' if '-' in s['num'] else ' §')).split() + s['heading'].split()
+        if not s['nohead']:
+            w += (s['h3num'] + (' §§' if '-' in s['num'] else ' §')).split() + s['heading'].split()
         for m in s['moments']:
             for line in m:
                 w += line.replace(' | ', ' ').split()
@@ -225,27 +259,41 @@ def norm_num(words):
             out.append(words[i] + words[i + 1]); i += 2
             continue
         if words[i] != '|':
-            out.append(words[i])
+            out.append(re.sub(r'^(\d+[a-z]{0,2})§', r'\1', words[i]).replace('§§', '§'))
+            if re.match(r'^\d+[a-z]{0,2}§', words[i]):
+                out.append('§')
         i += 1
     return out
 
 
-def dating(d, today):
+AFS = {}  # act id -> the in-force day read from the newest act's ÅFS PDF (--afs-days)
+
+
+def dating(d, today, afs=None, aid=None):
     """(in_force_day, newest_id, commencement_lines, basis) or raises Hold."""
     ams = [a for a in d['ams'] if ident(a['id'])]
     if not ams:
         raise Hold('Ålex lists no act number')
     newest = max(ams, key=lambda a: ident(a['id']))
+    relabel = ''
+    if aid and len(ams) == 1 and ident(newest['id']) != ident(aid):  # Ålex's one entry is the act itself, misnumbered
+        relabel = f'; Ålex labels the act\'s own entry "{newest["id"]}", read as {aid}'
+        newest = {**newest, 'id': aid}
     lines = [x for x in newest['commencement'] if 'träder i kraft' in x]
     days = sorted({P.iso(x) for x in lines} - {None})
     basis = f'the commencement provision Ålex prints for ÅFS {newest["id"].replace(":", "/")}'
-    if not days and ':' in newest['id']:
+    if not days and (ident(newest['id']) == ident(aid) if aid else ':' in newest['id']):
         text = [line for s in d['sections'] for m in s['moments'] for line in m]
         lines = [x for x in text if re.search(r'träder i kraft', x)]
         days = sorted({P.iso(x) for x in lines} - {None})
-        basis = 'the act\'s own commencement provision in the Ålex text (the act has no amending acts in Ålex)'
+        basis = 'the act\'s own commencement provision in the Ålex text (the act has no amending acts in Ålex)' + relabel
+    if not days and afs and afs.get('days') and afs['newest'] == '{}/{}'.format(*ident(newest['id'])):
+        days = afs['days'][-1:]
+        lines = afs['sents']
+        basis = afs['basis'] + f' ({afs["src"]})'
     if not days:
-        raise Hold(f'no in-force day stated for ÅFS {newest["id"]} in Ålex' + (f': {lines[0][:120]}' if lines else ''))
+        raise Hold(f'no in-force day stated for ÅFS {newest["id"]} in Ålex' + (f': {lines[0][:120]}' if lines else '') +
+                   (f'; ÅFS PDF: {afs.get("error") or ("scanned, no text layer" if not afs.get("chars") else "no commencement day in its text")}' if afs else ''))
     if days[-1] > today:
         raise Hold(f'future commencement {days[-1]} (ÅFS {newest["id"]})')
     if len(days) > 1:
@@ -265,6 +313,12 @@ def message(d, href, folder, kind, day, newest, lines, basis, nwords, obsolete):
            'Gällande lydelse enligt Ålex (konsoliderad text), som den ser ut efter den senaste författning den visar.',
            'The consolidated text as Ålex shows it, after the newest act it lists; earlier versions are not replayed here.',
            '']
+    if d.get('img'):
+        out += ['The page holds statutory images; each is a line [Bild: <its address on regeringen.ax>] where it '
+                'stands, and the text around it is complete.', '']
+    if d.get('plain'):
+        out += ['Read as plain text blocks in page order (tables and lists the structured reader does not follow); '
+                'table cells are joined with " | ".', '']
     if obsolete:
         out += ['Ålex lists this text under Föråldrad lagstiftning (obsolete): this is its last text; the day it ceased '
                 'to apply is not stated on the page.', '']
@@ -279,6 +333,8 @@ def message(d, href, folder, kind, day, newest, lines, basis, nwords, obsolete):
         out.append('Amended-by: ' + ', '.join(f'ÅFS {a}' for a in amended))
     for a in d['ams']:
         out += [f'Preparatory-works: {w}' for w in a['works']] if a is newest else []
+    if 'ÅFS PDF' in basis:
+        out.append('Source: ' + basis.rsplit(' (', 1)[1].rstrip(')').split(' -> ')[-1])
     out += [f'Consolidated: {SITE}{href}']
     return '\n'.join(out) + '\n'
 
@@ -293,7 +349,10 @@ def main():
     ap.add_argument('--verify', action='store_true', help='check the files and trailers at HEAD against the pages')
     ap.add_argument('--only-current', action='store_true', help='leave out texts Ålex lists as obsolete')
     ap.add_argument('--out', default=str(HERE / 'current-plan.json'))
+    ap.add_argument('--afs-days', default=None, help='in-force days read from ÅFS PDFs (afs_days.json)')
     a = ap.parse_args()
+    if a.afs_days:
+        AFS.update(json.load(open(a.afs_days, encoding='utf-8')))
     sys.stdout.reconfigure(encoding='utf-8')
     cat = json.load(open(a.catalog, encoding='utf-8'))
     pages = Path(a.pages)
@@ -315,17 +374,19 @@ def main():
         try:
             page = f.read_text(encoding='utf-8')
             d = parse_page(page)
-            if d['img']:
-                raise Hold('the text holds a statutory image the files cannot carry')
             if not d['sections'] and not d['annexes']:
                 raise Hold('no sections found on the page')
             pw, bw = norm_num(parsed_words(d)), norm_num(d['body_words'])
+            if pw != bw:  # the fallback reader: every block of the page as plain text
+                d = parse_page(page, plain=True)
+                d['plain'] = True
+                pw, bw = norm_num(parsed_words(d)), norm_num(d['body_words'])
             if pw != bw:
                 import difflib
                 sm = difflib.SequenceMatcher(None, pw, bw, autojunk=False)
                 diff = [(op, ' '.join(pw[i1:i2])[:60], ' '.join(bw[j1:j2])[:60]) for op, i1, i2, j1, j2 in sm.get_opcodes() if op != 'equal']
                 raise Hold(f'word check failed: {diff[:3]}')
-            day, newest, lines, basis = dating(d, a.today)
+            day, newest, lines, basis = dating(d, a.today, AFS.get(aid), aid)
             files = files_of(d)
         except Hold as e:
             held.append({**rec, 'reason': str(e)}); continue
@@ -351,9 +412,13 @@ def main():
         if B.git(repo, 'status', '--porcelain', '--untracked-files=no').strip():
             raise SystemExit('--verify needs a clean checkout of HEAD')
         last = {}  # folder -> (author, in-force) of the newest commit touching it
-        out = B.git(repo, 'log', '--format=@@%an%x09%(trailers:key=In-force,valueonly,separator=)', '--name-only', 'HEAD')
+        out = B.git(repo, 'log', '--format=@@%an%x09%(trailers:key=In-force,valueonly,separator=)%x09'
+                    '%(trailers:key=Corrects-folder,valueonly,separator=)', '--name-only', 'HEAD')
         for block in out.split('@@')[1:]:
             head, *names = block.strip('\n').split('\n')
+            head, corrects = head.rsplit('\t', 1)
+            if corrects:  # a labelled correction of the day or author of an earlier commit (no text change)
+                names = [corrects + '/x']
             for nm in names:
                 if nm:
                     last.setdefault(nm.rsplit('/', 1)[0], head.split('\t'))

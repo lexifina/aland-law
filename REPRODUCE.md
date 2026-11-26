@@ -127,3 +127,48 @@ Result: 625 acts committed (467 in force, 158 obsolete); 65 catalogue entries he
 - 1947:6 (in force): no in-force day stated for ÅFS 2021:80 in Ålex
 - 1942:10 (obsolete): no in-force day stated for ÅFS 1942:10 in Ålex
 - 1936:1 (in force): no in-force day stated for ÅFS 1936:1 in Ålex
+
+## Second pass (2026-11-26)
+
+- In-force days from the ÅFS PDFs: where Ålex prints no commencement for the newest act, the day is read from the text layer of that act's PDF (afs<year>_Nr<no>.pdf, or before 2015 the PDF the site's ÅFS node links to, found by the law search filtered to ÅFS). "Träder omedelbart i kraft" (immediately) gives the day it was issued from the printer ("utgiven från tryckeriet den ..."). The PDF is named in a `Source:` trailer. Scanned PDFs with no text layer are not read (no OCR); those acts stay held.
+- A fallback reader for pages the structured reader misses: every block as plain text in page order, table cells joined with " | "; the word check is the same. Acts without a section heading are `text.md`; where chapters restart in each part, `del-NN-kap-NN-paragraf-NNN.md`.
+- Statutory images are lines `[Bild: <address on regeringen.ax>]` where they stand; the act is committed only when the text around them equals the page word for word.
+- Ålex entries numbered "(1995:7)" are read as 1995:7; an act whose one entry carries another number (2017:138 to 140 are labelled 2018:138 to 140) is read as the act itself.
+- Labelled corrections (Kind: correction, Corrects: <commit>): 4 acts first dated by their own commencement although Ålex shows a later amending act (1988:50, 1993:10, 1996:49, 2008:110), 3 credited to the misnumbered entry (2017:138 to 140), and 11 committed without their images. The text of the first 7 is unchanged; the commit carries the right day and act. `current.py --verify` reads the newest commit or correction for each folder.
+- hemvardsstod/: build.py drops "(dddd/d+)" as an amendment label, which would also drop a statute citation such as "(1108/2000)". Neither the Ålex page nor the 8 ÅFS PDFs of 2015:68 hold such a citation (checked 2026-11-26), so no text was lost and nothing needs correcting; current.py removes labels by their link markup instead.
+
+Result: 657 acts by current.py, 0 problems on --verify; 33 catalogue entries not committed by it:
+
+- 2026:22 (in force): future commencement 2027-01-01 (ÅFS 2026:22)
+- 2021:166 (in force): future commencement 2049-07-17 (ÅFS 2021:166)
+- 2018:81 (in force): the same act is also listed at /alandsk-lagstiftning/foraldrad-lagstiftning/201881
+- 2017:76 (obsolete): the same act is also listed at /alandsk-lagstiftning/alex/201776
+- 2015:68 (in force): already held, replayed by build.py (hemvardsstod/)
+- 2011:97 (in force): Lagtingsordning: added by the constitution lane under its own folder
+- 2006:11 (in force): no in-force day stated for ÅFS 2006:11 in Ålex; ÅFS PDF: no PDF found
+- 2003:58 (obsolete): no in-force day stated for ÅFS 2007/119 in Ålex; ÅFS PDF: no commencement day in its text
+- 2001:38 (in force): word check failed: [('insert', '', '1. Statsrådets beslut om riktvärden för luftkvalitet och mål'), ('insert', '', '4. Statsrådets beslut om begränsning av utsl
+- 1998:113 (obsolete): word check failed: [('insert', '', 'utter, Lutra lutra vikare, Phoca hispida botnica'), ('insert', '', 'backsvala, Riparia riparia bergand, Aythya marila berguv
+- 1998:86 (in force): word check failed: [('insert', '', '- Stränder. - Bäckar och källor. - Alkärr samt ormbunks- och'), ('insert', '', '- Barrskogsbevuxna öar omfattande mindre än 
+- 1991:71 (in force): Självstyrelselag: added by the constitution lane under its own folder
+- 1989:31 (in force): no in-force day stated for ÅFS 2002/24 in Ålex; ÅFS PDF: no PDF found
+- 1987:44 (in force): no in-force day stated for ÅFS 2002/48 in Ålex; ÅFS PDF: no PDF found
+- 1984:45 (in force): no in-force day stated for ÅFS 1984:45 in Ålex; ÅFS PDF: scanned, no text layer
+- 1980:44 (in force): no in-force day stated for ÅFS 1981/10 in Ålex; ÅFS PDF: scanned, no text layer
+- 1979:72 (in force): no in-force day stated for ÅFS 1983/16 in Ålex; ÅFS PDF: scanned, no text layer
+- 1977:77 (in force): no in-force day stated for ÅFS 1979/54 in Ålex; ÅFS PDF: scanned, no text layer
+- 1977:10 (in force): no in-force day stated for ÅFS 1987/18 in Ålex; ÅFS PDF: scanned, no text layer
+- 1976:67 (in force): no in-force day stated for ÅFS 1976:67 in Ålex; ÅFS PDF: scanned, no text layer
+- 1976:43 (in force): no in-force day stated for ÅFS 1976:43 in Ålex; ÅFS PDF: scanned, no text layer
+- 1975:64 (in force): no in-force day stated for ÅFS 1975:64 in Ålex; ÅFS PDF: scanned, no text layer
+- 1973:47 (in force): no in-force day stated for ÅFS 1973:47 in Ålex; ÅFS PDF: scanned, no text layer
+- 1972:50 (in force): no in-force day stated for ÅFS 1972:50 in Ålex; ÅFS PDF: scanned, no text layer
+- 1971:51 (in force): no in-force day stated for ÅFS 1997/6 in Ålex; ÅFS PDF: no PDF found
+- 1969:18 (in force): no in-force day stated for ÅFS 1975/39 in Ålex; ÅFS PDF: scanned, no text layer
+- 1966:13 (in force): no in-force day stated for ÅFS 1966:13 in Ålex; ÅFS PDF: scanned, no text layer
+- 1953:16 (in force): no in-force day stated for ÅFS 1955/17 in Ålex; ÅFS PDF: scanned, no text layer
+- 1952:11 (in force): no in-force day stated for ÅFS 1952:11 in Ålex; ÅFS PDF: scanned, no text layer
+- 1951:19 (in force): no in-force day stated for ÅFS 1951:19 in Ålex; ÅFS PDF: scanned, no text layer
+- 1950:25 (in force): no in-force day stated for ÅFS 1950:25 in Ålex; ÅFS PDF: scanned, no text layer
+- 1942:10 (obsolete): no in-force day stated for ÅFS 1942:10 in Ålex; ÅFS PDF: scanned, no text layer
+- 1936:1 (in force): no in-force day stated for ÅFS 1936:1 in Ålex; ÅFS PDF: scanned, no text layer
