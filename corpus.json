@@ -690,7 +690,7 @@
   "replayed": true,
   "tool": "tools/alex.py",
   "citation": {
-    "file": "((?:[a-z-]+/)+[0-9]{4}-[0-9]+-[0-9a-z-]+|grundlag/[a-z]+)/(?:(?:del-[0-9]+-)?kap-[0-9a-z]+-)?paragraf-0*([0-9]+[a-z]*)(?:-[0-9a-z]+)?\\.md",
+    "file": "((?:[a-z-]+/)+[0-9]{4}/[0-9]{4}-[0-9]+[0-9a-z-]*|grundlag/[a-z]+)/(?:(?:del-[0-9]+-)?kap-[0-9a-z]+-)?paragraf-0*([0-9]+[a-z]*)(?:-[0-9a-z]+)?\\.md",
     "cites": "([^0-9]|^){n} ?§"
   },
   "checked_on": "2026-11-26",
