@@ -11,9 +11,9 @@
 
 En del av [lexifina/global-law](https://github.com/lexifina/global-law), en enda git-historik för alla länders rätt: detta är Ålands lagstiftning, som global-law läser under `aland/national/acts/`.
 
-**Vad det innehåller nu:** en lag, Landskapslag (2015:68) om hemvårdsstöd, med sina 30 paragrafer i 8 versioner: den ursprungliga texten, i kraft från den 1 januari 2016, och texten efter var och en av dess 7 ändringslagar, den senaste ÅFS 2026/31, i kraft från den 1 maj 2026. Ålex publicerar bara den gällande texten, så varje senare version återskapas ur sin ändringslag så som författningssamlingen återger den, och den sista kontrolleras mot Ålex. [`amendments.csv`](amendments.csv) förtecknar ändringslagarna, med datum, de paragrafer som var och en ändrade och deras ikraftträdandebestämmelser; varje version har en tagg (`hemvardsstod/2022-56`).
+**Vad det innehåller nu:** 628 av de 690 texter som Ålex förtecknar: 470 gällande landskapslagar, landskapsförordningar och republikens presidents förordningar, och 158 föråldrade texter (under `foraldrad/`). Grundlagarna: Självstyrelselag (1991:71) för Åland (`sjalvstyrelselag/`, gällande text i Ålex enligt ÅFS 2020/33, i kraft från den 1 januari 2021; ändringarna förtecknade, inte återskapade) och Lagtingsordning (2011:97) för Åland (`lagtingsordning/`, från den 1 november 2011 med alla 5 ändringar återskapade till den 1 januari 2024; slutläget kontrollerat mot Ålex, med ett angivet ställe där den följer ÅFS). Landskapslag (2015:68) om hemvårdsstöd (`hemvardsstod/`) har också hela sin historik. Varje annan lag är sin gällande konsoliderade text i Ålex, en commit daterad den dag den senaste författning som texten visar trädde i kraft; tidigare lydelser är ännu inte återskapade.
 
-Lagen finns i `hemvardsstod/`, med en fil per paragraf (`paragraf-013.md` är 13 §, hemvårdsstöd för syskon); `rubrik.md` innehåller dess rubrik och ingress.
+Varje lag ligger i en egen mapp efter sitt nummer (`landskapslag-1997-73/` är kommunallagen, `landskapsforordning-2026-43/`), med en fil per paragraf (`paragraf-013.md`, eller `kap-02-paragraf-001.md` där paragraferna numreras om i varje kapitel) och en per bilaga; `rubrik.md` innehåller rubriken.
 
 Texten är på svenska, Ålands officiella språk, så som författningssamlingen och Ålex återger den. En engelsk översättning ingår inte i detta repositorium.
 
@@ -52,21 +52,24 @@ Varje commit dateras kl. 12.00 Mariehamnstid (Europe/Mariehamn) den dag versione
 - för varje version, den dag som lagens egen ikraftträdandebestämmelse i författningssamlingen anger (”Denna lag träder i kraft den 1 maj 2026.”), och den måste vara densamma som den dag Ålex anger; ingen lag här träder i kraft paragraf för paragraf;
 - den dag lagen utfärdades står i en trailer `Enacted:`, och övergångsbestämmelser och retroaktiva bestämmelser i en ikraftträdandebestämmelse kopieras ordagrant till trailrar `Applies:` (ÅFS 2023/29 tillåter att hemvårdsstöd för syskon beviljas från den 1 augusti 2022).
 
+En lag som bara finns som gällande text dateras den dag den senaste författning som Ålex visar för den trädde i kraft (trailern `In-force-basis:` anger varifrån dagen kommer) och tillskrivs den författningen.
+
 Varje ändring tillskrivs den lag som gjorde den (`ÅFS 2022/56`, adress `afs-2022-56@regeringen.ax.invalid`), och den första versionen den ursprungliga lagen, `ÅFS 2015/68`; ingen version tillskrivs utgivaren.
 
 ## Hur det kontrolleras
 
 - `tools/build.py` gör inga commits om inte det återskapade slutläget är lika med Ålex:s konsolidering (uppdaterad t.o.m. ÅFS 2026/31) i alla 30 paragrafer, efter den normalisering som [`REPRODUCE.md`](REPRODUCE.md) anger; en ändringsklausul som den inte kan läsa stoppar bygget.
 - `tools/check_repo.py` läser tillbaka varje version ur git: den sista måste vara lika med Ålex, fil för fil och ord för ord (2 232 ord), den första med den ursprungliga lagen, och varje ändringslags paragrafer med dess egen text och ikraftträdandedag.
+- `tools/current.py --verify` läser varje övrig lag ur git och jämför den med sin sida i Ålex, fil för fil och ord för ord, och författaren och `In-force:` med den senaste författning sidan visar.
 - `tools/test_repo.py` kontrollerar blame, datumverktyget före och efter en ändring, `git log --follow` och taggarna; `tools/build.py --verify-rebuild` bygger materialet på nytt och måste ge samma hash för `main`. Resultaten finns i [`REPRODUCE.md`](REPRODUCE.md).
 - [vulnerabilities/](vulnerabilities/): möjliga redaktionella fel i denna rätt, hittade av global-laws detektorer och kontrollerade för hand. Inte körd ännu.
 
 ## Vad det inte visar
 
 - **Officiella tidigare lydelser.** De 6 versionerna mellan den ursprungliga lagen och den gällande texten är återskapade ur ändringslagarna och inte kontrollerade mot en officiell text.
-- **Alla andra åländska lagar**, bland dem självstyrelselagen (Självstyrelselag (1991:71) för Åland). Landskapslag (2017:120) om landskapsandelar till kommunerna utelämnades: tre av dess ändringslagar är tidsbegränsade, och Ålex anger inget ikraftträdande för en fjärde (2018/102).
-- **Landskapsförordningar, rättspraxis, lagförslag och EU-rätt.**
-- **Ändringar efter den 28 oktober 2026**, den dag källorna lästes.
+- **60 av Ålex:s texter**: där Ålex inte anger någon ikraftträdandedag för den senaste författningen, där texten innehåller bilder, där ikraftträdandet ligger i framtiden, och några som parsern inte kunde läsa ord för ord. Tidigare lydelser för andra lagar än de tre ovan.
+- **Rättspraxis, lagförslag och EU-rätt.**
+- **Ändringar efter den 26 november 2026**, den dag Ålex senast lästes.
 
 ## Källor
 

@@ -11,9 +11,9 @@ The law of Åland as a git history: one file per section (paragraf), one commit 
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Åland's law, which global-law reads at `aland/national/acts/`.
 
-**What is in it now:** one act, Landskapslag (2015:68) om hemvårdsstöd (the Home Care Allowance Act), with its 30 sections in 8 versions: the original text, in force from 1 January 2016, and the text after each of its 7 amending acts, the last ÅFS 2026/31, in force from 1 May 2026. Ålex publishes only the current text, so each later version is replayed from its amending act as the Statute Book prints it, and the last is checked against Ålex. [`amendments.csv`](amendments.csv) lists the amending acts, with their dates, the sections each changed and their commencement provisions; each version is tagged (`hemvardsstod/2022-56`).
+**What is in it now:** 628 of the 690 texts Ålex lists: 470 acts, decrees and presidential decrees in force, and 158 obsolete texts (under `foraldrad/`). Constitution: Självstyrelselag (1991:71) för Åland (`sjalvstyrelselag/`, Swedish, current Ålex text as of ÅFS 2020/33, in force 2021-01-01; amendments listed, not replayed) and Lagtingsordning (2011:97) för Åland (`lagtingsordning/`, from 2011-11-01 with all 5 amendments replayed to 2024-01-01; end state checked against Ålex, with one declared place where it follows ÅFS). Landskapslag (2015:68) om hemvårdsstöd (`hemvardsstod/`) also carries its full history. Every other act is its current consolidated text in Ålex, one commit dated the day the newest act the text shows took effect; earlier versions are not yet replayed.
 
-The act is in `hemvardsstod/`, one file per section (`paragraf-013.md` is 13 §, the home care allowance for siblings); `rubrik.md` holds its title and enacting words.
+Each act has a folder named by its number (`landskapslag-1997-73/` is the Local Government Act, `landskapsforordning-2026-43/`), one file per section (`paragraf-013.md`, or `kap-02-paragraf-001.md` where sections are numbered afresh in each chapter) and one per annex; `rubrik.md` holds the title.
 
 The text is in Swedish, Åland's official language, as the Statute Book and Ålex print it. An English translation is not part of this record.
 
@@ -52,21 +52,24 @@ Each commit is dated at noon, Europe/Mariehamn, on the day the version took effe
 - for every version, the day the act's own commencement provision in the Statute Book gives ("Denna lag träder i kraft den 1 maj 2026."), which must equal the day Ålex lists for it; no act here takes effect section by section;
 - the day the act was signed is in an `Enacted:` trailer, and transitional or retroactive rules in a commencement provision are copied word for word into `Applies:` trailers (ÅFS 2023/29 lets the allowance for siblings be granted from 1 August 2022).
 
+An act held only as current text is dated the day the newest act Ålex shows for it took effect (the `In-force-basis:` trailer says where the day comes from) and credited to that act.
+
 Each change is credited to the act that made it (`ÅFS 2022/56`, address `afs-2022-56@regeringen.ax.invalid`), and the first version to the original act, `ÅFS 2015/68`; no version is credited to the publisher.
 
 ## How it is checked
 
 - `tools/build.py` commits nothing unless the replayed end state equals the Ålex consolidation (updated to ÅFS 2026/31) in all 30 sections, after the normalisation [`REPRODUCE.md`](REPRODUCE.md) declares; an amending clause it cannot read stops the build.
 - `tools/check_repo.py` reads every version back from git: the last must equal Ålex, file by file and word for word (2,232 words), the first the original act, and each amending act's sections its own text and in-force day.
+- `tools/current.py --verify` reads every other act back from git and compares it with its Ålex page, file by file and word for word, and its author and `In-force:` with the newest act the page shows.
 - `tools/test_repo.py` checks blame, the dated tool before and after an amendment, `git log --follow` and the tags; `tools/build.py --verify-rebuild` builds the record again and must give the same `main` hash. The results are in [`REPRODUCE.md`](REPRODUCE.md).
 - [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
 - **Official earlier versions.** The 6 versions between the original act and the current text are replayed from the amending acts, not checked against an official text.
-- **Every other Åland act**, the Autonomy Act (Självstyrelselag (1991:71) för Åland) among them. Landskapslag (2017:120) om landskapsandelar till kommunerna was left out: three of its amending acts are temporary, and Ålex gives no commencement for a fourth (2018/102).
-- **Decrees (landskapsförordningar), case law, bills and EU law.**
-- **Changes after 28 October 2026**, the day the sources were read.
+- **60 of the texts in Ålex**: where Ålex states no in-force day for the newest act, where the text holds images, where commencement is in the future, and a few the parser could not read word for word. Earlier versions of acts other than the three above.
+- **Case law, bills and EU law.**
+- **Changes after 26 November 2026**, the day Ålex was last read.
 
 ## Sources
 
