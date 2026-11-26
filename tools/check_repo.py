@@ -71,7 +71,7 @@ def main():
     data = B.load_act(cfg, offline=True)
     states, changed_all = B.replay_all(data)
     log = subprocess.run(['git', 'log', '--reverse', '--format=%H%x09%an%x09%(trailers:key=In-force,valueonly,separator=)',
-                          'main'], cwd=repo, capture_output=True, text=True, encoding='utf-8').stdout.splitlines()
+                          'main', '--', folder + '/'], cwd=repo, capture_output=True, text=True, encoding='utf-8').stdout.splitlines()
     law = [l.split('\t') for l in log if l.split('\t')[1] != 'Lexifina']
     ams = data['ams'][:len(law) - 1]
     problems = []
